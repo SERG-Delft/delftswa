@@ -1,0 +1,29 @@
+coursecode: IN4315
+coursetitle: Software Architecture
+title: "IN4315: Software Architecture"
+email: ""
+description: >- # this means to ignore newlines until "baseurl:"
+  The TU Delft MSc course on software architecture.
+baseurl: "" # the subpath of your site, e.g. /blog
+url:           "https://serg-delft.github.io/"
+
+twitter_username: delftswa
+github_username:  avandeursen
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

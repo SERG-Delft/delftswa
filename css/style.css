@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css?family=Bree+Serif');
+@import url('https://fonts.googleapis.com/css?family=Abel');
+
+body {
+	max-width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+
+	font-weight: 300;
+	font-family: "Abel", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 12pt;
+	line-height: 1.75em;
+
+	padding-left: 1em;
+	padding-right: 1em;
+	padding-bottom: 1em;
+}
+
+.imgheader {
+	border-bottom: 10px solid #efefef;
+	border-left: 10px solid #efefef;
+	border-right: 10px solid #efefef;
+}
+
+h1, h2, h3 {
+	font-family: Bree+Serif, serif;
+	clear: both;
+	display: block;
+}
+
+h2 {
+	margin-top: 1em;
+}
+
+/* contact */
+.contact-info {
+	display: block;
+	clear: both;
+}
+
+
+/* schedule */
+
+.schedule {
+	margin-bottom: 1em;
+}
+.schedule-date {
+	font-size: 1em;
+	display: block;
+}
+
+.schedule-topic {
+	font-size: 1.3em;
+}
+
+.schedule-header {
+	background-color: #eaeaea;
+	padding: 0.5em; 
+}
+
+.schedule-header-deadline {
+	background-color: #beffc3;
+	padding: 0.5em;
+}
+
+/* team */
+.team-photo {
+    float: left;
+    margin: 0.3em;
+    padding: 0.3em;
+    border: 1px solid #efefef;
+    text-align: center;
+
+}
+
+.photo {
+	border-radius: 80px;
+	width: 136px;
+	height: 140px;
+	border: 3px solid black;
+}
+
+.photo-less-w {
+	border-radius: 80px;
+	width: 130px;
+	height: 140px;
+	border: 3px solid black;
+}
+
+@media only screen and (max-width: 400px) {
+.photo {
+	border-radius: 80px;
+	width: 75px;
+	height: 75px;
+	border: 3px solid black;
+}
+}
