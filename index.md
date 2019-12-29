@@ -3,6 +3,8 @@ title: "IN4315: Software Architecture -- 2020 Edition"
 layout: tud
 ---
 
+**{{ site.teacher}}, {{ site.year }}**
+
 ## Course Content
 
 This TU Delft graduate (master level) course is concerned with the software architecture of software-intensive systems.
@@ -35,3 +37,19 @@ Students are encouraged to share their essays publicly: To that end, the course 
 
 Furthermore, teams will make actual changes to the systems under study, for example by offering pull requests that resolve currently open issues, or issues that they have discovered themselves. While the changes themselves will typically be fairly small, the process of making these changes will offer the students an opportunity to engage with ("feel") the current architecture of the system.
 
+
+## Course History
+
+The current edition takes place February -- April, 2020.
+
+For earlier years, various resources are available:
+
+- 2019: [Course Description](https://se.ewi.tudelft.nl/delftswa2019/)
+- 2014-2018: Resulting book: _Delft Students on Software Architecture_, DESOSA, editions [2018][desosa2018], [2017][desosa2017], [2016][desosa2016], [2015][desosa2015].
+- 2017: SIGCSE publication describing the course: Arie van Deursen, Maurício Finavaro Aniche, Joop Aué, Rogier Slag, Michael de Jong, Alex Nederlof, Eric Bouwers: A Collaborative Approach to Teaching Software Architecture. SIGCSE 2017: 591-596 ([preprint](https://pure.tudelft.nl/portal/en/publications/a-collaborative-approach-to-teaching-software-architecture(0c7f2aeb-f2d6-4c56-9ab7-5f47f73d133f).html))
+- 2013: Blog post describing the 2013 edition of the course, [Teaching Software Architecture with GitHub!](https://avandeursen.com/2013/12/30/teaching-software-architecture-with-github/)
+
+[desosa2018]: https://pure.tudelft.nl/portal/en/publications/delft-students-on-software-architecture-desosa-2018(f0ae92bb-bbf4-49a7-a8dc-ef52ebc9018c).html
+[desosa2017]: https://pure.tudelft.nl/portal/en/publications/delft-students-on-software-architecture(3066d9da-6f18-4be8-9f2b-c7531c0d02e1).html
+[desosa2016]: https://pure.tudelft.nl/portal/en/publications/delft-students-on-software-architecture(118f82a5-bd18-4a50-a760-b7e3afd9cf26).html
+[desosa2015]: https://delftswa.github.io/
