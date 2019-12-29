@@ -1,5 +1,4 @@
 ---
-title: "IN4315: Software Architecture -- 2020 Edition"
 layout: tud
 ---
 
@@ -31,7 +30,7 @@ There will be 3-4 lectures for each of the three components (practice, theory, r
 
 Since architecture is team work, students will work in teams in this course as well. The team size is four.
 
-Each team will select an open source system (from GitHub or other forges). Teams will conduct an in depth study of the architecture of the system they picked, looking at it from different (theoretical) perspectives. The student findings will be collected in various _essays_, each of around 1,000 words. Each team is expected to deliver four essays. Three of these will be related to the _why_, _how_, and _who_ of the system as highlighted above. The fourth essay can be either a _research_ essay, exploring how one of the research topics discussed in class applies to the system under study, or it can be a topic of choice that is most relevant for the system under study.
+Each team will select an open source system (from GitHub or other forges). Teams will conduct an in depth study of the architecture of the system they picked, looking at it from different (theoretical) perspectives. The student findings will be collected in various _essays_, each of around 1,000 words. Each team is expected to deliver four essays. Three of these will be related to the _what_, _how_, and _who_ of the system as highlighted above. The fourth essay can be either a _research_ essay, exploring how one of the research topics discussed in class applies to the system under study, or it can be a topic of choice that is most relevant for the system under study.
 
 Students are encouraged to share their essays publicly: To that end, the course will offer an on line "book" where student essays will be collected and made available.
 
@@ -40,7 +39,7 @@ Furthermore, teams will make actual changes to the systems under study, for exam
 
 ## Course History
 
-The current edition takes place February -- April, 2020.
+The [current edition takes](2020/index.html) place February -- April, 2020.
 
 For earlier years, various resources are available:
 
