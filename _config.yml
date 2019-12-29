@@ -4,7 +4,7 @@ title: "IN4315: Software Architecture"
 email: ""
 description: >- # this means to ignore newlines until "baseurl:"
   The TU Delft MSc course on software architecture.
-baseurl: "delftswa" # the subpath of your site, e.g. /blog
+# baseurl: "/delftswa" # the subpath of your site, e.g. /blog
 url:           "https://serg-delft.github.io/"
 
 twitter_username: delftswa
