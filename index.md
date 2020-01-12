@@ -52,3 +52,7 @@ For earlier years, various resources are available:
 [desosa2017]: https://pure.tudelft.nl/portal/en/publications/delft-students-on-software-architecture(3066d9da-6f18-4be8-9f2b-c7531c0d02e1).html
 [desosa2016]: https://pure.tudelft.nl/portal/en/publications/delft-students-on-software-architecture(118f82a5-bd18-4a50-a760-b7e3afd9cf26).html
 [desosa2015]: https://delftswa.github.io/
+
+Earlier editions were co-taught with and inspired by a range of people, including Maurício Aniche, Andy Zaidman, Alex Nederlof, Michael de Jong, Eric Bouwers, Rogier Slag, Valentine Mairet, and Sander van den Oever.
+
+
