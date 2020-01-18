@@ -13,13 +13,13 @@ Date | Time | Activity | Teacher | Topic
 |---|---|---|---|
 Wed Feb 12 | 15:45 | Lecture 1 | Arie van Deursen         | Course structure
 Fri Feb 14 | 15:45 | Lecture 2 | Arie van Deursen         | Lean Architecture
-           | 17:00 |           | [Grady Booch], IBM       | AMA
+           | 17:00 |           | [Grady Booch], IBM       | _Ask Me Anything_ session (skype)
 Wed Feb 19 | 15:45 | Lecture 3 | Arie van Deursen         | Architectural Styles
-Fri Feb 21 | 15:45 | Lecture 4 | _tbd_                    | Architecting for Scalability
+Fri Feb 21 | 15:45 | Lecture 4 | [Marco Di Biase], [SIG]  | Architecting for Maintainability
 Wed Feb 26 | 15:45 | Lecture 5 | [Xavier Devroey]         | Architecting for Configurability
 Fri Feb 28 | 15:45 | Lecture 6 | [Ayushi Rastogi]         | Architecting with and for the People
 Wed Mar 4  | 15:45 | Lecture 7 | [Luis Cruz]              | Architecting for Sustainaility
-Fri Mar 6  | 15:45 | Lecture 8 | [Marco Di Biase], [SIG]  | Architecting for Maintainability
+Fri Mar 6  | 15:45 | Lecture 8 | _tbd_                    | Architecting for Scalability 
 Wed Mar 11 | 15:45 | Lecture 9 | _tbd_                    | Architecting for the Enterprise
 Fri Mar 13 | 15:45 | Lecture 10 | _tbd_                   | Architecting for Experimentation
 Wed Mar 18 | 15:45 | Lecture 11 | _tbd_                   | Architecting for Privacy
