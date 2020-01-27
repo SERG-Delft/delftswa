@@ -19,7 +19,7 @@ Fri Feb 21 | 15:45 | Lecture 4 | [Marco Di Biase], [SIG]  | Architecting for Mai
 Wed Feb 26 | 15:45 | Lecture 5 | [Xavier Devroey]         | Architecting for Configurability
 Fri Feb 28 | 15:45 | Lecture 6 | [Ayushi Rastogi]         | Architecting with and for the People
 Wed Mar 4  | 15:45 | Lecture 7 | [Luis Cruz]              | Architecting for Sustainaility
-Fri Mar 6  | 15:45 | Lecture 8 | _tbd_                    | Architecting for Scalability 
+Fri Mar 6  | 15:45 | Lecture 8 | Bert Wolters, [Adyen]    | Architecting for Scalability 
 Wed Mar 11 | 15:45 | Lecture 9 | _tbd_                    | Architecting for the Enterprise
 Fri Mar 13 | 15:45 | Lecture 10 | _tbd_                   | Architecting for Experimentation
 Wed Mar 18 | 15:45 | Lecture 11 | _tbd_                   | Architecting for Privacy
@@ -34,7 +34,23 @@ Fri Apr 3  | full day |  | All student teams | Team presentations
 [xavier devroey]: http://xdevroey.be/
 [ayushi rastogi]: https://ayushirastogi.github.io/
 [luis cruz]: https://luiscruz.github.io/
+[adyen]: https://www.adyen.com/
 
+<!--
+
+### Labwork Assignments
+
+#### Essays
+
+#### Contributions
+
+#### Final Presentation
+
+#### Reviewing
+
+Learning from other teams is an integral part of this course.
+
+-->
 
 ### Deadlines (tentative)
 
@@ -45,3 +61,29 @@ Mon Mar 16 | 17:00 | Team essay 2 | First pull requests made  | 2 x Essay 1
 Mon Mar 23 | 17:00 | Team essay 3 | --                        | 2 x Essay 2
 Mon Mar 30 | 17:00 | Team essay 4 | Pull requests as assessed | 2 x Essay 3
 Mon Apr  6 | 17:00 | --           | --                        | 2 Teams
+
+<!--
+
+### Grades (tentative)
+
+Students will receive grades based on the following:
+
+- `E`: Team performance for each of the four essays (1-10), composed form the average of the four essays E1..E4.
+- `C`: Team performance for code contributions (1-10)
+- `P`: Team performance for final presentation (1-10)
+- `R`: Individual performance in reviewing (-1, 0, 1)
+- `A`: Individual performance in participation (-1, 0, 1)
+
+The _team grade_ is the weighted average of the team activities:
+
+    T = (3*E + C + P)/5
+
+The _individual grade_ is then the team grade to which a bonus is added (or subtracted) for exceptionally (top 10%) strong results.
+
+	I = T + 0.5 * (R + A)
+
+
+-->
+
+
+
