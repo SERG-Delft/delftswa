@@ -20,7 +20,7 @@ Wed Feb 26 | 15:45 | Lecture 5 | [Xavier Devroey]         | Architecting for Con
 Fri Feb 28 | 15:45 | Lecture 6 | [Ayushi Rastogi]         | Architecting with and for the People
 Wed Mar 4  | 15:45 | Lecture 7 | [Luis Cruz]              | Architecting for Sustainaility
 Fri Mar 6  | 15:45 | Lecture 8 | Bert Wolters, [Adyen]    | Architecting for Scalability 
-Wed Mar 11 | 15:45 | Lecture 9 | _tbd_                    | Architecting for the Enterprise
+Wed Mar 11 | 15:45 | Lecture 9 | Ferd Scheepers, [ING]    | Architecting for the Enterprise
 Fri Mar 13 | 15:45 | Lecture 10 | _tbd_                   | Architecting for Experimentation
 Wed Mar 18 | 15:45 | Lecture 11 | _tbd_                   | Architecting for Privacy
 Fri Mar 20 | 15:45 | Lecture 12 | tbd | tbd
@@ -35,6 +35,7 @@ Fri Apr 3  | full day |  | All student teams | Team presentations
 [ayushi rastogi]: https://ayushirastogi.github.io/
 [luis cruz]: https://luiscruz.github.io/
 [adyen]: https://www.adyen.com/
+[ing]: https://www.ing.com
 
 <!--
 
