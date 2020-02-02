@@ -1,13 +1,11 @@
 ---
-title: "2020 Edition"
+title: "Software Architecture in 2020"
 layout: tud
 ---
 
-## {{ page.title }}
+Schedule and material for the 2020 edition of IN4315, the TU Delft [Software Architecture](../index.html) course.
 
-Schedule and material for the 2020 edition of the TU Delft [Software Architecture](../index.html) course.
-
-### Course Schedule (tentative)
+## Course Schedule (tentative)
 
 Date | Time | Activity | Teacher | Topic 
 |---|---|---|---|
@@ -23,6 +21,7 @@ Fri Mar 6  | 15:45 | Lecture 8 | Bert Wolters, [Adyen]    | Architecting for Sca
 Wed Mar 11 | 15:45 | Lecture 9 | Ferd Scheepers, [ING]    | Architecting for the Enterprise
 Fri Mar 13 | 15:45 | Lecture 10 | _tbd_                   | Architecting for Experimentation
 Wed Mar 18 | 15:45 | Lecture 11 | _tbd_                   | Architecting for Privacy
+           | 17:00 |            | [Engin Bozdag], Uber    | _Ask Me Anything_ session (skype)
 Fri Mar 20 | 15:45 | Lecture 12 | tbd | tbd
 Wed Mar 25 | 15:45 | Lecture 13 | tbd | tbd
 Fri Apr 3  | full day |  | All student teams | Team presentations
@@ -36,27 +35,34 @@ Fri Apr 3  | full day |  | All student teams | Team presentations
 [luis cruz]: https://luiscruz.github.io/
 [adyen]: https://www.adyen.com/
 [ing]: https://www.ing.com
+[engin bozdag]: https://www.usenix.org/conference/enigma2020/speaker-or-organizer/engin-bozdag-uber
 
-<!--
 
-### Labwork Assignments
+## Assignment
 
-#### Essays
+Students will work in teams of four.
+Team work includes:
 
-#### Contributions
+1. Selecting an open source system: The system needs to be sufficiently complex, under active development, and open to external contributions.
+2. Writing four essays, covering
+    1. the required capabilities (domain analysis), roadmap, and governance, including a stakeholder analysis.
+    2. architectural decisions made, including system decomposition, tradeoff points, as well as architectural styles and patterns adopted.
+    3. quality control and assessment; and 
+    4. an architectural aspect of choice, based on the lectures or other relevant material specific to the system of choice;
+3. Contributing changes to the open source system selected (via pull requests submitted on GitHub)
+4. Preparing a final poster and presentation
+5. Reviewing work from other teams, to learn from them, and to give them feedback
 
-#### Final Presentation
+The four essays can build upon each other, but should be independently readable. 
+We will collect all essays in an online book, that will emerge throughout the course.
 
-#### Reviewing
 
-Learning from other teams is an integral part of this course.
-
--->
-
-### Deadlines (tentative)
+## Deadlines (tentative)
 
 Date       | Time  | Writing      | Coding                    | Reviewing
 |---|---|---|---|---|
+Mon Feb 17 | 17:00 |              | Teams have selected project
+Wed Feb 19 | 17:00 |              | Teams submit top level components |
 Mon Mar 9  | 17:00 | Team essay 1 | --                        | --
 Mon Mar 16 | 17:00 | Team essay 2 | First pull requests made  | 2 x Essay 1
 Mon Mar 23 | 17:00 | Team essay 3 | --                        | 2 x Essay 2
@@ -65,7 +71,7 @@ Mon Apr  6 | 17:00 | --           | --                        | 2 Teams
 
 <!--
 
-### Grades (tentative)
+## Grades (tentative)
 
 Students will receive grades based on the following:
 

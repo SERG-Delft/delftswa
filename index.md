@@ -1,5 +1,6 @@
 ---
 layout: tud
+title: Software Architecture
 ---
 
 **{{ site.teacher}}, {{ site.year }}**
