@@ -64,10 +64,10 @@ Date       | Time  | Writing      | Coding                    | Reviewing
 Mon Feb 17 | 17:00 |              | Teams have selected project
 Wed Feb 19 | 17:00 |              | Teams submit top level components |
 Mon Mar 9  | 17:00 | Team essay 1 | --                        | --
-Mon Mar 16 | 17:00 | Team essay 2 | First pull requests made  | 2 x Essay 1
-Mon Mar 23 | 17:00 | Team essay 3 | --                        | 2 x Essay 2
-Mon Mar 30 | 17:00 | Team essay 4 | Pull requests as assessed | 2 x Essay 3
-Mon Apr  6 | 17:00 | --           | --                        | 2 Teams
+Mon Mar 16 | 17:00 | Team essay 2 | First pull requests made  | Essay 1
+Mon Mar 23 | 17:00 | Team essay 3 | --                        | Essay 2
+Mon Mar 30 | 17:00 | Team essay 4 | Pull requests as assessed | Essay 3
+Mon Apr  6 | 17:00 | --           | --                        | Essay 4, poster
 
 <!--
 
