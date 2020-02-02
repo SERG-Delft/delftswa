@@ -17,7 +17,7 @@ Our aim is to study _reliable knowledge_ in these areas.
 To that end, we will work with three knowledge sources:
 
 1. **Practice**: Where possible, we will try to learn from actual software systems. To that end, students will engage with the architecture of an open source system. Furthermore, the course will involve 3-4 guest lectures by architects responsible for complex commercial software systems. We also intend to invite 3-4 international architects for a 15 minute _Ask Me Anything_ session over skype, in which they offer answers to questions asked by students of the course.
-2. **Theory**: Good theory is encoded practice. We will study various books, articles, and resources on the web. In particular we will look at Coplien and Bjørnvig's [Lean Architecture][lsa][^coplien]. We will also explore some ideas from Rozanski and Woods' [Views and Perspectives][views][^rozanski] approach to software systems architecture.
+2. **Theory**: Little is as applicable as good theory, which is codified practice. We will study various books, articles, and resources on the web. In particular we will look at Coplien and Bjørnvig's [Lean Architecture][lsa][^coplien]. We will also explore some ideas from Rozanski and Woods' [Views and Perspectives][views][^rozanski] approach to software systems architecture.
 3. **Research**: There is a lot that we do _not_ know about software architecture. In research we explore theories that may be true, or may turn out to be false. As part of the course we will investigate a number of new research findings, to establish whether they make sense.
 
 There will be 3-4 lectures for each of the three components (practice, theory, research).
@@ -40,16 +40,17 @@ Furthermore, teams will make actual changes to the systems under study, for exam
 ## Course Editions and History
 
 - 2020 edition: [Course description for 2020](2020/index.html) (February -- April, 2020).
-- 2019 edition: [Course description](https://se.ewi.tudelft.nl/delftswa2019/)
-- 2017: Publication at ACM SIGCSE describing the course[^sigcse2017]: A Collaborative Approach to Teaching Software Architecture. SIGCSE 2017: 591-596
-- 2013: Blog post describing the 2013 edition of the course[^blog2013], [Teaching Software Architecture with GitHub!](https://avandeursen.com/2013/12/30/teaching-software-architecture-with-github/)
-- 2015-2018: Resulting book: _Delft Students on Software Architecture_, DESOSA, editions 
+- 2015-2019: Resulting book: _Delft Students on Software Architecture_, DESOSA, editions 
     [2015][desosa2015][^desosa2015],
     [2016][desosa2016][^desosa2016], 
     [2017][desosa2017][^desosa2017], 
     [2018][desosa2018][^desosa2018], 
-    (edition 2019 is _under construction_)
+    [2019][desosa2019][^desosa2019]
+- 2017: Publication at ACM SIGCSE describing the course[^sigcse2017]: A Collaborative Approach to Teaching Software Architecture. SIGCSE 2017: 591-596
+- 2013: Blog post describing the 2013 edition of the course[^blog2013], [Teaching Software Architecture with GitHub!](https://avandeursen.com/2013/12/30/teaching-software-architecture-with-github/)
+- 2019 edition: [Course description](https://se.ewi.tudelft.nl/delftswa2019/)
 
+[desosa2019]: https://se.ewi.tudelft.nl/desosa2019/
 [desosa2018]: https://pure.tudelft.nl/portal/en/publications/delft-students-on-software-architecture-desosa-2018(f0ae92bb-bbf4-49a7-a8dc-ef52ebc9018c).html
 [desosa2017]: https://pure.tudelft.nl/portal/en/publications/delft-students-on-software-architecture(3066d9da-6f18-4be8-9f2b-c7531c0d02e1).html
 [desosa2016]: https://pure.tudelft.nl/portal/en/publications/delft-students-on-software-architecture(118f82a5-bd18-4a50-a760-b7e3afd9cf26).html
@@ -74,7 +75,7 @@ Earlier editions were co-taught with and inspired by a range of people, includin
     Delft Students on Software Architecture: DESOSA 2015. TU Delft.
     Available via [github.io](https://delftswa.github.io/).
 
-[^desosa2016]: Arie van Deursen, M. Aniche, Joop Aué (editors).
+[^desosa2016]: Arie van Deursen, Maurício Aniche, Joop Aué (editors).
     Delft Students on Software Architecture: DESOSA 2016. TU Delft.
     Available via
     [gitbook.io](https://delftswa.gitbooks.io/desosa2016/content/),
@@ -82,7 +83,6 @@ Earlier editions were co-taught with and inspired by a range of people, includin
     [pdf](https://pure.tudelft.nl/portal/files/8039977/desosa2016.pdf), 
     [epub](https://pure.tudelft.nl/portal/files/8039979/desosa2016.epub), and
     [doi](https://doi.org/10.5281/zenodo.57924).
-
 
 [^desosa2017]: Arie van Deursen, Andy Zaidman, Maurício Aniche, Valentine Mairet, Sander van den Oever (editors). 
     Delft Students on Software Architecture: DESOSA 2017. TU Delft.
@@ -98,3 +98,12 @@ Earlier editions were co-taught with and inspired by a range of people, includin
     [pure.tudelft.nl](https://pure.tudelft.nl/portal/en/publications/delft-students-on-software-architecture-desosa-2018(f0ae92bb-bbf4-49a7-a8dc-ef52ebc9018c).html),
     [pdf](https://pure.tudelft.nl/portal/files/51257900/desosa_2018.pdf), and
     [epub](https://pure.tudelft.nl/portal/files/51257920/desosa_2018.epub)
+
+[^desosa2019]: Arie van Deursen, Maurício Aniche, Andy Zaidman (editors). 
+    Delft Students on Software Architecture: DESOSA 2019. TU Delft.
+    Available via
+    [se.ewi.tudelft.nl (html)](https://se.ewi.tudelft.nl/desosa2019/),
+    [pure.tudelft.nl](https://pure.tudelft.nl/portal/en/publications/delft-students-on-software-architecture-desosa-2019(56334e89-3f7c-4aa9-9e25-1f3a1fc159a4).html),
+    [pdf](https://se.ewi.tudelft.nl/desosa2019/output/desosa2019.pdf), and
+    [epub](https://se.ewi.tudelft.nl/desosa2019/output/desosa2019.epub)
+
