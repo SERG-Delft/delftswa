@@ -5,6 +5,21 @@ layout: tud
 
 Schedule and material for the 2020 edition of IN4315, the TU Delft [Software Architecture](../index.html) course.
 
+## IN4315 Teaching Team 2020
+
+The 2020 teaching team consists of:
+
+- Arie van Deursen (responsible professor)
+- Casper Boone (Teaching assistent)
+- Andrei Simion-Constantinescu (Teaching assistent)
+- Aggelos Amvrinos (Teaching assistent)
+- Xavier Devroey (co-teacher, variability)
+- Marco Dibiase (co-teacher, quality)
+- Ayushi Rastogi (co-teacher, social aspects)
+- Luis Cruz (co-teacher, green computing)
+
+Furthermore, there will be several lecturers from industry.
+
 ## Course Schedule (tentative)
 
 Date | Time | Activity | Teacher | Topic 
@@ -13,15 +28,15 @@ Wed Feb 12 | 15:45 | Lecture 1 | Arie van Deursen         | Course structure
 Fri Feb 14 | 15:45 | Lecture 2 | Arie van Deursen         | Lean Architecture
            | 17:00 |           | [Grady Booch], IBM       | _Ask Me Anything_ session (skype)
 Wed Feb 19 | 15:45 | Lecture 3 | Arie van Deursen         | Architectural Styles
+           | 17:00 |            | [Engin Bozdag], Uber    | _Ask Me Anything_ session (skype)
 Fri Feb 21 | 15:45 | Lecture 4 | [Xavier Devroey]         | Architecting for Configurability
 Wed Feb 26 | 15:45 | Lecture 5 | [Marco Di Biase], [SIG]  | Architecting for Maintainability
 Fri Feb 28 | 15:45 | Lecture 6 | [Ayushi Rastogi]         | Architecting with and for the People
 Wed Mar 4  | 15:45 | Lecture 7 | [Luis Cruz]              | Architecting for Sustainaility
 Fri Mar 6  | 15:45 | Lecture 8 | Bert Wolters, [Adyen]    | Architecting for Scalability 
 Wed Mar 11 | 15:45 | Lecture 9 | Ferd Scheepers, [ING]    | Architecting for the Enterprise
-Fri Mar 13 | 15:45 | Lecture 10 | _tbd_                   | Architecting for Experimentation
-Wed Mar 18 | 15:45 | Lecture 11 | _tbd_                   | Architecting for Privacy
-           | 17:00 |            | [Engin Bozdag], Uber    | _Ask Me Anything_ session (skype)
+Fri Mar 13 | 15:45 | Lecture 10 | tbd                     | Architecting for Experimentation
+Wed Mar 18 | 15:45 | Lecture 11 | tbd                     | tbd
 Fri Mar 20 | 15:45 | Lecture 12 | tbd | tbd
 Wed Mar 25 | 15:45 | Lecture 13 | tbd | tbd
 Fri Apr 3  | full day |  | All student teams | Team presentations
@@ -43,7 +58,7 @@ Fri Apr 3  | full day |  | All student teams | Team presentations
 Students will work in teams of four.
 Team work includes:
 
-1. Selecting an open source system: The system needs to be sufficiently complex, under active development, and open to external contributions.
+1. [Selecting an open source system](team-work.html): The system needs to be sufficiently complex, under active development, and open to external contributions.
 2. Writing four essays, covering
     1. the required capabilities (domain analysis), roadmap, and governance, including a stakeholder analysis.
     2. architectural decisions made, including system decomposition, tradeoff points, as well as architectural styles and patterns adopted.
