@@ -12,7 +12,7 @@ The 2020 teaching team consists of:
 - Arie van Deursen (responsible professor)
 - Casper Boone (Teaching assistent)
 - Andrei Simion-Constantinescu (Teaching assistent)
-- Aggelos Amvrinos (Teaching assistent)
+- Aggelos Gamvrinos (Teaching assistent)
 - Xavier Devroey (co-teacher, variability)
 - Marco Dibiase (co-teacher, quality)
 - Ayushi Rastogi (co-teacher, social aspects)
