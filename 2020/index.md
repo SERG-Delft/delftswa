@@ -31,7 +31,7 @@ Wed Feb 19 | 15:45 | Lecture 3 | Arie van Deursen         | Architectural Styles
            | 17:00 |            | [Engin Bozdag], Uber    | _Ask Me Anything_ session (skype)
 Fri Feb 21 | 15:45 | Lecture 4 | [Xavier Devroey]         | Architecting for Configurability
 Wed Feb 26 | 15:45 | Lecture 5 | [Marco Di Biase], [SIG]  | Architecting for Maintainability
-Fri Feb 28 | 15:45 | Lecture 6 | [Ayushi Rastogi]         | Architecting with and for the People
+Fri Feb 28 | 15:45 | Lecture 6 | [Ayushi Rastogi]         | Architecting as a Team Activity
 Wed Mar 4  | 15:45 | Lecture 7 | [Luis Cruz]              | Architecting for Sustainaility
 Fri Mar 6  | 15:45 | Lecture 8 | Bert Wolters, [Adyen]    | Architecting for Scalability 
 Wed Mar 11 | 15:45 | Lecture 9 | Ferd Scheepers, [ING]    | Architecting for the Enterprise
@@ -77,11 +77,11 @@ We will collect all essays in an online book, that will emerge throughout the co
 Date       | Time  | Writing      | Coding                    | Reviewing
 |---|---|---|---|---|
 Mon Feb 17 | 17:00 |              | Teams have selected project
-Wed Feb 19 | 17:00 |              | Teams submit top level components |
+Wed Feb 19 | 17:00 |              | Top-level decomposition   |
 Mon Mar 9  | 17:00 | Team essay 1 | --                        | --
-Mon Mar 16 | 17:00 | Team essay 2 | First pull requests made  | Essay 1
+Mon Mar 16 | 17:00 | Team essay 2 | First pull requests and plan  | Essay 1
 Mon Mar 23 | 17:00 | Team essay 3 | --                        | Essay 2
-Mon Mar 30 | 17:00 | Team essay 4 | Pull requests as assessed | Essay 3
+Mon Mar 30 | 17:00 | Team essay 4 | Pull request report       | Essay 3
 Mon Apr  6 | 17:00 | --           | --                        | Essay 4, poster
 
 <!--
