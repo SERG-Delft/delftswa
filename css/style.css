@@ -111,3 +111,14 @@ th {
     background-color: #00A6D6;
     color: white;
 }
+
+/* Quotes */
+
+blockquote {
+  font-style: italic;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 50px;
+  padding-left: 15px;
+  border-left: 3px solid #ccc;
+} 
