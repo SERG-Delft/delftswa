@@ -94,7 +94,7 @@ Your essays will be evaluated based on the following:
 
 The intended audience for the essays consists of computer science students or software engineers, interested in learning about architectural aspects of your open source project.
 
-We will offer a publicly visible blog roll through which teams can publish their essays. Different from previous years, we will publish the essays throughout the course (and not just all at once after the course). We will use the blog roll to engage with and share our work with the open source community. Published essays (blog posts) will carry a [CC BY-SA 4.0] license, allowing the open source projects to include the resulting posts in their own documentation.
+We will offer a publicly visible blog through which teams can publish their essays. Different from previous years, we will publish the essays throughout the course (and not just all at once after the course). We will use the blog to engage with and share our work with the open source community. Published essays (blog posts) will carry a [CC BY-SA 4.0] license, allowing the open source projects to include the resulting posts in their own documentation.
 
 [Dan Heller]: https://medium.com/@daniel.heller/ten-principles-for-growth-69015e08c35b
 [cc by-sa 4.0]: https://creativecommons.org/licenses/by-sa/4.0/legalcode
