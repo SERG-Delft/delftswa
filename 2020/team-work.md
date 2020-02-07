@@ -1,5 +1,5 @@
 ---
-title: "Team Work and Project Selection"
+title: "Assignment"
 layout: tud
 ---
 
@@ -50,7 +50,7 @@ Follow all good software development practices in this repository, such as using
 
 
 
-### Invidivual Journals
+## Invidivual Journals
 
 You will have considerable freedom in this course. Nevertheless, a _steady heartbeat is required_, and you are accountable for how you spend your time.
 
@@ -70,3 +70,31 @@ For each week, also include _the number of hours  you spent that week on the sof
 
 
 [tagging]: http://git-scm.com/book/en/Git-Basics-Tagging
+
+
+## Essays
+
+Strong writing skills are an invaluable asset for an architect. To quote [Dan Heller] in his "Ten Principles for Growth as an Engineer":
+
+> Crisp technical writing eases collaboration and greatly improves your ability to persuade, inform, and teach.
+
+Therefore, we will use this course to train and improve our writing skills.
+
+Each team will write four essays. Each essay should be around 1000-1500 words. After 1500 words teachers (or any reader, in fact), reserve the right to stop reading, which may affect your grade. We'll be counting words simply by running the Unix `wc` word count tool on your `.md` markdown files.
+
+Your essays will be evaluated based on the following:
+
+1. The text is well-structured, with a clear goal, a natural breakdown in sections, and a compelling conclusion.
+2. Sentences, paragraphs, and sections are coherent. They naturally build upon each other and work towards a clear message. 
+3. The arguments laid out are technically sound, and of adequate technical depth.
+4. The English writing is grammatically correct
+5. The text clearly references any sources it builds upon
+6. The essay is unique and recognizable in its voice and its way of approaching the topic
+7. The essay is independently readable
+
+The intended audience for the essays consists of computer science students or software engineers, interested in learning about architectural aspects of your open source project.
+
+We will offer a publicly visible blog roll through which teams can publish their essays. Different from previous years, we will publish the essays throughout the course (and not just all at once after the course). We will use the blog roll to engage with and share our work with the open source community. Published essays (blog posts) will carry a [CC BY-SA 4.0] license, allowing the open source projects to include the resulting posts in their own documentation.
+
+[Dan Heller]: https://medium.com/@daniel.heller/ten-principles-for-growth-69015e08c35b
+[cc by-sa 4.0]: https://creativecommons.org/licenses/by-sa/4.0/legalcode

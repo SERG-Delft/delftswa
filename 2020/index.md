@@ -58,8 +58,8 @@ Fri Apr 3  | full day |  | All student teams | Team presentations
 Students will work in teams of four.
 Team work includes:
 
-1. [Selecting an open source system](team-work.html): The system needs to be sufficiently complex, under active development, and open to external contributions.
-2. Writing four essays, covering
+1. [Selecting an open source system](team-work.html#team-formation): The system needs to be sufficiently complex, under active development, and open to external contributions.
+2. Writing four [essays](team-work.html#essays), covering
     1. the required capabilities (domain analysis), roadmap, and governance, including a stakeholder analysis.
     2. architectural decisions made, including system decomposition, tradeoff points, as well as architectural styles and patterns adopted.
     3. quality control and assessment; and 
