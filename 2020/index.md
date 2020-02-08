@@ -55,15 +55,15 @@ Fri Apr 3  | full day |  | All student teams | Team presentations
 
 ## Assignment
 
-Students will work in teams of four.
+Students will work in [teams](assignment.html#team-formation) of four.
 Team work includes:
 
-1. [Selecting an open source system](assignment.html#team-formation): The system needs to be sufficiently complex, under active development, and open to external contributions.
+1. [Selecting an open source system](assignment.html#picking): The system needs to be sufficiently complex, under active development, and open to external contributions.
 2. Writing four [essays](assignment.html#essays), covering
-    1. the required capabilities (domain analysis), roadmap, and governance, including a stakeholder analysis.
+    1. the product [vision](assignment.html#vision), including required capabilities, roadmap, product context, and stakeholder analysis.
     2. architectural decisions made, including system decomposition, tradeoff points, as well as architectural styles and patterns adopted.
     3. quality control and assessment; and 
-    4. an architectural aspect of choice, based on the lectures or other relevant material specific to the system of choice;
+    4. a [deeper analysis](assignment.html#deepening) based on the lectures or other relevant material specific to the system of choice;
 3. Contributing changes to the open source system selected (via pull requests submitted on GitHub)
 4. Preparing a final poster and presentation
 5. Reviewing work from other teams, to learn from them, and to give them feedback

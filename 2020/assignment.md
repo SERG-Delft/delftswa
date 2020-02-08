@@ -16,6 +16,7 @@ If you are looking for partners, you can post a message on our Brightspace forum
 [brightspace]: https://brightspace.tudelft.nl/d2l/home/197146
 [partners]: https://brightspace.tudelft.nl/d2l/le/197146/discussions/topics/30294/View
 
+<a id="picking"></a>
 
 ## Picking a Project
 
@@ -91,6 +92,7 @@ Your essays will be evaluated based on the following:
 5. The text clearly references any sources it builds upon
 6. The essay is unique and recognizable in its voice and its way of approaching the topic
 7. The essay is independently readable
+8. The story-line is illustrated with meaningful and appealing images and infographics.
 
 The intended audience for the essays consists of computer science students or software engineers, interested in learning about architectural aspects of your open source project.
 
@@ -98,6 +100,42 @@ We will offer a publicly visible blog through which teams can publish their essa
 
 [Dan Heller]: https://medium.com/@daniel.heller/ten-principles-for-growth-69015e08c35b
 [cc by-sa 4.0]: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+<a id="vision"></a>
+
+## Essay 1: The Product Vision
+
+The starting point for your architectural analysis is a description of the _vision_ underlying your project and its future success. 
+Aspects to take into account include:
+
+1. A concise, inspriational characterization of what the project aims to achieve
+2. A description of the end-user mental model that central to the system
+3. A characterization of the key capabilities and properties the system should provide
+4. An analysis of the stakeholders involved in the project, and how the resulting system is beneficial to them
+5. A description of the current and future context in which the system operates
+6. A product roadmap, laying out the main future directions anticipated for the upcoming years
+
+It may be the case that some of these aspects do not naturally match your open source system under investigation. In that case, say so explicitly, and explain why you think this is the case in your essay. Instead offer a deeper analysis of other relevant aspects.
+
+Relevant literature for this essay includes _Lean Architecture_ [^coplien], Chapters 2 (end-user mental model), 3 (stakeholder analysis), and 4 (problem definition).
+
+## Essay 2: From Vision to Architecture
+
+_Details will follow_
+
+## Essay 3: The Code-Level Perspective
+
+_Details will follow_
+
+<a id="deepening"></a>
+## Essay 4: Deepening your Analysis
+
+Your team's final essay serves to deepen your analyis, and can be on one of the following topics:
+
+1. Configurability analysis, based on the  lecture by Xavier Devroey (details will follow)
+2. Collaboration analysis, based on the  lecture by Ayushi Rastogi (details will follow)
+3. Sustainability analysis, based on the  lecture by Luís Cruz (details will follow)
+4. A topic of choice, specific to your project. If you pick this option, consult the teachers first with a short proposal (a few sentences) explaining what you'd like to investigate, and how this is relevant to your project.
 
 
 ## Markdown
@@ -118,7 +156,10 @@ To ensure consistency, please adopt the following guidelines:
       where X is the reference identifier. This can be cited using `[^X]`.
       The citations will appear as footnote numbers, and the actual references will appear at the end of the document.
 
-3. When using images, do not use online links. Instead store them locally to your project in an **“images/my-project-name”** directory.
+3. When using images, do not use online links. Instead store them locally to your project in an **“images/my-project-name”** directory. Avoid HTML `<img/>` tags, but use markdown syntax instead:
+
+        ![](images/my-impage.jpg)  
+        *Caption describing the image*
 
 4. Do **not** use SVGs for your images 
 
@@ -133,3 +174,14 @@ To ensure consistency, please adopt the following guidelines:
         ## Conclusion
 
 7. Ensure pandoc is able to produce proper **pdf** and **epub** from your index file.
+
+
+## References
+
+[lsa]: http://www.leansoftwarearchitecture.com/
+[views]: https://www.viewpoints-and-perspectives.info/
+
+[^coplien]: Jim Coplien Gertrud Bjørnvig. [Lean Architecture][lsa] for Agile Software Development. Wiley, 2010.
+
+
+
