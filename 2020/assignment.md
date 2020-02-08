@@ -98,3 +98,38 @@ We will offer a publicly visible blog through which teams can publish their essa
 
 [Dan Heller]: https://medium.com/@daniel.heller/ten-principles-for-growth-69015e08c35b
 [cc by-sa 4.0]: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+
+## Markdown
+
+We'll be using markdown for all documents. We will use markdown to combine documents from different teams, and to produce outputs in different formats:
+
+- We'll use `jekyll` to create the online blog
+- We'll use `pandoc` to generate `pdf` and `epub`, to produce an e-book version of the collection of essays.
+
+To ensure consistency, please adopt the following guidelines:
+
+1. Avoid the use of pure HTML elements. For instance, instead of `<table>…</table>` for the creation of a table, use the respective Markdown table syntax.
+
+2. Use the following format for the references: 
+      
+        [^X]: John Doe, …. Lorem ipsum dolor
+
+      where X is the reference identifier. This can be cited using `[^X]`.
+      The citations will appear as footnote numbers, and the actual references will appear at the end of the document.
+
+3. When using images, do not use online links. Instead store them locally to your project in an **“images/my-project-name”** directory.
+
+4. Do **not** use SVGs for your images 
+
+5. Ensure there is a **blank line** before and after every (sub)section, every itemize and every image insertion statement.
+
+6. Only one `#` level header should be used and that is for the project’s name. `##`, `###` etc should be used for the rest of the sections (e.g. 
+
+        # React 
+
+        ## Introduction 
+
+        ## Conclusion
+
+7. Ensure pandoc is able to produce proper **pdf** and **epub** from your index file.
