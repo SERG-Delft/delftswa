@@ -143,11 +143,11 @@ Your team's final essay serves to deepen your analyis, and can be on one of the 
 We'll be using markdown for all documents. We will use markdown to combine documents from different teams, and to produce outputs in different formats:
 
 - We'll use `jekyll` to create the online blog
-- We'll use `pandoc` to generate `pdf` and `epub`, to produce an e-book version of the collection of essays.
+- We'll use `pandoc` [^pandoc] to generate `pdf` and `epub`, to produce an e-book version of the collection of essays.
 
 To ensure consistency, please adopt the following guidelines:
 
-1. Avoid the use of pure HTML elements. For instance, instead of `<table>…</table>` for the creation of a table, use the respective Markdown table syntax.
+1. Avoid the use of pure HTML elements. For instance, instead of `<table>…</table>` for the creation of a table, use the relevant Markdown table syntax [^pandoc].
 
 2. Use the following format for the references: 
       
@@ -180,8 +180,9 @@ To ensure consistency, please adopt the following guidelines:
 
 [lsa]: http://www.leansoftwarearchitecture.com/
 [views]: https://www.viewpoints-and-perspectives.info/
+[pandocurl]: https://pandoc.org/MANUAL.html
 
 [^coplien]: Jim Coplien Gertrud Bjørnvig. [Lean Architecture][lsa] for Agile Software Development. Wiley, 2010.
-
+[^pandoc]: Pandoc User’s Guide. [https://pandoc.org/MANUAL.html][pandocurl]
 
 
