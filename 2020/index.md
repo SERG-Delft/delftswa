@@ -42,6 +42,11 @@ Wed Mar 25 | 15:45 | Lecture 13 | tbd | tbd
 Fri Apr 3  | full day |  | All student teams | Team presentations
            | 17:00 | Drinks | Everyone 
 
+### Lecture rooms:
+
+- Wednesday lectures: Room Chip, EWI-36.
+- Friday lectures: Room Pi, EWI-36
+
 [sig]: https://www.softwareimprovementgroup.com/
 [grady booch]: https://en.wikipedia.org/wiki/Grady_Booch
 [marco di biase]: https://mardibiase.github.io/
