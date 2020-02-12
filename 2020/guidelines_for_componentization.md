@@ -69,4 +69,4 @@ components:
 Take into account indentation and use meaningful names for the components.
 
 ## Where to I deliver the system components?
-Write a yaml file using the project name as a filename, and put it in your GitLab project folder.
+Write a yaml file using the project name as a filename, and put it in your GitLab through a pull request.
