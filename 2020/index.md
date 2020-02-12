@@ -20,7 +20,7 @@ The 2020 teaching team consists of:
 
 Furthermore, there will be several lecturers from industry.
 
-## Course Schedule (tentative)
+## Course Schedule
 
 Date | Time | Activity | Teacher | Topic 
 |---|---|---|---|
@@ -78,7 +78,7 @@ The four essays can build upon each other, but should be independently readable.
 We will collect all essays in an online book, that will emerge throughout the course.
 
 
-## Deadlines (tentative)
+## Deadlines
 
 Date       | Time  | Writing      | Coding                    | Reviewing
 |---|---|---|---|---|
@@ -90,28 +90,25 @@ Mon Mar 23 | 17:00 | Team essay 3 | --                        | Essay 2
 Mon Mar 30 | 17:00 | Team essay 4 | Pull request report       | Essay 3
 Mon Apr  6 | 17:00 | --           | --                        | Essay 4, poster
 
-<!--
 
-## Grades (tentative)
+## Grades
 
 Students will receive grades based on the following:
 
 - `E`: Team performance for each of the four essays (1-10), composed form the average of the four essays E1..E4.
 - `C`: Team performance for code contributions (1-10)
-- `P`: Team performance for final presentation (1-10)
-- `R`: Individual performance in reviewing (-1, 0, 1)
+- `P`: Team performance for poster presentation (1-10)
+- `R`: Individual performance in each of the reviews (-1, 0, 1)
 - `A`: Individual performance in participation (-1, 0, 1)
 
 The _team grade_ is the weighted average of the team activities:
 
     T = (3*E + C + P)/5
 
-The _individual grade_ is then the team grade to which a bonus is added (or subtracted) for exceptionally (top 10%) strong results.
+The _individual grade_ then is the team grade to which a bonus is added (or subtracted) for exceptionally (top 10%) strong results.
 
 	I = T + 0.5 * (R + A)
 
-
--->
 
 
 
