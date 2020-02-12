@@ -27,7 +27,7 @@ folder `youtube-dl` itself (but not the code inside the other three subfolders).
 Yes. Mostly, you need to exclude all folders that have code imported and used
 by the project itself from external libraries. These folders usually have names like `libs`, or
 for certain languages/framework have more specific names (i.e. if your project is using node,
-probably there will be folder node_modules).
+probably there will be folder `node_modules`).
 This code is, in fact, not being written by the developers thus falls out of our scope.
 Furthermore, some project have configuration files like xml, json, yaml, etc that again
 fall out of the scope for this project. You want to comprise only code actively written
@@ -52,6 +52,7 @@ the guidelines written to contribute to the project include also some
 information regarding the architecture and componentization. Double check 
 if the documentation is up-to-date and aligns with your findings.
 If you are really struggling, come and ask a question in Mattermost, channel #system-components
+
 I suggest you to join anyways, so that you can learn from help that we will provide
 to other project members. At the same time, some other colleague of yours might help you directly.
 
@@ -70,3 +71,4 @@ Take into account indentation and use meaningful names for the components.
 
 ## Where to I deliver the system components?
 Write a yaml file using the project name as a filename, and put it in your GitLab through a pull request.
+Going back to the youtube-dl example, that would look like `youtube-dl.yaml`.
