@@ -6,6 +6,7 @@ title: Suggest projects
 Here a list of suggested projects (thanks to Ayushi Rastogi):
 
 | **Project** | **GitHub URL** |
+| CURL | https://github.com/curl/curl |
 | Ripple | https://github.com/ripple/rippled |
 | Flink | https://github.com/apache/flink |
 | EvoSuite | https://github.com/EvoSuite/evosuite |
@@ -28,7 +29,6 @@ Here a list of suggested projects (thanks to Ayushi Rastogi):
 | symfony | https://github.com/symfony/symfony |
 | wordpress calypso | https://github.com/Automattic/wp-calypso |
 | odoo | https://github.com/odoo  |
-| Cataclysm-DDA | https://github.com/CleverRaven/Cataclysm-DDA |
 | joomla-cms | https://github.com/joomla/joomla-cms |
 | cocos2d-x | https://github.com/cocos2d/cocos2d-x |
 | Laravel | https://github.com/laravel/framework |
