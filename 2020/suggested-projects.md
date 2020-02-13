@@ -6,6 +6,7 @@ title: Suggested projects
 Below is a list of suggested projects. We also have a [longer list](top200projects.html) of large project queried from GHTorrent by Ayusho Rastogi.
 
 | **Project** | **GitHub URL** |
+| Egeria (ING) | https://www.odpi.org/projects/egeria |
 | CURL | https://github.com/curl/curl |
 | Ripple | https://github.com/ripple/rippled |
 | Flink | https://github.com/apache/flink |
