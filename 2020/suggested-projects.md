@@ -1,9 +1,9 @@
 ---
 layout: tud
-title: Suggest projects
+title: Suggested projects
 ---
 
-Here a list of suggested projects (thanks to Ayushi Rastogi):
+Below is a list of suggested projects. We also have a [longer list](top200projects.html) of large project queried from GHTorrent by Ayusho Rastogi.
 
 | **Project** | **GitHub URL** |
 | CURL | https://github.com/curl/curl |
@@ -42,4 +42,4 @@ Here a list of suggested projects (thanks to Ayushi Rastogi):
 | mule | https://github.com/mulesoft/mule |
 | juju | https://github.com/juju/juju |
 | hifi | https://github.com/highfidelity/hifi |
-| okuna | https://github.com/OkunaOrg/okuna-app |
+| okuna | https://github.com/OkunaOrg/okuna-api |
