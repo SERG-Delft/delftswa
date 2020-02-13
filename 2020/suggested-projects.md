@@ -15,7 +15,6 @@ Below is a list of suggested projects. We also have a [longer list](top200projec
 | MyPy | https://github.com/python/mypy |
 | Storybook | https://github.com/storybooks/storybook |
 | liferay-portal | https://github.com/liferay/liferay-portal |
-| kubernetes | https://github.com/kubernetes/kubernetes |
 | salt | https://github.com/saltstack/salt |
 | ansible | https://github.com/ansible/ansible |
 | ceph | https://github.com/ceph/ceph |
