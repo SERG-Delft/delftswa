@@ -24,7 +24,7 @@ Furthermore, there will be several lecturers from industry.
 
 Date | Time | Activity | Teacher | Topic 
 |---|---|---|---|
-Wed Feb 12 | 15:45 | Lecture 1 | Arie van Deursen         | Course structure
+Wed Feb 12 | 15:45 | Lecture 1 | Arie van Deursen         | Course structure ([slides](slides/in4315-intro.pdf))
 Fri Feb 14 | 15:45 | Lecture 2 | Arie van Deursen         | Lean Architecture
            | 17:00 |           | [Grady Booch], IBM       | _Ask Me Anything_ session (skype)
 Wed Feb 19 | 15:45 | Lecture 3 | Arie van Deursen         | Architectural Styles
