@@ -14,7 +14,7 @@ The 2020 teaching team consists of:
 - Andrei Simion-Constantinescu (Teaching assistent)
 - Aggelos Gamvrinos (Teaching assistent)
 - Xavier Devroey (co-teacher, variability)
-- Marco Dibiase (co-teacher, quality)
+- Marco Di Biase (co-teacher, quality)
 - Ayushi Rastogi (co-teacher, social aspects)
 - Luis Cruz (co-teacher, green computing)
 
@@ -83,7 +83,7 @@ We will collect all essays in an online book, that will emerge throughout the co
 Date       | Time  | Writing      | Coding                    | Reviewing
 |---|---|---|---|---|
 Mon Feb 17 | 17:00 |              | Teams have selected project
-Wed Feb 19 | 17:00 |              | Top-level decomposition   |
+Wed Feb 19 | 17:00 |              | [Top-level decomposition](guidelines_for_componentization.html)   |
 Mon Mar 9  | 17:00 | Team essay 1 | --                        | --
 Mon Mar 16 | 17:00 | Team essay 2 | First pull requests and plan  | Essay 1
 Mon Mar 23 | 17:00 | Team essay 3 | --                        | Essay 2
