@@ -37,7 +37,6 @@ Below is a list of suggested projects. We also have a [longer list](top200projec
 | openshift | https://github.com/openshift/origin |
 | bitcoin | https://github.com/bitcoin/bitcoin |
 | mono | https://github.com/mono/mono |
-| react | https://github.com/facebook/react |
 | ravendb | https://github.com/ravendb/ravendb |
 | mule | https://github.com/mulesoft/mule |
 | juju | https://github.com/juju/juju |
