@@ -25,9 +25,9 @@ Furthermore, there will be several lecturers from industry.
 Date | Time | Activity | Teacher | Topic 
 |---|---|---|---|
 Wed Feb 12 | 15:45 | Lecture 1 | Arie van Deursen         | Course structure ([slides](slides/in4315-intro.pdf))
-Fri Feb 14 | 15:45 | Lecture 2 | Arie van Deursen         | Lean Architecture
+Fri Feb 14 | 15:45 | Lecture 2 | Arie van Deursen         | Lean Architecture I
            | 17:00 |           | [Grady Booch], IBM       | _Ask Me Anything_ session (skype)
-Wed Feb 19 | 15:45 | Lecture 3 | Arie van Deursen         | Architectural Styles
+Wed Feb 19 | 15:45 | Lecture 3 | Arie van Deursen         | Lean Architecture II
            | 17:00 |            | [Engin Bozdag], Uber    | _Ask Me Anything_ session (skype)
 Fri Feb 21 | 15:45 | Lecture 4 | [Xavier Devroey]         | Architecting for Configurability
 Wed Feb 26 | 15:45 | Lecture 5 | [Marco Di Biase], [SIG]  | Architecting for Maintainability
@@ -98,14 +98,14 @@ Students will receive grades based on the following:
 - `E`: Team performance for each of the four essays (1-10), composed form the average of the four essays E1..E4.
 - `C`: Team performance for code contributions (1-10)
 - `P`: Team performance for poster presentation (1-10)
-- `R`: Individual performance in each of the reviews (-1, 0, 1)
-- `A`: Individual performance in participation (-1, 0, 1)
+- `R`: Individual performance in per review reviews (-1, 0, 1) -- zero by default
+- `A`: Individual performance in participation (-1, 0, 1) -- zero by default
 
 The _team grade_ is the weighted average of the team activities:
 
     T = (3*E + C + P)/5
 
-The _individual grade_ then is the team grade to which a bonus is added (or subtracted) for exceptionally (top 10%) strong results.
+The _individual grade_ then is the team grade to which a bonus can be added (or subtracted) for exceptionally (top/bottom X%) strong results.
 
 	I = T + 0.5 * (R + A)
 
