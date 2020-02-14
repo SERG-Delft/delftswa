@@ -7,7 +7,7 @@ title: Software Architecture
 
 ## Course Content
 
-This TU Delft graduate (master level) course is concerned with the software architecture of software-intensive systems.
+This TU Delft graduate (master level, see current [2020](2020/index.html) edition) course is concerned with the software architecture of software-intensive systems.
 This relates to:
 
 1. **What** the software should do, now and in the future, and how it is to interact with its environment. Here we will look at the problem domain, natural ways to decompose and understand the problem domain, the desired capabilities of the system, required properties (such as privacy, usability, scalability, security, or maintainability) of the system, the context in which the system will operate, and the stakeholders that have an interest in the system.
