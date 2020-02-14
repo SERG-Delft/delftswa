@@ -26,9 +26,9 @@ Date | Time | Activity | Teacher | Topic
 |---|---|---|---|
 Wed Feb 12 | 15:45 | Lecture 1 | Arie van Deursen         | Course structure ([slides](slides/in4315-intro.pdf))
 Fri Feb 14 | 15:45 | Lecture 2 | Arie van Deursen         | Lean Architecture I
-           | 17:00 |           | [Grady Booch], IBM       | _Ask Me Anything_ session (skype)
+           | 17:00 |           | [Grady Booch], IBM       | _Ask Me Anything_ on [SATURN 2016](https://www.youtube.com/watch?v=RJ3v5cSNcB8) keynote
 Wed Feb 19 | 15:45 | Lecture 3 | Arie van Deursen         | Lean Architecture II
-           | 17:00 |            | [Engin Bozdag], Uber    | _Ask Me Anything_ session (skype)
+           | 17:00 |            | [Engin Bozdag], Uber    | _Ask Me Anything_; privacy by design ([slides](https://www.usenix.org/sites/default/files/conference/protected-files/enigma2020_slides_bozdag.pdf))
 Fri Feb 21 | 15:45 | Lecture 4 | [Xavier Devroey]         | Architecting for Configurability
 Wed Feb 26 | 15:45 | Lecture 5 | [Marco Di Biase], [SIG]  | Architecting for Maintainability
 Fri Feb 28 | 15:45 | Lecture 6 | [Ayushi Rastogi]         | Architecting as a Team Activity
