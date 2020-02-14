@@ -35,7 +35,7 @@ Fri Feb 28 | 15:45 | Lecture 6 | [Ayushi Rastogi]         | Architecting as a Te
 Wed Mar 4  | 15:45 | Lecture 7 | [Luis Cruz]              | Architecting for Sustainaility
 Fri Mar 6  | 15:45 | Lecture 8 | Bert Wolters, [Adyen]    | Architecting for Scalability 
 Wed Mar 11 | 15:45 | Lecture 9 | Ferd Scheepers, [ING]    | Architecting for the Enterprise
-Fri Mar 13 | 15:45 | Lecture 10 | tbd                     | tbd
+Fri Mar 13 | 15:45 | Lecture 10 | [Steffan Norberhuis][norberhuis]      | Architecting for Operations
 Wed Mar 18 | 15:45 | Lecture 11 | tbd                     | tbd
 Fri Mar 20 | 15:45 | Lecture 12 | [Daniel Gebler], [Picnic] | Architecting with or wihout Microservices
 Wed Mar 25 | 15:45 | Lecture 13 | tbd | tbd
@@ -58,6 +58,7 @@ Fri Apr 3  | full day |  | All student teams | Team presentations
 [engin bozdag]: https://www.usenix.org/conference/enigma2020/speaker-or-organizer/engin-bozdag-uber
 [daniel gebler]: https://twitter.com/daniel_gebler
 [picnic]: https://www.picnic.app/nl/
+[norberhuis]: https://www.norberhuis.nl/
 
 ## Assignment
 
