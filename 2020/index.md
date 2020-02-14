@@ -45,7 +45,7 @@ Fri Apr 3  | full day |  | All student teams | Team presentations
 ### Lecture rooms:
 
 - Wednesday lectures: Room Chip, EWI-36.
-- Friday lectures: Room Pi, EWI-36
+- Friday lectures: CT-CZ-E (14/2), Room Pi, EWI-36
 
 [sig]: https://www.softwareimprovementgroup.com/
 [grady booch]: https://en.wikipedia.org/wiki/Grady_Booch
@@ -106,7 +106,7 @@ The _team grade_ is the weighted average of the team activities:
 
     T = (3*E + C + P)/5
 
-The _individual grade_ then is the team grade to which a bonus can be added (or subtracted) for exceptionally (top/bottom X%) strong results.
+The _individual grade_ then is the team grade to which a bonus can be added (or subtracted) for exceptional (top/bottom X%) results.
 
 	I = T + 0.5 * (R + A)
 

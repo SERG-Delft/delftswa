@@ -108,8 +108,8 @@ We will offer a publicly visible blog through which teams can publish their essa
 The starting point for your architectural analysis is a description of the _vision_ underlying your project and its future success. 
 Aspects to take into account include:
 
-1. A concise, inspriational characterization of what the project aims to achieve
-2. A description of the end-user mental model that central to the system
+1. A concise, inspirational characterization of what the project aims to achieve
+2. A description of the end-user mental model that is central to the system
 3. A characterization of the key capabilities and properties the system should provide
 4. An analysis of the stakeholders involved in the project, and how the resulting system is beneficial to them
 5. A description of the current and future context in which the system operates
