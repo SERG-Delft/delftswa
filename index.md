@@ -34,6 +34,7 @@ Since architecture is team work, students will work in teams in this course as w
 Each team will select an open source system (from GitHub or other forges). Teams will conduct an in depth study of the architecture of the system they picked, looking at it from different (theoretical) perspectives. The student findings will be collected in various _essays_, each of around 1,000 words. Each team is expected to deliver four essays. Three of these will be related to the _what_, _how_, and _who_ of the system as highlighted above. The fourth essay can be either a _research_ essay, exploring how one of the research topics discussed in class applies to the system under study, or it can be a topic of choice that is most relevant for the system under study.
 
 Students are encouraged to share their essays publicly: To that end, the course will offer an on line "book" where student essays will be collected and made available, under the overarching title _Delft Students on Software Architecture_ (DESOSA).
+This book series was inspired by Brown and Wilson's _Architecture of Open Source Applications_ (AOSA) [^aosa2012], in which architects themselves explain the history and roadmaps of software applications, and the architecctural decisions made to realize these.
 
 Furthermore, teams will make actual changes to the systems under study, for example by offering pull requests that resolve currently open issues, or issues that they have discovered themselves. While the changes themselves will typically be fairly small, the process of making these changes will offer the students an opportunity to engage with ("feel") the current architecture of the system.
 
@@ -56,6 +57,7 @@ Furthermore, teams will make actual changes to the systems under study, for exam
 [desosa2017]: https://pure.tudelft.nl/portal/en/publications/delft-students-on-software-architecture(3066d9da-6f18-4be8-9f2b-c7531c0d02e1).html
 [desosa2016]: https://pure.tudelft.nl/portal/en/publications/delft-students-on-software-architecture(118f82a5-bd18-4a50-a760-b7e3afd9cf26).html
 [desosa2015]: https://delftswa.github.io/
+[aosabook]: http://aosabook.org/en/index.html
 
 Earlier editions were co-taught with and inspired by a range of people, including Maurício Aniche, Andy Zaidman, Alex Nederlof, Michael de Jong, Eric Bouwers, Rogier Slag, Valentine Mairet, and Sander van den Oever.
 
@@ -66,7 +68,7 @@ Earlier editions were co-taught with and inspired by a range of people, includin
 
 [^blog2013]: Arie van Deursen, Alex Nederlof, and Eric Bouwers. Teaching Software Architecture: with GitHub! [avandeursen.com](https://avandeursen.com/2013/12/30/teaching-software-architecture-with-github/), December 2013.
 
-[^aosa2012]: Amy Brown and Greg Wilson (editors). The Architecture of Open Source Applications. Volumes 1-2, 2012.
+[^aosa2012]: Amy Brown and Greg Wilson (editors). The Architecture of Open Source Applications. Volumes 1-2, 2012. [aosabook.org][aosabook].
 
 [^rozanski]: Nick Rozanski and Eoin Woods. [Software Systems Architecture: Working with Stakeholders Using Viewpoints and Perspectives][views]. Addison-Wesley, 2012, 2nd edition.
 
