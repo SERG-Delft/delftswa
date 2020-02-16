@@ -7,10 +7,10 @@ Below is a list of suggested projects. We also have a [longer list](top200projec
 
 | **Project** | **GitHub URL** |
 | Egeria (ING) | https://www.odpi.org/projects/egeria |
+| JHipster | https://github.com/jhipster/generator-jhipster |
 | CURL | https://github.com/curl/curl |
 | Ripple | https://github.com/ripple/rippled |
 | Flink | https://github.com/apache/flink |
-| EvoSuite | https://github.com/EvoSuite/evosuite |
 | XWiki | https://github.com/xwiki/xwiki-platform |
 | MyPy | https://github.com/python/mypy |
 | Storybook | https://github.com/storybooks/storybook |
