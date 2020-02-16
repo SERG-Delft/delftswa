@@ -16,6 +16,27 @@ If you are looking for partners, you can post a message on our Brightspace forum
 [brightspace]: https://brightspace.tudelft.nl/d2l/home/197146
 [partners]: https://brightspace.tudelft.nl/d2l/le/197146/discussions/topics/30294/View
 
+
+
+
+## Getting Access to GitLab for Writing
+
+All team members will get access to a shared [GitLab][gitlab-desosa] repository hosting the sources of the DESOSA 2020 book.
+
+Within this repository, each team will have one dedicated project sub-folder to work in.
+Teams should only add changes to their own sub-folder.
+
+All documents are to be written in `markdown`, maintained under git in your GitLab repository.
+Follow all good software development practices in this repository, such as using issues and milestones for planning, merge requests, review, etc. Show that you are well-organized, and that the teachers can clearly see what you did and what you  are planning to do.
+
+You are encouraged to use issues and pull requests, properly labeling them with an identifier for your project.
+
+[gitlab]: https://gitlab.ewi.tudelft.nl/in4315/2019-2020
+[gitlab-desosa]: https://gitlab.ewi.tudelft.nl/in4315/2019-2020/desosa2020/tree/master
+
+
+
+
 <a id="picking"></a>
 
 ## Picking a Project
@@ -32,22 +53,8 @@ You can check these constraints by using GHTorrent data on BigQuery. An active p
 
 To claim a project: Post on the Brightspace forum, title _Claiming project P_, explain why you like this project in the issue, and indicate the 4 team members that will work on this project as well as your group number. Make sure to add their GitLab accounts in the issue so we can find them.
 
-We will then look at the project, and create a private GitLab repository `team-P` for your team to put your work in. The repositories are open to all students participating in the course, allowing every student to monitor the progress of other teams, learn from them, and give them feedback (e.g. via issues or comments on pull requests). You should, however, only push changes in your own repository.
 
 [claiming]: https://brightspace.tudelft.nl/d2l/le/197146/discussions/topics/30295/View
-
-
-## Getting Access to GitLab for Writing
-
-All team members will get access to a dedicated [GitLab] organization.
-Within this organization, each team will have one git repository to put their work in.
-We will set it up such that teams can see each other's work, so that you can learn from each other.
-
-All documents are to be written in `markdown`, maintained under git in your GitLab repository.
-Follow all good software development practices in this repository, such as using issues and milestones for planning, merge requests, review, etc. Show that you are well-organized, and that the teachers can clearly see what you did and what you  are planning to do.
-
-[gitlab]: https://gitlab.ewi.tudelft.nl/in4315/2019-2020
-
 
 
 
@@ -96,10 +103,12 @@ Your essays will be evaluated based on the following:
 
 The intended audience for the essays consists of computer science students or software engineers, interested in learning about architectural aspects of your open source project.
 
-We will offer a publicly visible blog through which teams can publish their essays. Different from previous years, we will publish the essays throughout the course (and not just all at once after the course). We will use the blog to engage with and share our work with the open source community. Published essays (blog posts) will carry a [CC BY-SA 4.0] license, allowing the open source projects to include the resulting posts in their own documentation.
+A [publicly visible blog][netlify] is available through which teams can publish their essays. Different from previous years, we are publishing the essays throughout the course (and not just all at once after the course). We will use the blog to engage with and share our work with the open source community. Published essays (blog posts) will carry a [CC BY-SA 4.0] license, allowing the open source projects to include the resulting posts in their own documentation.
+You can decide yourself which posts you want to make public by means of simple meta-data flag in your jekyll markdown document.
 
 [Dan Heller]: https://medium.com/@daniel.heller/ten-principles-for-growth-69015e08c35b
 [cc by-sa 4.0]: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+[netlify]: https://desosa2020.netlify.com/#
 
 <a id="vision"></a>
 

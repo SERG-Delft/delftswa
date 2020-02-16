@@ -45,7 +45,7 @@ Fri Apr 3  | full day |  | All student teams | Team presentations
 ### Lecture rooms:
 
 - Wednesday lectures: Room Chip, EWI-36.
-- Friday lectures: CT-CZ-E (14/2), Room Pi, EWI-36
+- Friday lectures: Feb 14: CT-CZ-E; Other Fridays: Room Pi, EWI-36
 
 [sig]: https://www.softwareimprovementgroup.com/
 [grady booch]: https://en.wikipedia.org/wiki/Grady_Booch
@@ -77,6 +77,9 @@ Team work includes:
 
 The four essays can build upon each other, but should be independently readable. 
 We will collect all essays in an online book, that will emerge throughout the course.
+You can watch our progress (for essays made public) at [desosa2020.netlify.com][desosa2020].
+
+[desosa2020]: https://desosa2020.netlify.com/#
 
 
 ## Deadlines
