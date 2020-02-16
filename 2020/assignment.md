@@ -142,9 +142,12 @@ _Details will follow_
 Your team's final essay serves to deepen your analyis, and can be on one of the following topics:
 
 1. Configurability analysis, based on the  lecture by Xavier Devroey (details will follow)
+
 2. Collaboration analysis, based on the  lecture by Ayushi Rastogi (details will follow)
+
 3. Sustainability analysis, based on the  lecture by Luís Cruz (details will follow)
-4. A topic of choice, specific to your project. If you pick this option, consult the teachers first with a short proposal (a few sentences) explaining what you'd like to investigate, and how this is relevant to your project.
+
+4. A topic of choice, specific to your project. This can be based on documentation of your project, architectural literature you'd like to understand and apply to your project, or on one of the industrial guest lectures. If you pick this option, consult the teachers first with a short proposal (a few sentences) explaining what you'd like to investigate, and how this is relevant to your project.
 
 
 ## Markdown
