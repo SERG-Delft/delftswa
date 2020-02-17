@@ -108,3 +108,33 @@ for the `youtube-dl` component. This is fundamental because the regular expressi
 that defines what is included would catch everything that is in the `youtube_dl` folder.
 Clearly, we want the three folders mentioned above in separate components as otherwise 
 we would miss their cross-component calls and code dependencies.
+
+## Optional but useful: alternative ways of defining components
+There's a less-optimal way of doing this which is defining a `component_base_dirs`.
+It is less optimal because the components will show with the folder name itself 
+rather than the name of the component you are giving to it. So if a folder is called, for instance,
+`src/main/java/nl/tudelft/mycomponent` it will show with that name instead of a pretty nice
+name `MyComponent` that you have defined before.
+
+In the case for `youtube-dl` the component definition can look something like:
+
+```
+component_base_dirs:
+- "youtube_dl"
+- ""
+```
+
+The first base dir will define each folder inside `youtube_dl` as component. This will 
+result in `extractor`, `downloader` and `postprocessor` being components, thus
+being equivalent to the above when we wrote specific regular expressions for 
+the three different folders.
+
+The second bullet point will define a component for all the file inside `youtube_dl` 
+excluding automatically the files included in the previous base dir. This will also include the
+root folder of the project to be analysed for components, including then also `devscripts`
+and `test`.
+
+If you use this way of defining components, start always from the most in-depth folder and
+then proceed upwards in the structure. Finally, take into account that you cannot use 
+the two component definition methods at the same time, 
+so either you use the one written above or this. 
