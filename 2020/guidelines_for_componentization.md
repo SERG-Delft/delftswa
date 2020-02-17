@@ -14,14 +14,18 @@ divide their code in components using this easy but effective way to separate re
 
 ## Can you give me an example?
 Take project [youtube-dl](https://github.com/ytdl-org/youtube-dl).
-Its folder structure inside folder [`youtube-dl`](https://github.com/ytdl-org/youtube-dl/tree/master/youtube_dl) is:
+Its folder structure inside folder [`youtube_dl`](https://github.com/ytdl-org/youtube-dl/tree/master/youtube_dl) is:
 - downloader
 - extractor
 - postprocessor
 
 An educated guess will be to use these three folders as components.
 There is probably another component which comprises all the python code included in the
-folder `youtube-dl` itself (but not the code inside the other three subfolders).
+folder `youtube_dl` itself (but not the code inside the other three subfolders).
+Take care of exploring the full structure of the project as there might be some other 
+subfolders which would account as another separate component. In this case, for instance,
+we would like to comprise folder [`devscripts`](https://github.com/ytdl-org/youtube-dl/tree/master/devscripts) 
+as well.
 
 ## Do I need to exclude anything from the process of component identification?
 Yes. Mostly, you need to exclude all folders that have code imported and used
@@ -71,4 +75,36 @@ Take into account indentation and use meaningful names for the components.
 
 ## Where to I deliver the system components?
 Write a yaml file using the project name as a filename, and put it in your GitLab through a pull request.
-Going back to the youtube-dl example, that would look like `youtube-dl.yaml`.
+Going back to the youtube-dl example, the file name would look like `youtube-dl.yaml` and its content as follows:
+
+```
+components:
+- name: "extractor"
+  include:
+  - ".*/extractor/.*"
+- name: "downloader"
+  include:
+  - ".*/downloader/.*"
+- name: "postprocessor"
+  include:
+  - ".*/postprocessor/.*"
+- name: "devscripts"
+  include:
+  - ".*/devscripts/.*"
+- name: "youtube-dl"
+  include:
+  - ".*/youtube_dl/.*"
+  exclude:
+  - ".*/extractor/.*"
+  - ".*/downloader/.*"
+  - ".*/postprocessor/.*"
+- name: "test"
+  include:
+  - ".*/test/.*"
+```
+
+Please note the important step regarding the exclusion of `extractor`, `downloader` and `postprocessor` 
+for the `youtube-dl` component. This is fundamental because the regular expression 
+that defines what is included would catch everything that is in the `youtube_dl` folder.
+Clearly, we want the three folders mentioned above in separate components as otherwise 
+we would miss their cross-component calls and code dependencies.
