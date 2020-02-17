@@ -68,7 +68,7 @@ Grading will be also based on the progress you made compared to your initial kno
 
 To make this possible, it is important that you and your team provide insight in what you do each week. To that end:
 
-1. Create a folder `journal` in your project repository.
+1. Create a folder `journal` in your project folder.
 2. In that folder, create four separate files for each team member
 3. Each team member individually reports his or her own weekly experiences and effort in the course. It is important to commit and push these reports regularly, and that you commit your own updates.
 
