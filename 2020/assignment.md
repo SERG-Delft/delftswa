@@ -88,7 +88,7 @@ Strong writing skills are an invaluable asset for an architect. To quote [Dan He
 
 Therefore, we will use this course to train and improve our writing skills.
 
-Each team will write four essays. Each essay should be around 1000-1500 words. After 1500 words teachers (or any reader, in fact), reserve the right to stop reading, which may affect your grade. We'll be counting words simply by running the Unix `wc` word count tool on your `.md` markdown files.
+Each team will write four essays. Each essay should be around 1000-1500 words. After 1500 words teachers (or any reader, in fact), reserve the right to stop reading, which may affect your grade. We'll be counting words by running [Markdown Word Count], developed by a former Software Architecture student, on your `.md` markdown files.
 
 Your essays will be evaluated based on the following:
 
@@ -107,6 +107,7 @@ A [publicly visible blog][netlify] is available through which teams can publish 
 You can decide yourself which posts you want to make public by means of simple meta-data flag in your jekyll markdown document.
 
 [Dan Heller]: https://medium.com/@daniel.heller/ten-principles-for-growth-69015e08c35b
+[Markdown Word Count]: https://github.com/gandreadis/markdown-word-count
 [cc by-sa 4.0]: https://creativecommons.org/licenses/by-sa/4.0/legalcode
 [netlify]: https://desosa2020.netlify.com/#
 
