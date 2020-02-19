@@ -102,7 +102,7 @@ Students will receive grades based on the following:
 - `E`: Team performance for each of the four essays (1-10), composed form the average of the four essays E1..E4.
 - `C`: Team performance for code contributions (1-10)
 - `P`: Team performance for poster presentation (1-10)
-- `R`: Individual performance in per review reviews (-1, 0, 1) -- zero by default
+- `R`: Individual performance in peer reviews (-1, 0, 1) -- zero by default
 - `A`: Individual performance in participation (-1, 0, 1) -- zero by default
 
 The _team grade_ is the weighted average of the team activities:
