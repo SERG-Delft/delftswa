@@ -22,25 +22,25 @@ Furthermore, there will be several lecturers from industry.
 
 ## Course Schedule
 
-Date | Time | Activity | Teacher | Topic 
+Date | Time | Activity | Teacher | Topic
 |---|---|---|---|
 Wed Feb 12 | 15:45 | Lecture 1 | Arie van Deursen         | Course structure ([slides](slides/in4315-intro.pdf))
 Fri Feb 14 | 15:45 | Lecture 2 | Arie van Deursen         | Lean Architecture I ([slides](slides/lean-architecture-part-1.pdf))
            | 17:00 |           | [Grady Booch], IBM       | _Ask Me Anything_ on [SATURN 2016](https://www.youtube.com/watch?v=RJ3v5cSNcB8) keynote
 Wed Feb 19 | 15:45 | Lecture 3 | Arie van Deursen         | Lean Architecture II
            | 17:00 |            | [Engin Bozdag], Uber    | _Ask Me Anything_; privacy by design ([slides](https://www.usenix.org/sites/default/files/conference/protected-files/enigma2020_slides_bozdag.pdf))
-Fri Feb 21 | 15:45 | Lecture 4 | [Xavier Devroey]         | Architecting for Configurability
+Fri Feb 21 | 15:45 | Lecture 4 | [Xavier Devroey]         | Architecting for Configurability ([slides](slides/tudelft-architecture-spl2020.pdf), [optional assignment](assignment-variability.html))
 Wed Feb 26 | 15:45 | Lecture 5 | [Marco Di Biase], [SIG]  | Architecting for Maintainability
 Fri Feb 28 | 15:45 | Lecture 6 | [Ayushi Rastogi]         | Architecting as a Team Activity
 Wed Mar 4  | 15:45 | Lecture 7 | [Luis Cruz]              | Architecting for Sustainaility
-Fri Mar 6  | 15:45 | Lecture 8 | Bert Wolters, [Adyen]    | Architecting for Scalability 
+Fri Mar 6  | 15:45 | Lecture 8 | Bert Wolters, [Adyen]    | Architecting for Scalability
 Wed Mar 11 | 15:45 | Lecture 9 | Ferd Scheepers, [ING]    | Architecting for the Enterprise
 Fri Mar 13 | 15:45 | Lecture 10 | [Steffan Norberhuis][norberhuis]      | Architecting for Operations
 Wed Mar 18 | 15:45 | Lecture 11 | tbd                     | tbd
 Fri Mar 20 | 15:45 | Lecture 12 | [Daniel Gebler], [Picnic] | Architecting with or wihout Microservices
 Wed Mar 25 | 15:45 | Lecture 13 | tbd | tbd
 Fri Apr 3  | full day |  | All student teams | Team presentations
-           | 17:00 | Drinks | Everyone 
+           | 17:00 | Drinks | Everyone
 
 ### Lecture rooms:
 
@@ -69,13 +69,13 @@ Team work includes:
 2. Writing four [essays](assignment.html#essays), covering
     1. the product [vision](assignment.html#vision), including required capabilities, roadmap, product context, and stakeholder analysis.
     2. architectural decisions made, including system decomposition, tradeoff points, as well as architectural styles and patterns adopted.
-    3. quality control and assessment; and 
+    3. quality control and assessment; and
     4. a [deeper analysis](assignment.html#deepening) based on the lectures or other relevant material specific to the system of choice;
 3. Contributing changes to the open source system selected (via pull requests submitted on GitHub)
 4. Preparing a final poster and presentation
 5. Reviewing work from other teams, to learn from them, and to give them feedback
 
-The four essays can build upon each other, but should be independently readable. 
+The four essays can build upon each other, but should be independently readable.
 We will collect all essays in an online book, that will emerge throughout the course.
 You can watch our progress (for essays made public) at [desosa2020.netlify.com][desosa2020].
 
@@ -112,7 +112,3 @@ The _team grade_ is the weighted average of the team activities:
 The _individual grade_ then is the team grade to which a bonus can be added (or subtracted) for exceptional (top/bottom X%) results.
 
 	I = T + 0.5 * (R + A)
-
-
-
-
