@@ -25,9 +25,9 @@ Furthermore, there will be several lecturers from industry.
 Date | Time | Activity | Teacher | Topic
 |---|---|---|---|
 Wed Feb 12 | 15:45 | Lecture 1 | Arie van Deursen         | Course structure ([slides](slides/in4315-intro.pdf))
-Fri Feb 14 | 15:45 | Lecture 2 | Arie van Deursen         | Lean Architecture I ([slides](slides/lean-architecture-part-1.pdf))
+Fri Feb 14 | 15:45 | Lecture 2 | Arie van Deursen         | Lean Architecture ([slides](slides/lean-architecture-part-1.pdf))
            | 17:00 |           | [Grady Booch], IBM       | _Ask Me Anything_ on [SATURN 2016](https://www.youtube.com/watch?v=RJ3v5cSNcB8) keynote
-Wed Feb 19 | 15:45 | Lecture 3 | Arie van Deursen         | Lean Architecture II
+Wed Feb 19 | 15:45 | Lecture 3 | Arie van Deursen         | Documenting Architectures ([slides](slides/documenting-architectures.pdf))
            | 17:00 |            | [Engin Bozdag], Uber    | _Ask Me Anything_; privacy by design ([slides](https://www.usenix.org/sites/default/files/conference/protected-files/enigma2020_slides_bozdag.pdf))
 Fri Feb 21 | 15:45 | Lecture 4 | [Xavier Devroey]         | Architecting for Variability ([slides](slides/tudelft-architecture-spl2020.pdf), [opt. assignment](assignment-variability.html))
 Wed Feb 26 | 15:45 | Lecture 5 | [Marco Di Biase], [SIG]  | Architecting for Maintainability
