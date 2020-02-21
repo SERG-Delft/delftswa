@@ -142,7 +142,7 @@ _Details will follow_
 
 Your team's final essay serves to deepen your analyis, and can be on one of the following topics:
 
-1. Configurability analysis, based on the  lecture by Xavier Devroey (details will follow)
+1. [Configurability analysis](assignment-variability.html), based on the  lecture by Xavier Devroey.
 
 2. Collaboration analysis, based on the  lecture by Ayushi Rastogi (details will follow)
 

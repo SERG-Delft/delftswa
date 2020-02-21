@@ -1,11 +1,21 @@
 ---
-title: "Software variability management assignment"
+title: "Software variability management essay"
 layout: tud
 ---
 
+The purpose of this assignment is to analyze and assess how configurability is handled in your system under analysis.
+To that end, write an essay addressing:
+
+1. The variability that is present in the system (by buidling a feature model)
+2. The way variability is _managed_, both in terms of finding the requirements, and in terms of the development process
+3. The way variability is _implemented_, and when variability is resolved to a product (the binding time).
+
+Below further details are provided for the above three analyses. Conclude by offering an _assessment_ of the way variability is handled in your system under analysis, possibly including recommendations for making variability management more effective and efficient.
+
+
 ## Variability modeling
 
-1. Identify the main features (i.e., functionalities) offered by your application. Consider the perspective of the different stakeholders when exploring the documentation and/or source code. Focus on variable features, and explains who benefits from this added complexity. You should find a minimum of 10 variable features. _**Hint**: There are different kinds of variability. If the functionalities are limited, look at the different platforms that your application supports (for instance, different operating systems, different databases, different web browsers, etc.)._
+1. Identify the main features (i.e., functionalities) offered by your application. Consider the perspective of the different stakeholders when exploring the documentation and/or source code. Focus on features that can vary per product, and explain who benefits from this added variability complexity. Target a minimum of 10 variable features. _**Hint**: There are different kinds of variability. If the functionalities are limited, look at the different platforms that your application supports (for instance, different operating systems, different databases, different web browsers, etc.)._
 
 2. Identify incompatibilities between the offered variable features, if any. Discard incompatibilities that have been fixed (keep them if the pull request hasn't been accepted or if the bug hasn't been fixed at the time of the writing). Give examples of allowed configurations/products. _**Hint**: documentation should tell you if certain features are only accessible under certain circumstances, bug reports and pull requests will tell you if there are any compatibility issues being dealt with (or have been dealt with). Going through pull requests and bug reports may allow you to identify new features._
 
