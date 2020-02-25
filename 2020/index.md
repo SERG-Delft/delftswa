@@ -37,7 +37,7 @@ Fri Mar 6  | 15:45 | Lecture 8 | Bert Wolters, [Adyen]    | Architecting for Sca
 Wed Mar 11 | 15:45 | Lecture 9 | Ferd Scheepers, [ING]    | Architecting for the Enterprise
 Fri Mar 13 | 15:45 | Lecture 10 | [Steffan Norberhuis][norberhuis]      | Architecting for Operations
 Wed Mar 18 | 15:45 | Lecture 11 | tbd                     | tbd
-Fri Mar 20 | 15:45 | Lecture 12 | [Daniel Gebler], [Picnic] | Architecting with or wihout Microservices
+Fri Mar 20 | 15:45 | Lecture 12 | [Daniel Gebler], [Picnic] | Architecting with or without Microservices
 Wed Mar 25 | 15:45 | Lecture 13 | tbd | tbd
 Fri Apr 3  | full day |  | All student teams | Team presentations
            | 17:00 | Drinks | Everyone
