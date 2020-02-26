@@ -150,52 +150,11 @@ Your team's final essay serves to deepen your analyis, and can be on one of the 
 
 4. A topic of choice, specific to your project. This can be based on documentation of your project, architectural literature you'd like to understand and apply to your project, or on one of the industrial guest lectures. If you pick this option, consult the teachers first with a short proposal (a few sentences) explaining what you'd like to investigate, and how this is relevant to your project.
 
-
-## Markdown
-
-We'll be using markdown for all documents. We will use markdown to combine documents from different teams, and to produce outputs in different formats:
-
-- We'll use `jekyll` to create the online blog
-- We'll use `pandoc` [^pandoc] to generate `pdf` and `epub`, to produce an e-book version of the collection of essays.
-
-To ensure consistency, please adopt the following guidelines:
-
-1. Avoid the use of pure HTML elements. For instance, instead of `<table>…</table>` for the creation of a table, use the relevant Markdown table syntax [^pandoc].
-
-2. Use the following format for the references: 
-      
-        [^X]: John Doe, …. Lorem ipsum dolor
-
-      where X is the reference identifier. This can be cited using `[^X]`.
-      The citations will appear as footnote numbers, and the actual references will appear at the end of the document.
-
-3. When using images, do not use online links. Instead store them locally to your project in an **“images/my-project-name”** directory. Avoid HTML `<img/>` tags, but use markdown syntax instead:
-
-        ![](images/my-impage.jpg)  
-        *Caption describing the image*
-
-4. Do **not** use SVGs for your images 
-
-5. Ensure there is a **blank line** before and after every (sub)section, every itemize and every image insertion statement.
-
-6. Only one `#` level header should be used and that is for the project’s name. `##`, `###` etc should be used for the rest of the sections (e.g. 
-
-        # React 
-
-        ## Introduction 
-
-        ## Conclusion
-
-7. Ensure pandoc is able to produce proper **pdf** and **epub** from your index file.
-
-
 ## References
 
 [lsa]: http://www.leansoftwarearchitecture.com/
 [views]: https://www.viewpoints-and-perspectives.info/
-[pandocurl]: https://pandoc.org/MANUAL.html
 
 [^coplien]: Jim Coplien Gertrud Bjørnvig. [Lean Architecture][lsa] for Agile Software Development. Wiley, 2010.
-[^pandoc]: Pandoc User’s Guide. [https://pandoc.org/MANUAL.html][pandocurl]
 
 
