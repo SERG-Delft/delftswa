@@ -1,0 +1,20 @@
+---
+title: "People and Software Architecture"
+layout: tud
+-
+
+This assignment comprises of two parts:
+
+## Architecting with the people
+
+Part 1 of the assignment is to explore the reflections of team structure in code structure. For the selected software project, identify two loosely coupled components and another two highly coupled components. Examine the interaction patterns of developers working on these components and report your observations. 
+
+[Sample question] Do team interactions organize around code structure?
+[Sample question] Conversely, do team interactions pattern reflect in how two components are loosely coupled or tightly coupled?
+
+## Architecting for the people
+
+Part 2 of the assignment is to identify and list up to 3 design choices in the selected software project that caters to its user need. Further, reflect on how these design choices will change for a different or perhaps broader audience? 
+
+[Sample example from everyday life] Size of chair in a classroom varies for kids vs. adults
+[Sample example from software] Default Size font size for a mobile application varies for young vs. old population 
