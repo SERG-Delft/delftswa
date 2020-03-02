@@ -36,9 +36,9 @@ Wed Mar 4  | 15:45 | Lecture 7 | [Luis Cruz]              | Architecting for Sus
 Fri Mar 6  | 15:45 | Lecture 8 | Bert Wolters, [Adyen]    | Architecting for Scalability
 Wed Mar 11 | 15:45 | Lecture 9 | Ferd Scheepers, [ING]    | Architecting for the Enterprise
 Fri Mar 13 | 15:45 | Lecture 10 | [Steffan Norberhuis][norberhuis]      | Architecting for Operations
-Wed Mar 18 | 15:45 | Lecture 11 | tbd                     | tbd
+Wed Mar 18 | 15:45 | Lecture 11 | _no lecture_              | 
 Fri Mar 20 | 15:45 | Lecture 12 | [Daniel Gebler], [Picnic] | Architecting with or without Microservices
-Wed Mar 25 | 15:45 | Lecture 13 | tbd | tbd
+Wed Mar 25 | 15:45 | Lecture 13 | _no lecture_              | 
 Fri Apr 3  | full day |  | All student teams | Team presentations
            | 17:00 | Drinks | Everyone
 
@@ -68,7 +68,7 @@ Team work includes:
 1. [Selecting an open source system](assignment.html#picking): The system needs to be sufficiently complex, under active development, and open to external contributions.
 2. Writing four [essays](assignment.html#essays), covering
     1. the product [vision](assignment.html#vision), including required capabilities, roadmap, product context, and stakeholder analysis.
-    2. architectural decisions made, including system decomposition, tradeoff points, as well as architectural styles and patterns adopted.
+    2. [architectural decisions made](assignment.html#architecture), including system decomposition, tradeoff points, as well as architectural styles and patterns adopted.
     3. quality control and assessment; and
     4. a [deeper analysis](assignment.html#deepening) based on the lectures or other relevant material specific to the system of choice;
 3. Contributing changes to the open source system selected (via pull requests submitted on GitHub)

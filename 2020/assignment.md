@@ -127,15 +127,42 @@ Aspects to take into account include:
 
 It may be the case that some of these aspects do not naturally match your open source system under investigation. In that case, say so explicitly, and explain why you think this is the case in your essay. Instead offer a deeper analysis of other relevant aspects.
 
-Relevant literature for this essay includes _Lean Architecture_ [^coplien], Chapters 2 (end-user mental model), 3 (stakeholder analysis), and 4 (problem definition).
+Relevant literature for this essay includes 
+
+- _Lean Architecture_ [^coplien], Chapters 2 (end-user mental model), 3 (stakeholder analysis), and 4 (problem definition)
+- _Software Systems Architecture_ [^rozanski], Chapter 9 (stakeholder analysis) and 16 (context analysis)
+- _arc42 documentation_ [^arc]: Chapters 1 (Requirement and goals), 2 (Constraints), and 3 (Scope & Context)
+
+<a id="architecture"></a>
 
 ## Essay 2: From Vision to Architecture
 
-_Details will follow_
+While the first essay focuses on the set of fundamental concepts or properties of the system in its environment, 
+in the second you explore how these are realized through its architectural elements and relationships, and the principles of its design and evolution.
+Aspects to take into account include:
+
+1. A discussion of which architectural views are relevant to your system (taken, e.g., from Rozanski and Woods [^rozanski] or Kruchten [^kruchten])
+2. The main architectural style or patterns applied (if relevant), such as layering or model-view-controller architectures.
+3. An overview of the development view, covering the system decomposition and the main modules and their dependencies, as embodied in the source code.
+4. A run time view, indicating how components interact at run time to realize key scenarios, including typical run time dependencies
+5. A deployment view, explaining where and in what way processes are deployed, for example through cloud solutions.
+6. Non-functional properties, and how potential trade-offs between them have been resolved.
+
+It may be the case that some of these aspects do not naturally match your open source system under investigation. In that case, say so explicitly, and explain why you think this is the case in your essay. Instead offer a deeper analysis of other relevant aspects.
+
+Relevant literature for this essay includes 
+
+- _Lean Architecture_ [^coplien], Chapters 5-7
+- _Software Systems Architecture_ [^rozanski],  Chapters 20 (development viewpoint) and 21 (deployment viewpoint)
+- _arc42 documentation_ [^arc]: Chapters 4-9
+- _C4 model_ [^c4]: Levels 2 and 3.
+- _SIG componentization_: The Sigrid Beta Architecture visualization for your system may provide input to your development view
+
 
 ## Essay 3: The Code-Level Perspective
 
 _Details will follow_
+
 
 <a id="deepening"></a>
 ## Essay 4: Deepening your Analysis
@@ -154,7 +181,17 @@ Your team's final essay serves to deepen your analyis, and can be on one of the 
 
 [lsa]: http://www.leansoftwarearchitecture.com/
 [views]: https://www.viewpoints-and-perspectives.info/
+[arc42]: https://docs.arc42.org/home/
 
 [^coplien]: Jim Coplien Gertrud Bjørnvig. [Lean Architecture][lsa] for Agile Software Development. Wiley, 2010.
 
+[^rozanski]: Nick Rozanski and Eoin Woods. [Software Systems Architecture: Working with Stakeholders Using Viewpoints and Perspectives][views]. Addison-Wesley, 2012, 2nd edition.
 
+[^kruchten]: Philippe Kruchten. The 4+1 View Model of architecture. IEEE Software 12(6), 1995.
+    ([doi](https://doi.org/10.1109/52.469759), 
+    [preprint](https://www.cs.ubc.ca/~gregor/teaching/papers/4+1view-architecture.pdf), 
+    [wikipedia](https://en.wikipedia.org/wiki/4%2B1_architectural_view_model))
+
+[^arc]: Peter Hruschka and Gernot Starke. arc42: Effective, lean and pragmatic architecture documentation and communication. [https://docs.arc42.org/home/][arc42]
+
+[^c4]: The C4 model for visualising software architecture. [https://c4model.com/](https://c4model.com/).
