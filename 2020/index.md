@@ -31,7 +31,7 @@ Wed Feb 19 | 15:45 | Lecture 3 | Arie van Deursen         | Documenting Architec
            | 17:00 |            | [Engin Bozdag], Uber    | _Ask Me Anything_; privacy by design ([slides](https://www.usenix.org/sites/default/files/conference/protected-files/enigma2020_slides_bozdag.pdf))
 Fri Feb 21 | 15:45 | Lecture 4 | [Xavier Devroey]         | Architecting for Variability ([slides](slides/tudelft-architecture-spl2020.pdf), [opt. assignment](assignment-variability.html))
 Wed Feb 26 | 15:45 | Lecture 5 | [Marco Di Biase], [SIG]  | Architecting for Maintainability
-Fri Feb 28 | 15:45 | Lecture 6 | [Ayushi Rastogi]         | Architecting as a Team Activity
+Fri Feb 28 | 15:45 | Lecture 6 | [Ayushi Rastogi]         | Architecting as a Team Activity ([slides](slides/sa-people.pdf))
 Wed Mar 4  | 15:45 | Lecture 7 | [Luis Cruz]              | Architecting for Sustainaility
 Fri Mar 6  | 15:45 | Lecture 8 | Bert Wolters, [Adyen]    | Architecting for Scalability
 Wed Mar 11 | 15:45 | Lecture 9 | Ferd Scheepers, [ING]    | Architecting for the Enterprise
