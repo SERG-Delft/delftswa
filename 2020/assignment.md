@@ -194,7 +194,7 @@ Once you are ready to submit your essay, please follow the following steps:
         For each build of the master branch, a collection of single-essay PDFs is created and made available as a job artifact.
         Go to the [Project Overview](https://gitlab.ewi.tudelft.nl/in4315/2019-2020/desosa2020) on GitLab, press the download button, and select `single-essays` (see the screenshot below)
 
-        ![Select single-essays from the GitLab master branch job artifacts](/img/gitlab_artifacts.png){:.img-fluid}
+        ![Select single-essays from the GitLab master branch job artifacts]({{ "/img/gitlab_artifacts.png" | relative_url }}){:.img-fluid}
 
         Once you have downloaded the ZIP file, you can find your essay within the directory corresponding to your project.
         
