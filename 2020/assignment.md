@@ -113,7 +113,7 @@ You can decide yourself which posts you want to make public by means of simple m
 
 <a id="vision"></a>
 
-## Essay 1: The Product Vision
+### Essay 1: The Product Vision
 
 The starting point for your architectural analysis is a description of the _vision_ underlying your project and its future success. 
 Aspects to take into account include:
@@ -135,7 +135,7 @@ Relevant literature for this essay includes
 
 <a id="architecture"></a>
 
-## Essay 2: From Vision to Architecture
+### Essay 2: From Vision to Architecture
 
 While the first essay focuses on the set of fundamental concepts or properties of the system in its environment, 
 in the second you explore how these are realized through its architectural elements and relationships, and the principles of its design and evolution.
@@ -159,23 +159,66 @@ Relevant literature for this essay includes
 - _SIG componentization_: The Sigrid Beta Architecture visualization for your system may provide input to your development view
 
 
-## Essay 3: The Code-Level Perspective
+### Essay 3: The Code-Level Perspective
 
 _Details will follow_
 
 
 <a id="deepening"></a>
-## Essay 4: Deepening your Analysis
+### Essay 4: Deepening your Analysis
 
 Your team's final essay serves to deepen your analyis, and can be on one of the following topics:
 
-1. [Configurability analysis](assignment-variability.html), based on the  lecture by Xavier Devroey.
+1. [Configurability analysis](assignment-variability.html), based on the lecture by Xavier Devroey.
 
-2. Collaboration analysis, based on the  lecture by Ayushi Rastogi (details will follow)
+2. Collaboration analysis, based on the lecture by Ayushi Rastogi (details will follow)
 
-3. Sustainability analysis, based on the  lecture by Luís Cruz (details will follow)
+3. Sustainability analysis, based on the lecture by Luís Cruz (details will follow)
 
 4. A topic of choice, specific to your project. This can be based on documentation of your project, architectural literature you'd like to understand and apply to your project, or on one of the industrial guest lectures. If you pick this option, consult the teachers first with a short proposal (a few sentences) explaining what you'd like to investigate, and how this is relevant to your project.
+
+## Submissions
+
+Once you are ready to submit your essay, please follow the following steps:
+
+1.  Open a merge request on GitLab, and make sure that your team members review your changes.
+    If everything looks good and everyone approves, you can merge your MR.
+
+    **Important note:** Your MR needs to merged for it to be considered submitted.
+
+2.  To prepare your essay for peer reviews, a PDF, _containing only your new essay_, needs to be created.
+    This can be done in two ways:
+
+    *   **Download PDF from GitLab**
+
+        For each build of the master branch, a collection of single-essay PDFs is created and made available as a job artifact.
+        Go to the [Project Overview](https://gitlab.ewi.tudelft.nl/in4315/2019-2020/desosa2020) on GitLab, press the download button, and select `single-essays` (see the screenshot below)
+
+        ![Select single-essays from the GitLab master branch job artifacts](/img/gitlab_artifacts.png){:.img-fluid}
+
+        Once you have downloaded the ZIP file, you can find your essay within the directory corresponding to your project.
+        
+        _Note:_ Your MR needs to merged (into master) before it becomes available here.
+
+    *   **Generate PDF manually**
+    
+        Assuming that you have a working docker setup, it is easy to generate a PDF manually.
+        In order to create a single-essay PDF manually, run the following command:
+        ```
+        $ make dockeressaypdf
+        ```
+        This command will ask you for the relative location of your to-be-submitted essay.
+        Enter the correct path, and press enter.
+        You can now find your essay in the `target/` directory as a PDF.
+
+        _Note:_ This make command was added later.
+        Make sure you are up to date with master branch if the command is not available.
+
+3.  Submit your essay to [Peer](https://peer.ewi.tudelft.nl/), the peer evaluation system that we use.
+    After logging in with your NetID, you can find the Software Architecture course under "Enrolled Courses".
+    On the course page, select the correct assignment (corresponding to the essay you are about to hand in) and submit the PDF from step 2.
+    
+    _Note:_ This only needs to be done once per team.
 
 ## References
 
