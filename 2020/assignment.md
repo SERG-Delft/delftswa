@@ -58,7 +58,7 @@ To claim a project: Post on the Brightspace forum, title _Claiming project P_, e
 
 
 
-## Invidivual Journals
+## Individual Journals
 
 You will have considerable freedom in this course. Nevertheless, a _steady heartbeat is required_, and you are accountable for how you spend your time.
 
