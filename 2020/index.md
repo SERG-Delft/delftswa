@@ -32,7 +32,7 @@ Wed Feb 19 | 15:45 | Lecture 3 | Arie van Deursen         | Documenting Architec
 Fri Feb 21 | 15:45 | Lecture 4 | [Xavier Devroey]         | Architecting for Variability ([slides](slides/tudelft-architecture-spl2020.pdf))
 Wed Feb 26 | 15:45 | Lecture 5 | [Marco Di Biase], [SIG]  | Architecting for Maintainability ([slides](slides/sa-maintainability.pdf))
 Fri Feb 28 | 15:45 | Lecture 6 | [Ayushi Rastogi]         | Architecting as a Team Activity ([slides](slides/sa-people.pdf))
-Wed Mar 4  | 15:45 | Lecture 7 | [Luis Cruz]              | Architecting for Sustainaility
+Wed Mar 4  | 15:45 | Lecture 7 | [Luis Cruz]              | Architecting for Sustainaility ([slides](slides/sa-green-se.pdf))
 Fri Mar 6  | 15:45 | Lecture 8 | Bert Wolters, [Adyen]    | Architecting for Scalability
 Wed Mar 11 | 15:45 | Lecture 9 | Ferd Scheepers, [ING]    | Architecting for the Enterprise
 Fri Mar 13 | 15:45 | Lecture 10 | [Steffan Norberhuis][norberhuis]      | Architecting for Operations
