@@ -184,7 +184,7 @@ Once you are ready to submit your essay, please follow the following steps:
 1.  Open a merge request on GitLab, and make sure that your team members review your changes.
     If everything looks good and everyone approves, you can merge your MR.
 
-    **Important note:** Your MR needs to merged for it to be considered submitted.
+    **Important note:** Your MR needs to be merged for it to be considered submitted.
 
 2.  To prepare your essay for peer reviews, a PDF, _containing only your new essay_, needs to be created.
     This can be done in two ways:
@@ -198,7 +198,7 @@ Once you are ready to submit your essay, please follow the following steps:
 
         Once you have downloaded the ZIP file, you can find your essay within the directory corresponding to your project.
         
-        _Note:_ Your MR needs to merged (into master) before it becomes available here.
+        _Note:_ Your MR needs to be merged (into master) before it becomes available here.
 
     *   **Generate PDF manually**
     
@@ -212,7 +212,7 @@ Once you are ready to submit your essay, please follow the following steps:
         You can now find your essay in the `target/` directory as a PDF.
 
         _Note:_ This make command was added later.
-        Make sure you are up to date with master branch if the command is not available.
+        Make sure you are up to date with the master branch if the command is not available.
 
 3.  Submit your essay to [Peer](https://peer.ewi.tudelft.nl/), the peer evaluation system that we use.
     After logging in with your NetID, you can find the Software Architecture course under "Enrolled Courses".
