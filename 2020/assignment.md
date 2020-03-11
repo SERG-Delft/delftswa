@@ -220,6 +220,39 @@ Once you are ready to submit your essay, please follow the following steps:
     
     _Note:_ This only needs to be done once per team.
 
+<a id="contributions"></a>
+## System Contributions
+
+To familiarize yourself with the system under analysis, your team will _contribute_ to the system.
+This will take the form of a pull  request to the system.
+Aspects to consider include:
+
+1. It is probably a good  idea  to start with a very simple pull request, just to understand the whole process.
+2. Starting with a documentation pull request might be a good way to get started.
+3. Many projects have labels for issues that are easy to start with for newcomers to the project. Explore these and see if you can help.
+4. After one or two simple pull requests, try to contribute more substantially, for example in refactorings or simple features.
+5. In your interactions (in GitHub comments) with the developers  who are responsible for integrating your change, be polite, to the point, and responsive.
+6. Follow any guidelines, for example in the projects `CONTRIBUTING.md` file.
+
+For pull requests you've actually submitted, you can enter the corresponding information in the `yaml` meta-data of your `index.md` project file, and information about it will be shown in your blog pages.
+
+There will be two deadlines, for two simple reports:
+
+- Pull request midway report: Halfway the course, ensure submitted pull requests have all been added to  your `index.md`, and write a short plan for remaining pull requests that you still intend to submit.
+- Pull request final report: Again, ensure all submitted pull requests have been added to your `index.md`. Furthermore, for work on potential pull requests you  _tried_, but which eventually did not result in an actual pull request submission, write a short summary of what you did, and what was so hard about it.
+
+The two reports can be put in a file `contributions.md`, which you can put in your `journals` folder (so that it is ignored by jekyll). As an indication, around 100 words will probably suffice per planned (or terminated) pull request.
+
+Pull requests will be graded, based on the following criteria:
+
+- Timely start and well-caried out series of activities that lead to pull requests.
+- Professional (responsive, polite, clear, to the pont) interaction with open source developers
+- Substance of the pull requests
+
+While your aim is of course that the pull request gets merged, the merge itself is not part of the grade.
+
+
+
 ## References
 
 [lsa]: http://www.leansoftwarearchitecture.com/

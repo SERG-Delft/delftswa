@@ -71,7 +71,7 @@ Team work includes:
     2. [architectural decisions made](assignment.html#architecture), including system decomposition, tradeoff points, as well as architectural styles and patterns adopted.
     3. quality control and assessment; and
     4. a [deeper analysis](assignment.html#deepening) based on the lectures or other relevant material specific to the system of choice;
-3. Contributing changes to the open source system selected (via pull requests submitted on GitHub)
+3. [Contributing changes](assignment.html#contributions) to the open source system selected (via pull requests submitted on GitHub)
 4. Preparing a final poster and presentation
 5. Reviewing work from other teams, to learn from them, and to give them feedback
 
@@ -89,7 +89,7 @@ Date       | Time  | Writing      | Coding                    | Reviewing
 Mon Feb 17 | 17:00 |              | Teams have selected project
 Wed Feb 19 | 17:00 |              | [Top-level decomposition](guidelines_for_componentization.html)   |
 Mon Mar 9  | 17:00 | Team essay 1 | --                        | --
-Mon Mar 16 | 17:00 | Team essay 2 | First pull requests and plan  | Essay 1
+Mon Mar 16 | 17:00 | Team essay 2 | [Pull request midway report](assignment.html#contributions)  | Essay 1
 Mon Mar 23 | 17:00 | Team essay 3 | --                        | Essay 2
 Mon Mar 30 | 17:00 | Team essay 4 | Pull request report       | Essay 3
 Mon Apr  6 | 17:00 | --           | --                        | Essay 4, poster
