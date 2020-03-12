@@ -179,7 +179,7 @@ Again, it may be the case that some of these aspects do not naturally match your
 
 If you conduct measurements, you may find that certain numbers point at poor code quality.
 In such cases, offer an explanation _why_ the code ended up like it is now, 
-assess whether trade-offs have been made, and try to imagine constructive proposals how to resolve the problems you found.
+assess whether trade-offs have been made, and demonstrate leadership by offering constructive proposals how to resolve the problems you found.
 
 Relevant pointers for this essay include:
 
