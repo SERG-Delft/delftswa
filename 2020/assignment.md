@@ -175,7 +175,7 @@ Aspects to take into account include:
 1. Refactoring suggestions as offered by, e.g., SIG or SonarQube.
 1. An assessment of technical debt (if any) present in the system.
 
-Again, it may be the case that some of these aspects do not naturally match your open source system under investigation. In that case, say so explicitly, and explain why you think this is the case in your essay. Instead offer a deeper analysis of other relevant aspects.
+Again, it may be the case that some of these aspects do not naturally match your open source system under investigation. Also, doing all of these well may not fit in a single essay. Select those aspects that are most relevant, and do a thorough analysis for them. 
 
 If you conduct measurements, you may find that certain numbers point at poor code quality.
 In such cases, offer an explanation _why_ the code ended up like it is now, 
