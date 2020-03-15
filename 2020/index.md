@@ -45,7 +45,8 @@ Fri Apr 3  | full day |  | All student teams | Team presentations
 ### Lecture rooms:
 
 - Wednesday lectures: Room Chip, EWI-36.
-- Friday lectures: Feb 14: CT-CZ-E; Other Fridays: Room Pi, EWI-36
+- Friday lectures: Feb 14 / March 6: CT-CZ-E; Other Fridays: Room Pi, EWI-36
+- March 13 and March 20 lectures: On line via Twitch.tv
 
 [sig]: https://www.softwareimprovementgroup.com/
 [grady booch]: https://en.wikipedia.org/wiki/Grady_Booch
@@ -86,14 +87,16 @@ You can watch our progress (for essays made public) at [desosa2020.netlify.com][
 
 Date       | Time  | Writing      | Coding                    | Reviewing
 |---|---|---|---|---|
-Mon Feb 17 | 17:00 |              | Teams have selected project
+Mon Feb 17 | 17:00 |              | Project selected          |
 Wed Feb 19 | 17:00 |              | [Top-level decomposition](guidelines_for_componentization.html)   |
-Mon Mar 9  | 17:00 | Team essay 1 | --                        | --
-Mon Mar 16 | 17:00 | Team essay 2 | [Pull request midway report](assignment.html#contributions)  | Essay 1
-Mon Mar 23 | 17:00 | Team essay 3 | --                        | Essay 2
-Mon Mar 30 | 17:00 | Team essay 4 | Pull request report       | Essay 3
-Mon Apr  6 | 17:00 | --           | --                        | Essay 4, poster
-
+Mon Mar 9  | 17:00 | Team essay 1 |                           |
+Mon Mar 16 | 17:00 |              | [Pull request midway report](assignment.html#contributions)  | Essay 1
+Thu Mar 19 | 17:00 | Team essay 2 |                           |
+Mon Mar 23 | 17:00 |              |                           | Essay 2
+Thu Mar 26 | 17:00 | Team essay 3 |    						  |
+Mon Mar 30 | 17:00 |              |                           | Essay 3
+Mon Apr 6  | 17:00 | Team essay 4 | Pull request report       |
+Thu Apr 9  | 17:00 |              |                           | Essay 4
 
 ## Grades
 

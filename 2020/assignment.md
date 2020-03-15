@@ -88,7 +88,7 @@ Strong writing skills are an invaluable asset for an architect. To quote [Dan He
 
 Therefore, we will use this course to train and improve our writing skills.
 
-Each team will write four essays. Each essay should be around 1000-1500 words. After 1500 words teachers (or any reader, in fact), reserve the right to stop reading, which may affect your grade. We'll be counting words by running [Markdown Word Count], developed by a former Software Architecture student, on your `.md` markdown files.
+Each team will write four essays. Each essay should be around ~~1000-1500~~ 1500-2000 words. After ~~1500~~ 2000 words teachers (or any reader, in fact), reserve the right to stop reading, which may affect your grade. We'll be counting words by running [Markdown Word Count], developed by a former Software Architecture student, on your `.md` markdown files.
 
 Your essays will be evaluated based on the following:
 
