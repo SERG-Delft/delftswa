@@ -240,7 +240,7 @@ Once you are ready to submit your essay, please follow the following steps:
         _Note:_ This make command was added later.
         Make sure you are up to date with the master branch if the command is not available.
 
-3.  Submit your essay to [Peer](https://peer.ewi.tudelft.nl/), the peer evaluation system that we use.
+3.  Submit your essay to [peer.ewi.tudelft.nl](https://peer.ewi.tudelft.nl/), the peer evaluation system that we use.
     After logging in with your NetID, you can find the Software Architecture course under "Enrolled Courses".
     On the course page, select the correct assignment (corresponding to the essay you are about to hand in) and submit the PDF from step 2.
     
