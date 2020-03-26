@@ -94,9 +94,8 @@ Wed Feb 19 | 17:00 |              | [Top-level decomposition](guidelines_for_com
 Mon Mar 9  | 17:00 | Team essay 1 |                           |
 Mon Mar 16 | 17:00 |              | [Pull request midway report](assignment.html#contributions)  | Essay 1
 Thu Mar 19 | 17:00 | Team essay 2 |                           |
-Mon Mar 23 | 17:00 |              |                           | Essay 2
-Thu Mar 26 | 17:00 | Team essay 3 |    						  |
-Mon Mar 30 | 17:00 |              |                           | Essay 3
+Thu Mar 26 | 17:00 | Team essay 3 |    						  | Essay 2
+Thu Apr 5  | 17:00 |              |                           | Essay 3
 Mon Apr 6  | 17:00 | Team essay 4 | Pull request report       |
 Thu Apr 9  | 17:00 |              |                           | Essay 4
 
