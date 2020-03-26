@@ -11,7 +11,6 @@ The 2020 teaching team consists of:
 
 - Arie van Deursen (responsible professor)
 - Casper Boone (Teaching assistent)
-- Andrei Simion-Constantinescu (Teaching assistent)
 - Aggelos Gamvrinos (Teaching assistent)
 - Xavier Devroey (co-teacher, variability)
 - Marco Di Biase (co-teacher, quality)
@@ -36,11 +35,14 @@ Wed Mar 4  | 15:45 | Lecture 7 | [Luis Cruz]              | Architecting for Sus
 Fri Mar 6  | 15:45 | Lecture 8 | Bert Wolters, [Adyen]    | Architecting for Scalability
 Wed Mar 11 | 15:45 | Lecture 9 | Ferd Scheepers, [ING]    | ~~Architecting for the Enterprise~~ (cancelled)
 Fri Mar 13 | 15:45 | Lecture 10 | [Steffan Norberhuis][norberhuis]      | Architecting for Operations ([slides](slides/architecting-for-operations.pdf), [twitch](https://www.twitch.tv/videos/566492713))
-Wed Mar 18 | 15:45 | Lecture 11 | _no lecture_              | 
-Fri Mar 20 | 15:45 | Lecture 12 | [Daniel Gebler], [Picnic] | Architecting with or without Microservices
-Wed Mar 25 | 15:45 | Lecture 13 | _no lecture_              | 
-Fri Apr 3  | full day |  | All student teams | Team presentations
+Fri Mar 20 | 15:45 | Lecture 11 | [Daniel Gebler], [Picnic] | ~~Microservices at Picnic~~ (cancelled)
+           |       |            | Arie van Deursen          | Ask me anything ([mattermost])
+Fri Mar 27 | 15:45 |            | Arie van Deursen          | Ask me anything ([mattermost])
+Fri Apr 3  | full day |  | All student teams | Video presentations
            | 17:00 | Drinks | Everyone
+
+[mattermost]: https://mattermost.ewi.tudelft.nl/sa-2019-2020/channels/questions
+
 
 ### Lecture rooms:
 

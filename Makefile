@@ -5,4 +5,4 @@ docker:
 	docker run --rm --volume="$(CURDIR):/srv/jekyll" -it jekyll/builder:3.8.6 bash
 
 serve:
-	cd _site && python -m SimpleHTTPServer $(PORT)
+	cd _site && python2.7 -m SimpleHTTPServer $(PORT)
