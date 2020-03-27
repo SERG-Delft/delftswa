@@ -38,7 +38,6 @@ Fri Mar 13 | 15:45 | Lecture 10 | [Steffan Norberhuis][norberhuis]      | Archit
 Fri Mar 20 | 15:45 | Lecture 11 | [Daniel Gebler], [Picnic] | ~~Microservices at Picnic~~ (canceled)
            |       |            | Arie van Deursen          | Ask me anything ([mattermost])
 Fri Apr 3  | full day |  | All student teams | Video presentations
-           | 17:00 | Drinks | Everyone
 
 [mattermost]: https://mattermost.ewi.tudelft.nl/sa-2019-2020/channels/questions
 
