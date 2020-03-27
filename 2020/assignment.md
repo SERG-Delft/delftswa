@@ -231,16 +231,21 @@ When discussing energy efficiency, **critical thinking** is key. Aspects to cove
 - Would automation tools help?
 - What is missing in the project to leverage energy efficiency?
 
+
 <!--
-#### Essay 4.ETH: Ethics
-
-
 #### Essay 5.QUA: Deeper Quality Assessment
 -->
 
 #### Essay 4.OTH: Topic of choice
 
-A topic of choice, specific to your project. This can be based on documentation of your project, architectural literature you'd like to understand and apply to your project, or on one of the industrial guest lectures. If you pick this option, consult the teachers first with a short proposal (a few sentences) explaining what you'd like to investigate, and how this is relevant to your project.
+A topic of choice, specific to your project. This can be based on 
+
+- documentation of your project, 
+- architectural literature you'd like to understand and apply to your project, 
+- one of the industrial guest lectures
+- one of your earlier essays, where you could not elaborate certain aspects in the first version. For example, essay 3 lists many possible asepcts, and you may have deliberately  skipped some of those in essay 3. Expand those in essay 4.
+
+If you pick this option, consult the teachers first with a short proposal (a few sentences) explaining what you'd like to investigate, and how this is relevant to your project.
 
 
 <!--
