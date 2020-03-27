@@ -193,7 +193,58 @@ Relevant pointers for this essay include:
 <a id="deepening"></a>
 ### Essay 4: Deepening your Analysis
 
-Your team's final essay serves to deepen your analyis, and can be on one of the following topics:
+Your team's final essay serves to deepen your analyis, and can be on one of the following topics.
+
+#### Essay 4.VAR: Variability Analysis
+
+An analysis of the variability modeling, management and implementation mechanisms that are relevant to your system,
+based on the [lecture by Xavier Devroey](slides/tudelft-architecture-spl2020.pdf).
+The details of this essay are [described separately](assignment-variability.html).
+
+#### Essay 4.COL: Collaboration Analysis
+
+An analysis of  the collaborative and social aspects of the  system under study, based on the [lecture by Ayushi Ratsogi](slides/sa-people.pdf).
+
+To that end, assess the _socio-technical congruence_ in the development effort of your system under study as follows:
+
+1. Study the paper on _socio-technical congruence_ by Cataldo et al (ICSE 2008) [^cataldo]
+2. Using your results from Essay 2, identify a number of components that are _loosely_ coupled, and a number of compnents that are  _tightly_ coupled.
+3. Analyze  the communication network of the developers, for example by analyzing  which developers communicate with each other in pull requests, issues, or other channels.
+4. Contrast the two dependency  networks, and assess their congruence in relation to Conway's law.
+
+
+#### Essay 4.SUS: Sustainability Analysis
+
+Look into the change history of the project and find code changes that are related
+to green computing, based on the [green software engineering lecture by Luís Cruz](slides/sa-green-se.pdf). 
+Present and discuss the rationale behind those changes:
+
+- Suggest energy improvements to be implement in the project (development, source, infrastructure). Implement them, if possible.
+- Measure the energy consumption of potential hotspots. (use RAPL)
+
+When discussing energy efficiency, **critical thinking** is key. Aspects to cover include:
+
+- No assumptions or preconceptions, think outside the script.
+- Is it always possible to reduce energy consumption?
+- What are the trade-offs of improving energy efficiency?
+- What are the implications on UX or business metrics?
+- Would automation tools help?
+- What is missing in the project to leverage energy efficiency?
+
+<!--
+#### Essay 4.ETH: Ethics
+
+
+#### Essay 5.QUA: Deeper Quality Assessment
+-->
+
+#### Essay 4.OTH: Topic of choice
+
+A topic of choice, specific to your project. This can be based on documentation of your project, architectural literature you'd like to understand and apply to your project, or on one of the industrial guest lectures. If you pick this option, consult the teachers first with a short proposal (a few sentences) explaining what you'd like to investigate, and how this is relevant to your project.
+
+
+<!--
+### Essay  4 OLD
 
 1. [Configurability analysis](assignment-variability.html), based on the lecture by Xavier Devroey.
 
@@ -202,6 +253,7 @@ Your team's final essay serves to deepen your analyis, and can be on one of the 
 3. Sustainability analysis, based on the lecture by Luís Cruz (details will follow)
 
 4. A topic of choice, specific to your project. This can be based on documentation of your project, architectural literature you'd like to understand and apply to your project, or on one of the industrial guest lectures. If you pick this option, consult the teachers first with a short proposal (a few sentences) explaining what you'd like to investigate, and how this is relevant to your project.
+-->
 
 ## Submissions
 
@@ -297,3 +349,5 @@ While your aim is of course that the pull request gets merged, the merge itself 
 [^arc]: Peter Hruschka and Gernot Starke. arc42: Effective, lean and pragmatic architecture documentation and communication. [https://docs.arc42.org/home/][arc42]
 
 [^c4]: The C4 model for visualising software architecture. [https://c4model.com/](https://c4model.com/).
+
+[^cataldo]: Cataldo, Herbsleb, and Carley.  Socio-Technical Congruence: A Framework for Assessing the Impact of Technical and Work Dependencies on Software Development Productivity. ICSE 2008. [https://herbsleb.org/web-pubs/pdfs/cataldo-socio-2008.pdf](https://herbsleb.org/web-pubs/pdfs/cataldo-socio-2008.pdf)
