@@ -85,17 +85,17 @@ You can watch our progress (for essays made public) at [desosa2020.netlify.com][
 
 ## Deadlines
 
-Date       | Time  | Writing      | Coding                    | Reviewing
-|---|---|---|---|---|
-Mon Feb 17 | 17:00 |              | Project selected          |
-Wed Feb 19 | 17:00 |              | [Top-level decomposition](guidelines_for_componentization.html)   |
-Mon Mar 9  | 17:00 | Team essay 1 |                           |
-Mon Mar 16 | 17:00 |              | [Pull request midway report](assignment.html#contributions)  | Essay 1
-Thu Mar 19 | 17:00 | Team essay 2 |                           |
-Thu Mar 26 | 17:00 | Team essay 3 |    						  | Essay 2
-Thu Apr 2  | 17:00 |              |                           | Essay 3
-Mon Apr 6  | 17:00 | Team essay 4 | Pull request report       |
-Thu Apr 9  | 17:00 |              |                           | Essay 4
+Date       | Time  | Writing      | Coding                    | Reviewing | Presenting
+|---|---|---|---|---|---|
+Mon Feb 17 | 17:00 |              | Project selected          |           |
+Wed Feb 19 | 17:00 |              | [Top-level decomposition](guidelines_for_componentization.html)   |           |
+Mon Mar 9  | 17:00 | Team essay 1 |                           |           |
+Mon Mar 16 | 17:00 |              | [Pull request midway report](assignment.html#contributions)  | Essay 1 |
+Thu Mar 19 | 17:00 | Team essay 2 |                           |           |
+Thu Mar 26 | 17:00 | Team essay 3 |                           | Essay 2   |
+Thu Apr 2  | 17:00 |              |                           | Essay 3   | Presentation Video
+Mon Apr 6  | 17:00 | Team essay 4 | Pull request report       |           |
+Thu Apr 9  | 17:00 |              |                           | Essay 4   |
 
 ## Grades
 
