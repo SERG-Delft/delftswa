@@ -37,7 +37,7 @@ Wed Mar 11 | 15:45 | Lecture 9 | Ferd Scheepers, [ING]    | ~~Architecting for t
 Fri Mar 13 | 15:45 | Lecture 10 | [Steffan Norberhuis][norberhuis]      | Architecting for Operations ([slides](slides/architecting-for-operations.pdf), [twitch](https://www.twitch.tv/videos/566492713))
 Fri Mar 20 | 15:45 | Lecture 11 | [Daniel Gebler], [Picnic] | ~~Microservices at Picnic~~ (canceled)
            |       |            | Arie van Deursen          | Ask me anything ([mattermost])
-Fri Apr 3  | full day |  | All student teams | Video presentations
+Fri Apr 3  | full day |  | All student teams | Video presentations and online discussions.
 
 [mattermost]: https://mattermost.ewi.tudelft.nl/sa-2019-2020/channels/questions
 
@@ -73,7 +73,7 @@ Team work includes:
     3. an assessment of [quality and (potential) technical debt](assignment.html#quality); and
     4. a [deeper analysis](assignment.html#deepening) based on the lectures or other relevant material specific to the system of choice;
 3. [Contributing changes](assignment.html#contributions) to the open source system selected (via pull requests submitted on GitHub)
-4. Preparing a final poster and presentation
+4. Preparing a final video summarizing the key results, and answering questions about it (online).
 5. Reviewing work from other teams, to learn from them, and to give them feedback
 
 The four essays can build upon each other, but should be independently readable.
@@ -103,7 +103,7 @@ Students will receive grades based on the following:
 
 - `E`: Team performance for each of the four essays (1-10), composed form the average of the four essays E1..E4.
 - `C`: Team performance for code contributions (1-10)
-- `P`: Team performance for poster presentation (1-10)
+- `P`: Team performance for video presentation (1-10)
 - `R`: Individual performance in peer reviews (-1, 0, 1) -- zero by default
 - `A`: Individual performance in participation (-1, 0, 1) -- zero by default
 
