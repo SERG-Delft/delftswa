@@ -18,12 +18,12 @@ layout: tud
 |               | blender                          | ansible                         |
 |               | openrct2                         | docker-compose                  |
 |               | open-edx                         | gitlab                          |
-|               | musescore                        | jupyternotebook                 |
+|               | musescore                        | sentry                          |
 |               | signal-android                   | bokeh                           |
 |               |                                  |                                 |
 | 15:15-17:00   | _Vehicles and Modern Currencies_ | _Software Development_          |
 |               | ardupilot                        | eslint                          |
 |               | openpilot                        | googletest                      |
 |               | riot                             | mypy                            |
-|               | ripple                           | sentry                          |
+|               | ripple                           | jupyternotebook                 |
 |               | solidity                         | spyder                          |
