@@ -37,7 +37,7 @@ Wed Mar 11 | 15:45 | Lecture 9 | Ferd Scheepers, [ING]    | ~~Architecting for t
 Fri Mar 13 | 15:45 | Lecture 10 | [Steffan Norberhuis][norberhuis]      | Architecting for Operations ([slides](slides/architecting-for-operations.pdf), [twitch](https://www.twitch.tv/videos/566492713))
 Fri Mar 20 | 15:45 | Lecture 11 | [Daniel Gebler], [Picnic] | ~~Microservices at Picnic~~ (canceled)
            |       |            | Arie van Deursen          | Ask me anything ([mattermost])
-Fri Apr 3  | full day |  | All student teams | Video presentations and online discussions.
+Fri Apr 3  | full day |  | All student teams | Video presentations and online discussions ([schedule](presentation-day.html))
 
 [mattermost]: https://mattermost.ewi.tudelft.nl/sa-2019-2020/channels/questions
 
