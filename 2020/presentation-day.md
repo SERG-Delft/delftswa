@@ -5,27 +5,27 @@ layout: tud
 
 ## Presentation Day Schedule
 
-| Slot          | Room A                           | Room B                          |
-|---------------|----------------------------------|---------------------------------|
-| 10:15 - 12:00 | _Machine Learning_               | _Web_                           |
+| Slot          | Room A                             | Room B                            |
+|---------------|------------------------------------|-----------------------------------|
+| 10:15 - 12:00 | _Machine Learning_                 | _Web_                             |
 |               | [ludwig]                           | [nextjs]                          |
 |               | [spacy]                            | [material-ui]                     |
-|               | [tensorflow]                       | [meteor]                          |
+|               | jupyternotebook                    | [meteor]                          |
 |               | [numpy]                            | [gatsby]                          |
 |               | [scikit-learn]                     | [micronaut]                       |
-|               |                                  |                                 |
-| 13:00 - 14:45 | _Media and Entertainment_        | _DevOps and Data Visualization_ |
+|               |                                    |                                   |
+| 13:00 - 14:45 | _Media and Entertainment_          | _DevOps and Data Visualization_   |
 |               | [blender]                          | [ansible]                         |
 |               | [openrct2]                         | [docker-compose]                  |
-|               | [open-edx]                         | gitlab                          |
+|               | [open-edx]                         | gitlab                            |
 |               | [musescore]                        | [sentry]                          |
 |               | [signal-android]                   | [bokeh]                           |
-|               |                                  |                                 |
-| 15:15-17:00   | _Vehicles and Modern Currencies_ | _Software Development_          |
+|               |                                    |                                   |
+| 15:15-17:00   | _Vehicles and Modern Currencies_   | _Software Development_            |
 |               | [ardupilot]                        | [eslint]                          |
-|               | [openpilot]                        | googletest                      |
+|               | [openpilot]                        | googletest                        |
 |               | [riot]                             | [mypy]                            |
-|               | [ripple]                           | jupyternotebook                 |
+|               | [ripple]                           | [tensorflow]                      |
 |               | [solidity]                         | [spyder]                          |
 
 [ansible]: https://desosa2020.netlify.com/projects/ansible/
