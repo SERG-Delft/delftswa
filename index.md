@@ -7,24 +7,33 @@ title: Software Architecture
 
 ## Course Content
 
-This TU Delft graduate (master level, see current [2020](2020/index.html) edition) course is concerned with the software architecture of software-intensive systems.
+This TU Delft graduate (master level, see current [{{ site.year }}]({{ site.year }}/index.html) edition) course is concerned with the software architecture of software-intensive systems.
 This relates to:
 
 1. **What** the software should do, now and in the future, and how it is to interact with its environment. Here we will look at the problem domain, natural ways to decompose and understand the problem domain, the desired capabilities of the system, required properties (such as privacy, usability, scalability, security, or maintainability) of the system, the context in which the system will operate, and the stakeholders that have an interest in the system.
+
 2. **How** the software is designed so that it can reliably meet its objectives. Here we will look at design principles, system decomposition and assembly, quality assurance procedures, architectural styles and patterns, and architectural perspectives on, e.g., configurability, energy consumption, or scalability.
+
 3. **Who** is involved in the use, operation, creation, and evolution of the software. Here we will look at all people aspects of software architecting, relating to leadership, team work, trust, bias, collaboration, effective communication, work distribution and Conway's law, ethics, and people development.
 
 Our aim is to study _reliable knowledge_ in these areas.
 To that end, we will work with three knowledge sources:
 
 1. **Practice**: Where possible, we will try to learn from actual software systems. To that end, students will engage with the architecture of an open source system. Furthermore, the course will involve 3-4 guest lectures by architects responsible for complex commercial software systems. We also intend to invite 3-4 international architects for a 15 minute _Ask Me Anything_ session over skype, in which they offer answers to questions asked by students of the course.
-2. **Theory**: Little is as applicable as good theory, which is codified practice. We will study various books, articles, and resources on the web. In particular we will look at Coplien and Bjørnvig's [Lean Architecture][lsa][^coplien]. We will also explore some ideas from Rozanski and Woods' [Views and Perspectives][views][^rozanski] approach to software systems architecture.
-3. **Research**: There is a lot that we do _not_ know about software architecture. In research we explore theories that may be true, or may turn out to be false. As part of the course we will investigate a number of new research findings, to establish whether they make sense.
+
+2. **Theory**: Little is as applicable as good theory, which is codified practice. We will study various books, articles, and resources on the web. 
+In particular we will look at 
+    - Coplien and Bjørnvig's [Lean Architecture][lsa][^coplien], with focus on delivering customer value
+    - Cesare Pautasso's [Software Architecture][cesare][^pautasso], offering a broad perspective on software arechitecture including software services, deployment, and scalability, and availability
+    - Rozanski and Woods' [Views and Perspectives][views][^rozanski] approach to software systems architecture at enterprise level.
+
+3. **Research**: There is a lot that we do _not_ know about software architecture. In research we explore theories that may be true, or may turn out to be false. As part of the course we will investigate a number of new research findings, to establish whether they apply to systems under study in this course.
 
 There will be 3-4 lectures for each of the three components (practice, theory, research).
 
 [lsa]: http://www.leansoftwarearchitecture.com/
 [views]: https://www.viewpoints-and-perspectives.info/
+[cesare]: https://leanpub.com/software-architecture/
 
 
 ## Course Assignments
@@ -41,17 +50,19 @@ Furthermore, teams will make actual changes to the systems under study, for exam
 
 ## Course Editions and History
 
-- 2020 edition: [Course description for 2020](2020/index.html) (February -- April, 2020).
-- 2015-2019: Resulting book: _Delft Students on Software Architecture_, DESOSA, editions 
+- {{ site.year }} edition: [Course description for {{ site.year }}]({{ site.year }}/index.html) (February--April, {{ site.year }}).
+- 2015-2020: Resulting books: _Delft Students on Software Architecture_, DESOSA, editions 
     [2015][desosa2015][^desosa2015],
     [2016][desosa2016][^desosa2016], 
     [2017][desosa2017][^desosa2017], 
     [2018][desosa2018][^desosa2018], 
-    [2019][desosa2019][^desosa2019]
+    [2019][desosa2019][^desosa2019],
+    [2020][desosa2020][^desosa2020]
 - 2017: Publication at ACM SIGCSE describing the course[^sigcse2017]: A Collaborative Approach to Teaching Software Architecture. SIGCSE 2017: 591-596
 - 2013: Blog post describing the 2013 edition of the course[^blog2013], [Teaching Software Architecture with GitHub!](https://avandeursen.com/2013/12/30/teaching-software-architecture-with-github/)
-- 2019 edition: [Course description](https://se.ewi.tudelft.nl/delftswa2019/)
+- Course descriptions for earlier editions: [2019](https://se.ewi.tudelft.nl/delftswa2019/), [2020](2020/index.html)
 
+[desosa2020]: https://desosa.nl
 [desosa2019]: https://se.ewi.tudelft.nl/desosa2019/
 [desosa2018]: https://pure.tudelft.nl/portal/en/publications/delft-students-on-software-architecture-desosa-2018(f0ae92bb-bbf4-49a7-a8dc-ef52ebc9018c).html
 [desosa2017]: https://pure.tudelft.nl/portal/en/publications/delft-students-on-software-architecture(3066d9da-6f18-4be8-9f2b-c7531c0d02e1).html
@@ -64,7 +75,7 @@ Earlier editions were co-taught with and inspired by a range of people, includin
 ## References
 
 [^sigcse2017]: Arie van Deursen, Maurício Aniche, Joop Aué, Rogier Slag, Michael de Jong, Alex Nederlof, Eric Bouwers. A Collaborative Approach to Teach Software Architecture. 48th ACM Technical Symposium on Computer Science Education (SIGCSE), 2017
-    ([preprint](https://pure.tudelft.nl/portal/en/publications/a-collaborative-approach-to-teaching-software-architecture(0c7f2aeb-f2d6-4c56-9ab7-5f47f73d133f).html)).
+    ([preprint](https://research.tudelft.nl/en/publications/a-collaborative-approach-to-teaching-software-architecture). [doi](https://doi.org/10.1145/3017680.3017737)).
 
 [^blog2013]: Arie van Deursen, Alex Nederlof, and Eric Bouwers. Teaching Software Architecture: with GitHub! [avandeursen.com](https://avandeursen.com/2013/12/30/teaching-software-architecture-with-github/), December 2013.
 
@@ -73,6 +84,8 @@ Earlier editions were co-taught with and inspired by a range of people, includin
 [^rozanski]: Nick Rozanski and Eoin Woods. [Software Systems Architecture: Working with Stakeholders Using Viewpoints and Perspectives][views]. Addison-Wesley, 2012, 2nd edition.
 
 [^coplien]: Jim Coplien Gertrud Bjørnvig. [Lean Architecture][lsa]. Wiley, 2010.
+
+[^pautasso]: Cesare Pautasso. Software Architecture: Visual Lecture Notes. Leanpub, 2020. [leanpub.com][cesare].
 
 [^desosa2015]: Arie van Deursen and Rogier Slag (editors). 
     Delft Students on Software Architecture: DESOSA 2015. TU Delft.
@@ -106,7 +119,14 @@ Earlier editions were co-taught with and inspired by a range of people, includin
     Delft Students on Software Architecture: DESOSA 2019. TU Delft.
     Available via
     [se.ewi.tudelft.nl (html)](https://se.ewi.tudelft.nl/desosa2019/),
-    [pure.tudelft.nl](https://pure.tudelft.nl/portal/en/publications/delft-students-on-software-architecture-desosa-2019(56334e89-3f7c-4aa9-9e25-1f3a1fc159a4).html),
+    [research.tudelft.nl](https://research.tudelft.nl/en/publications/delft-students-on-software-architecture-desosa-2019),
     [pdf](https://se.ewi.tudelft.nl/desosa2019/output/desosa2019.pdf), and
     [epub](https://se.ewi.tudelft.nl/desosa2019/output/desosa2019.epub)
 
+[^desosa2020]: Arie van Deursen and Casper Boone (editors).
+    Delft Students on Software Architecture: DESOSA 2020. TU Delft.
+    Available via
+    [desosa.nl](https://desosa.nl/),
+    [research.tudelft.nl](https://research.tudelft.nl/en/publications/delft-students-on-software-architecture-desosa-2020),
+    [pdf](https://se.ewi.tudelft.nl/delftswa/books/desosa2020.pdf), and
+    [epub](https://se.ewi.tudelft.nl/delftswa/books/desosa2020.epub)

@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Bree+Serif');
 
 body {
-	max-width: 800px;
-	margin-left: auto;
-	margin-right: auto;
+	margin-left: 15px;
+	margin-right: 15px;
+
 
 	font-family: "Bree+Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size: 12pt;
