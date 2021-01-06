@@ -7,7 +7,6 @@ _The content of this page is tentative and work in progress_
 
 Schedule and material for the 2021 edition of IN4315, the TU Delft [Software Architecture](../index.html) course.
 
-<!--
 
 ## IN4315 Teaching Team 2021
 
@@ -17,22 +16,48 @@ The 2021 teaching team consists of:
 - Diomidis Spinellis (co-teacher)
 - Burcu Ozkan (co-teacher)
 - Luís Cruz (co-teacher)
+- Shipra Sharma (teaching assistent)
+
+We are in the process of recruting additional Teaching Assistents.
+
+<!--
 
 - Casper Boone (Teaching assistent)
 - Xavier Devroey (co-teacher, variability)
 - Marco Di Biase (co-teacher, quality)
 - Ayushi Rastogi (co-teacher, social aspects)
 
+-->
+
 Furthermore, there will be several lecturers from industry.
 
-## Course Schedule
+## (Tentative) Course Schedule
 
 Because of the COVID-19 pandamic, all lectures will be online, most likely using Microsoft Teams.
-
+Scheduled interaction time includes the following:
 
 
 Date | Time | Activity | Teacher | Topic
 |---|---|---|---|
+Wed Feb 10 | 13:45 | Lecture 1 | Arie van Deursen         | Course Structure
+Fri Feb 12 | 08:45 | Lecture 2 | Arie van Deursen         | **Why**: The Product Vision
+Wed Feb 17 | 13:45 | Lecture 3 | Arie van Deursen         | **How**: Architectural Patterns
+Fri Feb 19 | 08:45 | Lecture 4 | Arie van Deursen         | **Who**: Architects at Work
+Wed Feb 24 | 13:45 | Lecture 5 | Luis Cruz                | Architecting for Sustainability
+Fri Feb 26 | 08:45 | Lecture 6 | Burcu Ozkan              | Architecting for Distribution
+Wed Mar 3  | 13:45 | Lecture 7 | Diomidis Spinellis       | 50 years of Unix Architecture
+Fri Mar 5  | 08:45 | Lecture 8 | TBD <!-- Adyen? -->
+Wed Mar 10 | 13:45 | Lecture 9 | TBD <!-- ING? -->
+Fri Mar 12 | 08:45 | Lecture 10 | TBD <!-- Picnic? -->
+Wed Mar 17 | 13:45 | Lecture 11 | TBD 
+Fri Mar 19 | 08:45 | Lecture 12 | TBD
+**Thu** Apr 1 | Full Day| Final presentations | All students
+
+
+
+
+<!--
+
 Wed Feb 12 | 15:45 | Lecture 1 | Arie van Deursen         | Course structure ([slides](slides/in4315-intro.pdf))
 Fri Feb 14 | 15:45 | Lecture 2 | Arie van Deursen         | Lean Architecture ([slides](slides/lean-architecture-part-1.pdf))
            | 17:00 |           | [Grady Booch], IBM       | _Ask Me Anything_ on [SATURN 2016](https://www.youtube.com/watch?v=RJ3v5cSNcB8) keynote
