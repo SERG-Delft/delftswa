@@ -1,27 +1,27 @@
 ---
-title: "Assignment"
+title: "Assignment 2021"
 layout: tud
 ---
 
 TENTATIVE -- WORK IN PROGRESS
 
-<!--
+
 
 ## Team Formation
 
 As software architecture is all about collaboration and communication, the work must be done in teams:
 
 1.	Required team size is 4
-2.	Aim for diversity in your team. For example, aim at at a mixture of Embedded Systems / Software Technology / Data Science / Policy & Management expertise, different cultures, countries, etc.
+2.	Aim for diversity in your team. For example, aim at at a mixture of master tracks, backgrounds, expertise,  cultures, countries, etc.
 3.  Form your group in Brightspace. Go to "Groups".
 
 If you are looking for partners, you can post a message on our Brightspace forum (there is a topic for [partners wanted][partners]), and offer your expertise.
 
-[brightspace]: https://brightspace.tudelft.nl/d2l/home/197146
-[partners]: https://brightspace.tudelft.nl/d2l/le/197146/discussions/topics/30294/View
+[brightspace]: https://brightspace.tudelft.nl/d2l/home/280700
+[partners]: https://brightspace.tudelft.nl/d2l/le/280700/discussions/topics/42189/View
 
 
-
+<!--
 
 ## Getting Access to GitLab for Writing
 
