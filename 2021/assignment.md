@@ -21,11 +21,10 @@ If you are looking for partners, you can post a message on our Brightspace forum
 [partners]: https://brightspace.tudelft.nl/d2l/le/280700/discussions/topics/42189/View
 
 
-<!--
 
 ## Getting Access to GitLab for Writing
 
-All team members will get access to a shared [GitLab][gitlab-desosa] repository hosting the sources of the DESOSA 2020 book.
+All team members will get access to a shared [GitLab][gitlab-desosa] repository hosting the sources of the DESOSA 2021 book.
 
 Within this repository, each team will have one dedicated project sub-folder to work in.
 Teams should only add changes to their own sub-folder.
@@ -35,11 +34,10 @@ Follow all good software development practices in this repository, such as using
 
 You are encouraged to use issues and pull requests, properly labeling them with an identifier for your project.
 
-[gitlab]: https://gitlab.ewi.tudelft.nl/in4315/2019-2020
-[gitlab-desosa]: https://gitlab.ewi.tudelft.nl/in4315/2019-2020/desosa2020/tree/master
+[gitlab-desosa]: https://gitlab.ewi.tudelft.nl/in4315/2020-2021/desosa2021
 
 
-
+<!--
 
 <a id="picking"></a>
 
