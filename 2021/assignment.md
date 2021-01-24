@@ -29,12 +29,16 @@ All team members will get access to a shared [GitLab][gitlab-desosa] repository 
 Within this repository, each team will have one dedicated project sub-folder to work in.
 Teams should only add changes to their own sub-folder.
 
-All documents are to be written in `markdown`, maintained under git in your GitLab repository.
+The repo includes all essays written for all projects. The essays themselves are writen in [Markdown], and rendered using [Jekyll] on the web, and [pandoc] for creating a pdf and an epub version.
+
 Follow all good software development practices in this repository, such as using issues and milestones for planning, merge requests, review, etc. Show that you are well-organized, and that the teachers can clearly see what you did and what you  are planning to do.
 
 You are encouraged to use issues and pull requests, properly labeling them with an identifier for your project.
 
 [gitlab-desosa]: https://gitlab.ewi.tudelft.nl/in4315/2020-2021/desosa2021
+[jekyll]: https://jekyllrb.com/
+[markdown]: https://daringfireball.net/projects/markdown/
+[pandoc]: https://pandoc.org/MANUAL.html
 
 
 <a id="picking"></a>
@@ -58,28 +62,25 @@ To claim a project: Post on the Brightspace forum, title _Claiming project P_, e
 
 
 
-<!--
 
 ## Individual Journals
 
 You will have considerable freedom in this course. Nevertheless, a _steady heartbeat is required_, and you are accountable for how you spend your time.
 
-An architect is always eager to learn more. In this course, you have 5 EC available for software architecture in 8 weeks, giving a _minimum effort of 5 * 28 / 8 = 17.5 hours per week_ that you should spend on this course.
+In this course, you have 5 EC available for software architecture in 8 weeks, giving a _minimum effort of 5 * 28 / 8 = 17.5 hours per week_ that you should spend on this course.
 
-Grading will be also based on the progress you made compared to your initial knowledge and skill level, not just based on a preset end-goal.
+Use this time to learn as much as you can, as an architect is always eager to learn more.
+Grading will also be based on the progress you made compared to your initial knowledge and skill level, not just based on a preset end-goal.
 
 To make this possible, it is important that you and your team provide insight in what you do each week. To that end:
 
 1. Create a folder `journal` in your project folder.
 2. In that folder, create four separate files for each team member
-3. Each team member individually reports his or her own weekly experiences and effort in the course. It is important to commit and push these reports regularly, and that you commit your own updates.
+3. Team members individually reports their own weekly experiences and effort in the course. It is important to commit and push these reports weekly (or even more frequently), and that you commit your own updates.
 
 In the journal, you can offer a story of what you learned, what activities you participated in (lectures, meetings).
 All effort related to the course can be included, including routes taken that do not directly lead to text in your essays (e.g., projects considered when selecting your project).
 For each week, also include _the number of hours  you spent that week on the software architecture course_.
-
-
-[tagging]: http://git-scm.com/book/en/Git-Basics-Tagging
 
 
 ## Essays
@@ -111,7 +112,10 @@ You can decide yourself which posts you want to make public by means of simple m
 [Dan Heller]: https://medium.com/@daniel.heller/ten-principles-for-growth-69015e08c35b
 [Markdown Word Count]: https://github.com/gandreadis/markdown-word-count
 [cc by-sa 4.0]: https://creativecommons.org/licenses/by-sa/4.0/legalcode
-[netlify]: https://desosa2020.netlify.com/#
+[netlify]: https://desosa2021.netlify.com/#
+
+
+<!--
 
 <a id="vision"></a>
 
