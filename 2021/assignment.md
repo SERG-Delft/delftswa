@@ -37,8 +37,6 @@ You are encouraged to use issues and pull requests, properly labeling them with 
 [gitlab-desosa]: https://gitlab.ewi.tudelft.nl/in4315/2020-2021/desosa2021
 
 
-<!--
-
 <a id="picking"></a>
 
 ## Picking a Project
@@ -51,14 +49,16 @@ In principle you are free to pick any open source project on GitHub. Take the fo
 * The project should not have been used in previous courses (you can see them by checking previous versions of our books).
 * The project should be open to external contributors (i.e. accept pull requests from outsiders)
 
-You can check these constraints by using GHTorrent data on BigQuery. An active project will have 1 or more pull requests per day. To get you started, we hand-picked a [list of projects](suggested-projects.html) which are large, actively developed, maintained by a vibrant community, and are not analyzed in the previous runs of this course. 
+An active project should have 1 or more pull requests per day. To get you started, we hand-picked a [list of projects](suggested-projects.html) which are large, actively developed, maintained by a vibrant community, and are not analyzed in the previous runs of this course. 
 
 To claim a project: Post on the Brightspace forum, title _Claiming project P_, explain why you like this project in the issue, and indicate the 4 team members that will work on this project as well as your group number. Make sure to add their GitLab accounts in the issue so we can find them.
 
 
-[claiming]: https://brightspace.tudelft.nl/d2l/le/197146/discussions/topics/30295/View
+[claiming]: https://brightspace.tudelft.nl/d2l/le/280700/discussions/topics/42190/View
 
 
+
+<!--
 
 ## Individual Journals
 
@@ -290,6 +290,8 @@ Once you are ready to submit your essay, please follow the following steps:
     On the course page, select the correct assignment (corresponding to the essay you are about to hand in) and submit the PDF from step 2.
     
     _Note:_ This only needs to be done once per team.
+
+
 
 <a id="contributions"></a>
 ## System Contributions
