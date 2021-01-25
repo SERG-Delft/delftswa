@@ -83,9 +83,9 @@ Team work includes:
 
 The four essays can build upon each other, but should be independently readable.
 We will collect all essays in an online book, that will emerge throughout the course.
-You can watch our progress (for essays made public) at [desosa2021.netlify.com][desosa2021].
+You can watch our progress (for essays made public) at [2021.desosa.nl][desosa2021].
 
-[desosa2021]: https://desosa2021.netlify.com/#
+[desosa2021]: https://2021.desosa.nl
 
 
 
