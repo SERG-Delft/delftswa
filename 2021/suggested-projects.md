@@ -4,9 +4,11 @@ title: Suggested projects
 ---
 
 
-| **Project** | **GitHub URL** |
-| Egeria (ING) | https://github.com/odpi/egeria |
-| JHipster | https://github.com/jhipster/generator-jhipster |
+| **Project** | **GitHub URL** | Remarks
+| CoronaMelder | https://github.com/minvws | Dutch Covid19 Notification App
+| Covid Tools | http://jgbarah.github.io/Notes/foss-covid-tools.html | Find your favorite
+| Egeria | https://github.com/odpi/egeria | ING
+| JHipster | https://github.com/jhipster/generator-jhipster | Variability
 | CURL | https://github.com/curl/curl |
 | Flink | https://github.com/apache/flink |
 | XWiki | https://github.com/xwiki/xwiki-platform |
