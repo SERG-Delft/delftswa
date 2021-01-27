@@ -13,12 +13,13 @@ As software architecture is all about collaboration and communication, the work 
 
 1.	Required team size is 4
 2.	Aim for diversity in your team. For example, aim at at a mixture of master tracks, backgrounds, expertise,  cultures, countries, etc.
-3.  Form your group in Brightspace. Go to "Groups".
+3.  Form your group in Brightspace. Go to Collaboration -> [Groups].
 
 If you are looking for partners, you can post a message on our Brightspace forum (there is a topic for [partners wanted][partners]), and offer your expertise.
 
 [brightspace]: https://brightspace.tudelft.nl/d2l/home/280700
 [partners]: https://brightspace.tudelft.nl/d2l/le/280700/discussions/topics/42189/View
+[groups]: https://brightspace.tudelft.nl/d2l/lms/group/user_group_list.d2l?ou=280700
 
 
 
@@ -29,7 +30,7 @@ All team members will get access to a shared [GitLab][gitlab-desosa] repository 
 Within this repository, each team will have one dedicated project sub-folder to work in.
 Teams should only add changes to their own sub-folder.
 
-The repo includes all essays written for all projects. The essays themselves are writen in [Markdown], and rendered using [Jekyll] on the web, and [pandoc] for creating a pdf and an epub version.
+The repo includes all essays written for all projects. The essays themselves are writen in [Markdown], and rendered using [Hugo] on the web, and [pandoc] for creating a pdf and an epub version.
 
 Follow all good software development practices in this repository, such as using issues and milestones for planning, merge requests, review, etc. Show that you are well-organized, and that the teachers can clearly see what you did and what you  are planning to do.
 
@@ -37,6 +38,7 @@ You are encouraged to use issues and pull requests, properly labeling them with 
 
 [gitlab-desosa]: https://gitlab.ewi.tudelft.nl/in4315/2020-2021/desosa2021
 [jekyll]: https://jekyllrb.com/
+[hugo]: https://gohugo.io/
 [markdown]: https://daringfireball.net/projects/markdown/
 [pandoc]: https://pandoc.org/MANUAL.html
 
@@ -107,7 +109,7 @@ Your essays will be evaluated based on the following:
 The intended audience for the essays consists of computer science students or software engineers, interested in learning about architectural aspects of your open source project.
 
 A [publicly visible blog][desosa2021] is available through which teams can publish their essays. Different from previous years, we are publishing the essays throughout the course (and not just all at once after the course). We will use the blog to engage with and share our work with the open source community. Published essays (blog posts) will carry a [CC BY-SA 4.0] license, allowing the open source projects to include the resulting posts in their own documentation.
-You can decide yourself which posts you want to make public by means of simple meta-data flag in your jekyll markdown document.
+You can decide yourself which posts you want to make public by means of simple meta-data flag in your Hugo markdown document.
 
 [Dan Heller]: https://medium.com/@daniel.heller/ten-principles-for-growth-69015e08c35b
 [Markdown Word Count]: https://github.com/gandreadis/markdown-word-count
@@ -295,13 +297,14 @@ Once you are ready to submit your essay, please follow the following steps:
     
     _Note:_ This only needs to be done once per team.
 
+-->
 
 
 <a id="contributions"></a>
 ## System Contributions
 
 To familiarize yourself with the system under analysis, your team will _contribute_ to the system.
-This will take the form of a pull  request to the system.
+This will take the form of a pull request to the system.
 Aspects to consider include:
 
 1. It is probably a good  idea  to start with a very simple pull request, just to understand the whole process.
@@ -318,7 +321,7 @@ There will be two deadlines, for two simple reports:
 - Pull request midway report: Halfway the course, ensure submitted pull requests have all been added to  your `index.md`, and write a short plan for remaining pull requests that you still intend to submit.
 - Pull request final report: Again, ensure all submitted pull requests have been added to your `index.md`. Furthermore, for work on potential pull requests you  _tried_, but which eventually did not result in an actual pull request submission, write a short summary of what you did, and what was so hard about it.
 
-The two reports can be put in a file `contributions.md`, which you can put in your `journals` folder (so that it is ignored by jekyll). As an indication, around 100 words will probably suffice per planned (or terminated) pull request.
+The two reports can be put in a file `contributions.md`, which you can put in your `journals` folder (so that it is ignored by Hugo). As an indication, around 100 words will probably suffice per planned (or terminated) pull request.
 
 Pull requests will be graded, based on the following criteria:
 
@@ -329,6 +332,7 @@ Pull requests will be graded, based on the following criteria:
 While your aim is of course that the pull request gets merged, the merge itself is not part of the grade.
 
 
+<!--
 
 ## References
 
