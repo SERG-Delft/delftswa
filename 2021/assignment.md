@@ -123,6 +123,7 @@ You can decide yourself which posts you want to make public by means of simple m
 
 ### Essay 1: The Product Vision
 
+
 The starting point for your architectural analysis is a description of the _vision_ underlying your project and its future success. 
 Aspects to take into account include:
 
@@ -140,6 +141,7 @@ Relevant literature for this essay includes
 - _Lean Architecture_ [^coplien], Chapters 2 (end-user mental model), 3 (stakeholder analysis), and 4 (problem definition)
 - _Software Systems Architecture_ [^rozanski], Chapter 9 (stakeholder analysis) and 16 (context analysis)
 - _arc42 documentation_ [^arc]: Chapters 1 (Requirement and goals), 2 (Constraints), and 3 (Scope & Context)
+
 
 <a id="architecture"></a>
 
