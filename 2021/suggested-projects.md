@@ -9,6 +9,7 @@ title: Suggested projects
 | Covid Tools | http://jgbarah.github.io/Notes/foss-covid-tools.html | Find your favorite
 | Egeria | https://github.com/odpi/egeria | ING
 | JHipster | https://github.com/jhipster/generator-jhipster | Variability
+| Scaphandre | https://github.com/hubblo-org/scaphandre | Energy efficiency
 | CURL | https://github.com/curl/curl |
 | Flink | https://github.com/apache/flink |
 | XWiki | https://github.com/xwiki/xwiki-platform |
