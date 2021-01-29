@@ -4,13 +4,17 @@ title: Suggested projects
 ---
 
 
-| Project | GitHub URL | Remarks |
-|--|--|--|
-| CoronaMelder | [https://github.com/minvws](https://github.com/minvws) | Dutch Covid19 Notification App
-| Covid Tools | [http://jgbarah.github.io/Notes/foss-covid-tools.html](http://jgbarah.github.io/Notes/foss-covid-tools.html) | Find your favorite
-| Egeria | [https://github.com/odpi/egeria](https://github.com/odpi/egeria) | ING
-| JHipster | [https://github.com/jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) | Variability
-| Scaphandre | [https://github.com/hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) | Energy
+| Project | GitHub URL | Remarks | Proposed by |
+|--|--|--|--|
+| CoronaMelder | [https://github.com/minvws](https://github.com/minvws) | Dutch Covid19 Notification App | Arie van Deursen
+| Covid Tools | [http://jgbarah.github.io/Notes/foss-covid-tools.html](http://jgbarah.github.io/Notes/foss-covid-tools.html) | Find your favorite | Arie van Deursen
+| Egeria | [https://github.com/odpi/egeria](https://github.com/odpi/egeria) | ING | Arie van Deursen
+| JHipster | [https://github.com/jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) | Variability | Xavier Devroey
+| Scaphandre | [https://github.com/hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) | Energy | Luís Cruz
+| Sitespeed | [https://github.com/sitespeedio/sitespeed.io](https://github.com/sitespeedio/sitespeed.io) | | Luís Cruz
+| Electriciy Map | [https://github.com/tmrowco/electricitymap-contrib](https://github.com/tmrowco/electricitymap-contrib) | Energy | Luís Cruz |
+| Firecracker | [https://github.com/firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) | | Luís Cruz | 
+| Timescale DB | [https://github.com/timescale/timescaledb](https://github.com/timescale/timescaledb)] | | Luís Cruz
 | CURL | [https://github.com/curl/curl](https://github.com/curl/curl) |
 | Flink | [https://github.com/apache/flink](https://github.com/apache/flink) |
 | XWiki | [https://github.com/xwiki/xwiki-platform](https://github.com/xwiki/xwiki-platform) |
