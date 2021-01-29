@@ -93,7 +93,7 @@ Strong writing skills are an invaluable asset for an architect. To quote [Dan He
 
 Therefore, we will use this course to train and improve our writing skills.
 
-Each team will write four essays. Each essay should be around ~~1000-1500~~ 1500-2000 words. After ~~1500~~ 2000 words teachers (or any reader, in fact), reserve the right to stop reading, which may affect your grade. We'll be counting words by running [Markdown Word Count], developed by a former Software Architecture student, on your `.md` markdown files.
+Each team will write four essays. Each essay should be around 1500-2000 words. After 2000 words teachers (or any reader, in fact), reserve the right to stop reading, which may affect your grade. We'll be counting words by running [Markdown Word Count], developed by a former Software Architecture student, on your `.md` markdown files.
 
 Your essays will be evaluated based on the following:
 
@@ -117,11 +117,9 @@ You can decide yourself which posts you want to make public by means of simple m
 [desosa2021]: https://2021.desosa.nl/
 
 
-<!--
-
 <a id="vision"></a>
 
-### Essay 1: The Product Vision
+### Essay 1: Product Vision and Problem Analysis
 
 
 The starting point for your architectural analysis is a description of the _vision_ underlying your project and its future success. 
@@ -131,7 +129,7 @@ Aspects to take into account include:
 2. A description of the end-user mental model that is central to the system
 3. A characterization of the key capabilities and properties the system should provide
 4. An analysis of the stakeholders involved in the project, and how the resulting system is beneficial to them
-5. A description of the current and future context in which the system operates
+5. A description of the current and future (external) context in which the system operates
 6. A product roadmap, laying out the main future directions anticipated for the upcoming years
 
 It may be the case that some of these aspects do not naturally match your open source system under investigation. In that case, say so explicitly, and explain why you think this is the case in your essay. Instead offer a deeper analysis of other relevant aspects.
@@ -139,9 +137,12 @@ It may be the case that some of these aspects do not naturally match your open s
 Relevant literature for this essay includes 
 
 - _Lean Architecture_ [^coplien], Chapters 2 (end-user mental model), 3 (stakeholder analysis), and 4 (problem definition)
-- _Software Systems Architecture_ [^rozanski], Chapter 9 (stakeholder analysis) and 16 (context analysis)
-- _arc42 documentation_ [^arc]: Chapters 1 (Requirement and goals), 2 (Constraints), and 3 (Scope & Context)
+- _Software Architecture Visual Lecture Notes_ [^pautasso]: Chapter 2 (Quality Attributes) and 3 (Software Development Lifecycle)
+- _arc42 documentation_ [^arc]: Chapters 1 (Requirement and goals), 2 (Constraints) and 3 (Scope & Context)
+<!-- - _Software Systems Architecture_ [^rozanski], Chapter 9 (stakeholder analysis) and 16 (context analysis) -->
 
+
+<!--
 
 <a id="architecture"></a>
 
@@ -334,17 +335,19 @@ Pull requests will be graded, based on the following criteria:
 While your aim is of course that the pull request gets merged, the merge itself is not part of the grade.
 
 
-<!--
-
 ## References
 
 [lsa]: http://www.leansoftwarearchitecture.com/
 [views]: https://www.viewpoints-and-perspectives.info/
 [arc42]: https://docs.arc42.org/home/
+[cesare]: https://leanpub.com/software-architecture/
 
 [^coplien]: Jim Coplien Gertrud Bjørnvig. [Lean Architecture][lsa] for Agile Software Development. Wiley, 2010.
 
 [^rozanski]: Nick Rozanski and Eoin Woods. [Software Systems Architecture: Working with Stakeholders Using Viewpoints and Perspectives][views]. Addison-Wesley, 2012, 2nd edition.
+
+[^pautasso]: Cesare Pautasso. Software Architecture: Visual Lecture Notes. Leanpub, 2020. [leanpub.com][cesare].
+
 
 [^kruchten]: Philippe Kruchten. The 4+1 View Model of architecture. IEEE Software 12(6), 1995.
     ([doi](https://doi.org/10.1109/52.469759), 
@@ -357,7 +360,4 @@ While your aim is of course that the pull request gets merged, the merge itself 
 
 [^cataldo]: Cataldo, Herbsleb, and Carley.  Socio-Technical Congruence: A Framework for Assessing the Impact of Technical and Work Dependencies on Software Development Productivity. ICSE 2008. [https://herbsleb.org/web-pubs/pdfs/cataldo-socio-2008.pdf](https://herbsleb.org/web-pubs/pdfs/cataldo-socio-2008.pdf)
 
-
-
--->
 
