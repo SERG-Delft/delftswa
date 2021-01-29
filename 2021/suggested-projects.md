@@ -4,7 +4,8 @@ title: Suggested projects
 ---
 
 
-| **Project** | **GitHub URL** | Remarks
+| Project | GitHub URL | Remarks |
+|--|--|--|
 | [CoronaMelder](https://github.com/minvws) | [https://github.com/minvws](https://github.com/minvws) | Dutch Covid19 Notification App
 | [Covid Tools](http://jgbarah.github.io/Notes/foss-covid-tools.html) | [http://jgbarah.github.io/Notes/foss-covid-tools.html](http://jgbarah.github.io/Notes/foss-covid-tools.html) | Find your favorite
 | [Egeria](https://github.com/odpi/egeria) | [https://github.com/odpi/egeria](https://github.com/odpi/egeria) | ING
