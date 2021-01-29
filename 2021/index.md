@@ -63,12 +63,15 @@ Wed Mar 10 | 13:45 | Lecture 9 | TBD <!-- ING? -->
 Fri Mar 12 | 08:45 | Lecture 10 | [Xavier Devroey][xavier] | Software Variability Management
 Wed Mar 17 | 13:45 | Lecture 11 | TBD <!-- Picnic? -->
 Fri Mar 19 | 08:45 | Lecture 12 | TBD
+Wed Mar 24 | 13:45 | Lecture 13 | TBD
+Fri Mar 26 | 08:45 | Lecture 14 | [Ferd Scheepers][ferd] (ING) | Architecting for the Enterprise
 **Thu** Apr 1 | Full Day| Final presentations | All students
 
 [xavier]: http://xdevroey.be/
 [luis]: https://luiscruz.github.io/
 [burcu]: https://burcuku.github.io/home/
 [diomidis]: https://en.wikipedia.org/wiki/Diomidis_Spinellis
+[ferd]: https://nl.linkedin.com/in/ferdscheepers
 
 
 ## Assignment
