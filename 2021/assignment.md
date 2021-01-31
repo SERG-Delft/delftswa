@@ -126,19 +126,19 @@ The starting point for your architectural analysis is a description of the _visi
 Aspects to take into account include:
 
 1. A concise, inspirational characterization of what the project aims to achieve
-2. A description of the end-user mental model that is central to the system
-3. A characterization of the key capabilities and properties the system should provide
-4. An analysis of the stakeholders involved in the project, and how the resulting system is beneficial to them
-5. A description of the current and future (external) context in which the system operates
-6. A product roadmap, laying out the main future directions anticipated for the upcoming years
+2. A description of the system's defining concepts and capabilities, as they are visible to the typical (end) user
+3. A description of the current and future (external) context in which the system operates
+4. An analysis of the stakeholders involved in the project, and what they need from the system so that it is beneficial to them
+5. A characterization of key quality attributes the system must meet
+6. A product roadmap, laying out the main directions anticipated for the upcoming years
 
 It may be the case that some of these aspects do not naturally match your open source system under investigation. In that case, say so explicitly, and explain why you think this is the case in your essay. Instead offer a deeper analysis of other relevant aspects.
 
 Relevant literature for this essay includes 
 
-- _Lean Architecture_ [^coplien], Chapters 2 (end-user mental model), 3 (stakeholder analysis), and 4 (problem definition)
 - _Software Architecture Visual Lecture Notes_ [^pautasso]: Chapter 2 (Quality Attributes) and 3 (Software Development Lifecycle)
 - _arc42 documentation_ [^arc]: Chapters 1 (Requirement and goals), 2 (Constraints) and 3 (Scope & Context)
+- _Lean Architecture_ [^coplien], Chapters 2 (end-user mental model), 3 (stakeholder analysis), and 4 (problem definition)
 <!-- - _Software Systems Architecture_ [^rozanski], Chapter 9 (stakeholder analysis) and 16 (context analysis) -->
 
 
