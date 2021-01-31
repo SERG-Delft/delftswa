@@ -15,6 +15,9 @@ title: Suggested projects
 | Electriciy Map | [https://github.com/tmrowco/electricitymap-contrib](https://github.com/tmrowco/electricitymap-contrib) | Energy | Luís Cruz |
 | Firecracker | [https://github.com/firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) | | Luís Cruz | 
 | Timescale DB | [https://github.com/timescale/timescaledb](https://github.com/timescale/timescaledb)] | | Luís Cruz
+| CleverHans |  [https://github.com/cleverhans-lab/cleverhans](https://github.com/cleverhans-lab/cleverhans) | Adversarial Attacks on NNs | Leonhard Applis
+| HLS | [https://github.com/haskell/haskell-language-server](https://github.com/haskell/haskell-language-server) |  Haskell IDE | Leonhard Applis
+| Pandoc | [https://github.com/jgm/pandoc](https://github.com/jgm/pandoc) | Haskell document converter | Leonhard Applis
 | CURL | [https://github.com/curl/curl](https://github.com/curl/curl) |
 | Flink | [https://github.com/apache/flink](https://github.com/apache/flink) |
 | XWiki | [https://github.com/xwiki/xwiki-platform](https://github.com/xwiki/xwiki-platform) |
