@@ -7,27 +7,27 @@ _The content of this page is tentative and work in progress_
 
 Schedule and material for the 2021 edition of IN4315, the TU Delft [Software Architecture](../index.html) course.
 
-Jump to:
-
-- [Schedule](#schedule)
-- [Assignment](#assignment)
-- [Deadlines](#deadlines)
-- [Grading](#grading)
+**Navigation:** Jump to [Schedule](#schedule), [Assignment](#assignment), [Deadlines](#deadlines), [Grading](#grading).
 
 
 ## IN4315 Teaching Team 2021
 
 The 2021 teaching team consists of:
 
-- Arie van Deursen (responsible professor)
-- Diomidis Spinellis (co-teacher)
-- Burcu Ozkan (co-teacher)
-- Luís Cruz (co-teacher)
-- Shipra Sharma (teaching assistant)
-- Casper Boone (teaching assistant)
+- Teachers: Arie van Deursen (responsible professor), [Luís Cruz][luis], [Xavier Devroey][xavier], [Burcu Ozkan][burcu], [Diomidis Spinellis][diomidis]
+- Teaching Assistants: [Shipra Sharma][shipra], [Casper Boone][casper], [Leonhard Applis][leonhard]
 
 
-We are in the process of recruting additional Teaching Assistents.
+[xavier]: http://xdevroey.be/
+[luis]: https://luiscruz.github.io/
+[burcu]: https://burcuku.github.io/home/
+[diomidis]: https://en.wikipedia.org/wiki/Diomidis_Spinellis
+[casper]: https://github.com/casperboone
+[shipra]: https://nl.linkedin.com/in/shiprasharma0312
+[ferd]: https://nl.linkedin.com/in/ferdscheepers
+[leonhard]: s[https://github.com/Twonki]
+
+
 
 <!--
 
@@ -49,29 +49,24 @@ Because of the COVID-19 pandamic, all lectures will be online, most likely using
 Scheduled interaction time includes the following:
 
 
-Date | Time | Activity | Teacher | Topic
-|---|---|---|---|
-Wed Feb 10 | 13:45 | Lecture 1 | Arie van Deursen         | Course Structure
-Fri Feb 12 | 08:45 | Lecture 2 | Arie van Deursen         | **Why**: The Product Vision
-Wed Feb 17 | 13:45 | Lecture 3 | Arie van Deursen         | **How**: Architectural Patterns
-Fri Feb 19 | 08:45 | Lecture 4 | Arie van Deursen         | **Who**: Architects at Work
-Wed Feb 24 | 13:45 | Lecture 5 | [Luís Cruz][luis]        | Architecting for Sustainability
-Fri Feb 26 | 08:45 | Lecture 6 | [Burcu Ozkan][burcu]     | Architecting for Distribution
-Wed Mar 3  | 13:45 | Lecture 7 | [Diomidis Spinellis][diomidis] | 50 years of Unix Architecture
-Fri Mar 5  | 08:45 | Lecture 8 | TBD <!-- Adyen? -->
-Wed Mar 10 | 13:45 | Lecture 9 | TBD <!-- ING? -->
-Fri Mar 12 | 08:45 | Lecture 10 | [Xavier Devroey][xavier] | Software Variability Management
-Wed Mar 17 | 13:45 | Lecture 11 | TBD <!-- Picnic? -->
-Fri Mar 19 | 08:45 | Lecture 12 | TBD
-Wed Mar 24 | 13:45 | Lecture 13 | TBD
-Fri Mar 26 | 08:45 | Lecture 14 | [Ferd Scheepers][ferd] (ING) | Architecting for the Enterprise
-**Thu** Apr 1 | Full Day| Final presentations | All students
+Date | Start | End | Activity | Teacher | Topic
+|---|---|---|---|---|
+Wed Feb 10 | 13:45 | 15:30 | Lecture 1 | Arie van Deursen         | Course Structure
+Fri Feb 12 | 08:45 | 10:30 | Lecture 2 | Arie van Deursen         | **Why**: The Product Vision
+Wed Feb 17 | 13:45 | 15:30 | Lecture 3 | Arie van Deursen         | **How**: Architectural Patterns
+Fri Feb 19 | 08:45 | 10:30 | Lecture 4 | Arie van Deursen         | **Who**: Architects at Work
+Wed Feb 24 | 13:45 | 15:30 | Lecture 5 | [Luís Cruz][luis]        | Architecting for Sustainability
+Fri Feb 26 | 08:45 | 10:30 | Lecture 6 | [Burcu Ozkan][burcu]     | Architecting for Distribution
+Wed Mar 3  | 13:45 | 15:30 | Lecture 7 | [Diomidis Spinellis][diomidis] | 50 years of Unix Architecture
+Fri Mar 5  | 08:45 | 10:30 | Lecture 8 | TBD <!-- Adyen? -->
+Wed Mar 10 | 13:45 | 15:30 | Lecture 9 | TBD <!-- ING? -->
+Fri Mar 12 | 08:45 | 10:30 | Lecture 10 | [Xavier Devroey][xavier] | Software Variability Management
+Wed Mar 17 | 13:45 | 15:30 | Lecture 11 | TBD <!-- Picnic? -->
+Fri Mar 19 | 08:45 | 10:30 | Lecture 12 | TBD
+Wed Mar 24 | 13:45 | 15:30 | Lecture 13 | TBD
+Fri Mar 26 | 08:45 | 10:30 | Lecture 14 | [Ferd Scheepers][ferd] (ING) | Architecting for the Enterprise
+**Thu** Apr 1 | **08:45** | **17:30** | Finale | All students | Final presentations
 
-[xavier]: http://xdevroey.be/
-[luis]: https://luiscruz.github.io/
-[burcu]: https://burcuku.github.io/home/
-[diomidis]: https://en.wikipedia.org/wiki/Diomidis_Spinellis
-[ferd]: https://nl.linkedin.com/in/ferdscheepers
 
 
 ## Assignment
