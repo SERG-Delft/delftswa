@@ -28,7 +28,7 @@ If you are looking for partners, you can post a message on our Brightspace forum
 All team members will get access to a shared [GitLab][gitlab-desosa] repository hosting the sources of the DESOSA 2021 book.
 
 Within this repository, each team will have one dedicated project sub-folder to work in.
-Teams should only add changes to their own sub-folder.
+Teams should only add changes to their own sub-folder (`./content/projects/<projectname>`).
 
 The repo includes all essays written for all projects. The essays themselves are writen in [Markdown], and rendered using [Hugo] on the web, and [pandoc] for creating a pdf and an epub version.
 
@@ -58,6 +58,8 @@ In principle you are free to pick any open source project on GitHub. Take the fo
 An active project should have 1 or more pull requests per day. To get you started, we hand-picked a [list of projects](suggested-projects.html) which are large, actively developed, maintained by a vibrant community, and are not analyzed in the previous runs of this course. 
 
 To claim a project: Post on the Brightspace forum, title _Claiming project P_, explain why you like this project in the issue, and indicate the 4 team members that will work on this project as well as your group number. Make sure to add their GitLab accounts in the issue so we can find them.
+
+After you've claimed a project, add a short (around 100 words) enthusiastic description of the project to the  `_index.md` file in your project sub_folder. Consider adding a logo or some representative image, and provide all the required meta-data.
 
 
 [claiming]: https://brightspace.tudelft.nl/d2l/le/280700/discussions/topics/42190/View
