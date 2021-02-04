@@ -19,8 +19,16 @@ title: Suggested projects
 | HLS | [https://github.com/haskell/haskell-language-server](https://github.com/haskell/haskell-language-server) |  Haskell IDE | Leonhard Applis
 | Pandoc | [https://github.com/jgm/pandoc](https://github.com/jgm/pandoc) | Haskell document converter | Leonhard Applis
 | Spack | [https://github.com/spack/spack](https://github.com/spack/spack) | Dependency management |
+| Akka | [https://github.com/akka/akka](https://github.com/akka/akka) | Distribution | Burcu Kulahcioglu Ozkan
+| AntidoteDB | [https://github.com/AntidoteDB/antidote](https://github.com/AntidoteDB/antidote) | Distribution | Burcu Kulahcioglu Ozkan
+| Cassandra | [https://github.com/apache/cassandra](https://github.com/apache/cassandra) | Distribution | Burcu Kulahcioglu Ozkan
+| Hadoop | [https://github.com/apache/hadoop](https://github.com/apache/hadoop) | Distribution | Burcu Kulahcioglu Ozkan
+| Kafka | [https://github.com/apache/kafka](https://github.com/apache/kafka) | Distribution | Burcu Kulahcioglu Ozkan
+| Spark | [https://github.com/apache/spark](https://github.com/apache/spark) | Distribution | Burcu Kulahcioglu Ozkan
+| Stellar | [https://github.com/stellar](https://github.com/stellar) | Distribution | Burcu Kulahcioglu Ozkan
+| Zookeeper | [https://github.com/apache/zookeeper](https://github.com/apache/zookeeper) | Distribution | Burcu Kulahcioglu Ozkan
 | CURL | [https://github.com/curl/curl](https://github.com/curl/curl) |
-| Flink | [https://github.com/apache/flink](https://github.com/apache/flink) |
+| Flink | [https://github.com/apache/flink](https://github.com/apache/flink) | Distribution | Burcu Kulahcioglu Ozkan
 | XWiki | [https://github.com/xwiki/xwiki-platform](https://github.com/xwiki/xwiki-platform) |
 | Storybook | [https://github.com/storybooks/storybook](https://github.com/storybooks/storybook) |
 | liferay-portal | [https://github.com/liferay/liferay-portal](https://github.com/liferay/liferay-portal) |
