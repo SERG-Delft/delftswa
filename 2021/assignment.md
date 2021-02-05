@@ -22,6 +22,7 @@ If you are looking for partners, you can post a message on our Brightspace forum
 [groups]: https://brightspace.tudelft.nl/d2l/lms/group/user_group_list.d2l?ou=280700
 
 
+<a id="gitlab"></a>
 
 ## Getting Access to GitLab for Writing
 
@@ -30,7 +31,7 @@ All team members will get access to a shared [GitLab][gitlab-desosa] repository 
 Within this repository, each team will have one dedicated project sub-folder to work in.
 Teams should only add changes to their own sub-folder (`./content/projects/<projectname>`).
 
-The repo includes all essays written for all projects. The essays themselves are writen in [Markdown], and rendered using [Hugo].
+The repo includes all essays written for all projects. The essays themselves are writen in [Markdown], and rendered using [Hugo]. Usage instruction are provided on the [README][gitlab-desosa] page of the DESOSA project.
 
 Follow all good software development practices in this repository, such as using issues and milestones for planning, merge requests, review, etc. Show that you are well-organized, and that the teachers can clearly see what you did and what you  are planning to do.
 
@@ -56,11 +57,11 @@ An active project should have 1 or more pull requests per day. To get you starte
 
 To claim a project: Post on the Brightspace forum, title _Claiming project P_, explain why you like this project in the issue, and indicate the 4 team members that will work on this project as well as your group number. Make sure to add their GitLab accounts in the issue so we can find them.
 
-After you've claimed a project, add a short (around 100 words) enthusiastic description of the project to the  `_index.md` file in your project sub_folder. Consider adding a logo or some representative image, and provide all the required meta-data.
+After your project choice is approved, you will be granted [access to the GitLab repository](#gitlab) where you can find your project in the `./content` directory. Add a short (around 100 words) enthusiastic description of the project to the  `_index.md` file in your project sub folder (see the [usage instructions][gitlab-desosa-project-page] of the DESOSA project for more information). Consider adding a logo or some representative image, and provide all the required meta-data. Also fill out the author details with your names and a small introduction.
 
 
 [claiming]: https://brightspace.tudelft.nl/d2l/le/280700/discussions/topics/42190/View
-
+[gitlab-desosa-project-page]: https://gitlab.ewi.tudelft.nl/in4315/2020-2021/desosa2021#project-page
 
 
 
