@@ -5,9 +5,17 @@ layout: tud
 
 TENTATIVE -- WORK IN PROGRESS
 
+## Getting Started
 
+To get started with the assignment, the following tasks need to be completed:
 
-## Team Formation
+1. [Form a team](#team-formation) and register on Brightspace
+2. [Pick a suitable project](#picking) and claim it on the Brightspace forum
+3. Write your [project introduction](#gitlab) and make your first contribution to DESOSA on GitLab
+
+<a id="team-formation"></a>
+
+### Team Formation
 
 As software architecture is all about collaboration and communication, the work must be done in teams:
 
@@ -21,29 +29,9 @@ If you are looking for partners, you can post a message on our Brightspace forum
 [partners]: https://brightspace.tudelft.nl/d2l/le/280700/discussions/topics/42189/View
 [groups]: https://brightspace.tudelft.nl/d2l/lms/group/user_group_list.d2l?ou=280700
 
-
-<a id="gitlab"></a>
-
-## Getting Access to GitLab for Writing
-
-All team members will get access to a shared [GitLab][gitlab-desosa] repository hosting the sources of DESOSA 2021.
-
-Within this repository, each team will have one dedicated project sub-folder to work in.
-Teams should only add changes to their own sub-folder (`./content/projects/<projectname>`).
-
-The repo includes all essays written for all projects. The essays themselves are writen in [Markdown], and rendered using [Hugo]. Usage instruction are provided on the [README][gitlab-desosa] page of the DESOSA project.
-
-Follow all good software development practices in this repository, such as using issues and milestones for planning, merge requests, review, etc. Show that you are well-organized, and that the teachers can clearly see what you did and what you  are planning to do.
-
-You are encouraged to use issues and must use merge requests, properly labeling them with an identifier for your project.
-
-[gitlab-desosa]: https://gitlab.ewi.tudelft.nl/in4315/2020-2021/desosa2021
-[hugo]: https://gohugo.io/
-[markdown]: https://daringfireball.net/projects/markdown/
-
 <a id="picking"></a>
 
-## Picking a Project
+### Picking a Project
 
 In principle you are free to pick any open source project on GitHub. Take the following factors into account:
 
@@ -64,27 +52,38 @@ After your project choice is approved, you will be granted [access to the GitLab
 [gitlab-desosa-project-page]: https://gitlab.ewi.tudelft.nl/in4315/2020-2021/desosa2021#project-page
 
 
+<a id="gitlab"></a>
 
-## Individual Journals
+### Getting Access to GitLab for Writing
 
-You will have considerable freedom in this course. Nevertheless, a _steady heartbeat is required_, and you are accountable for how you spend your time.
+All team members will get access to a shared [GitLab][gitlab-desosa] repository hosting the sources of DESOSA 2021.
 
-In this course, you have 5 EC available for software architecture in 8 weeks, giving a _minimum effort of 5 * 28 / 8 = 17.5 hours per week_ that you should spend on this course.
+Within this repository, each team will have one dedicated project sub-folder to work in.
+Teams should only add changes to their own sub-folder (`./content/projects/<projectname>`).
 
-Use this time to learn as much as you can, as an architect is always eager to learn more.
-Grading will also be based on the progress you made compared to your initial knowledge and skill level, not just based on a preset end-goal.
+The repo includes all essays written for all projects. The essays themselves are writen in [Markdown], and rendered using [Hugo]. Usage instruction are provided on the [README][gitlab-desosa] page of the DESOSA project.
 
-To make this possible, it is important that you and your team provide insight in what you do each week. To that end:
+Follow all good software development practices in this repository, such as using issues and milestones for planning, merge requests, review, etc. Show that you are well-organized, and that the teachers can clearly see what you did and what you  are planning to do.
 
-1. Create a journal file for each team member in the `journals` directory of your project.
-2. Team members individually reports their own weekly experiences and effort in the course. It is important to commit and push these reports weekly (or even more frequently), and that you commit your own updates.
+You are encouraged to use issues and must use merge requests, properly labeling them with an identifier for your project.
 
-In the journal, you can offer a story of what you learned, what activities you participated in (lectures, meetings).
-All effort related to the course can be included, including routes taken that do not directly lead to text in your essays (e.g., projects considered when selecting your project).
-For each week, also include _the number of hours you spent that week on the software architecture course_.
+[gitlab-desosa]: https://gitlab.ewi.tudelft.nl/in4315/2020-2021/desosa2021
+[hugo]: https://gohugo.io/
+[markdown]: https://daringfireball.net/projects/markdown/
 
 
-## Essays
+## The Assignment
+
+The main part of the assignment consists of three parts:
+
+1. Writing four [essays](#essays) about different aspects of your project and reviewing the essays of others teams
+2. [Contributing](#contributions) to your project
+3. Keeping track of your progress through personal [journals](#journals)
+
+
+<a id="essays"></a>
+
+### Essays
 
 Strong writing skills are an invaluable asset for an architect. To quote [Dan Heller] in his "Ten Principles for Growth as an Engineer":
 
@@ -119,7 +118,7 @@ You can decide yourself which posts you want to make public by means of [simple 
 
 <a id="vision"></a>
 
-### Essay 1: Product Vision and Problem Analysis
+#### Essay 1: Product Vision and Problem Analysis
 
 
 The starting point for your architectural analysis is a description of the _vision_ underlying your project and its future success. 
@@ -305,7 +304,8 @@ Once you are ready to submit your essay, please follow the following steps:
 
 
 <a id="contributions"></a>
-## System Contributions
+
+### System Contributions
 
 To familiarize yourself with the system under analysis, your team will _contribute_ to the system.
 This will take the form of a pull request to the system.
@@ -336,6 +336,28 @@ Pull requests will be graded, based on the following criteria:
 While your aim is of course that the pull request gets merged, the merge itself is not part of the grade.
 
 [gitlab-desosa-contributions]: https://gitlab.ewi.tudelft.nl/in4315/2020-2021/desosa2021#contributions
+
+
+<a id="journals"></a>
+
+### Individual Journals
+
+You will have considerable freedom in this course. Nevertheless, a _steady heartbeat is required_, and you are accountable for how you spend your time.
+
+In this course, you have 5 EC available for software architecture in 8 weeks, giving a _minimum effort of 5 * 28 / 8 = 17.5 hours per week_ that you should spend on this course.
+
+Use this time to learn as much as you can, as an architect is always eager to learn more.
+Grading will also be based on the progress you made compared to your initial knowledge and skill level, not just based on a preset end-goal.
+
+To make this possible, it is important that you and your team provide insight in what you do each week. To that end:
+
+1. Create a journal file for each team member in the `journals` directory of your project.
+2. Team members individually reports their own weekly experiences and effort in the course. It is important to commit and push these reports weekly (or even more frequently), and that you commit your own updates.
+
+In the journal, you can offer a story of what you learned, what activities you participated in (lectures, meetings).
+All effort related to the course can be included, including routes taken that do not directly lead to text in your essays (e.g., projects considered when selecting your project).
+For each week, also include _the number of hours you spent that week on the software architecture course_.
+
 
 ## References
 
