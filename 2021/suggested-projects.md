@@ -9,7 +9,13 @@ _Non-exclusive list of potential open source projects to study._
 
 | Project | GitHub URL | Remarks | Proposed by |
 |--|--|--|--|
-| JHipster | [https://github.com/jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) | Variability | Xavier Devroey
+| [JHipster](https://www.jhipster.tech) | [https://github.com/jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) | Variability | Xavier Devroey
+| [XWiki](http://www.xwiki.org/xwiki-platform) | [https://github.com/xwiki](https://github.com/xwiki) | Variability | Xavier Devroey
+| [Theia](https://theia-ide.org/) | [https://github.com/eclipse-theia/theia](https://github.com/eclipse-theia/theia) | Variability | Xavier Devroey
+| [Hugo](https://gohugo.io) | [https://github.com/gohugoio/hugo](https://github.com/gohugoio/hugo) | Variability | Xavier Devroey
+| [Drupal](https://www.drupal.org) | [https://git.drupalcode.org/project/drupal](https://git.drupalcode.org/project/drupal) | Variability | Xavier Devroey
+| [Odoo](https://www.odoo.com/) | [https://github.com/odoo/odoo](https://github.com/odoo/odoo) | Variability | Xavier Devroey
+| [Homebrew](https://brew.sh) | [https://github.com/Homebrew/brew](https://github.com/Homebrew/brew) | Variability | Xavier Devroey
 | Scaphandre | [https://github.com/hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) | Energy | Luís Cruz
 | Sitespeed | [https://github.com/sitespeedio/sitespeed.io](https://github.com/sitespeedio/sitespeed.io) | | Luís Cruz
 | Electriciy Map | [https://github.com/tmrowco/electricitymap-contrib](https://github.com/tmrowco/electricitymap-contrib) | Energy | Luís Cruz |
@@ -41,6 +47,4 @@ _Non-exclusive list of potential open source projects to study._
 | Spack | [https://github.com/spack/spack](https://github.com/spack/spack) | Dependency management | Arie van Deursen |
 | JuliaLang | [https://github.com/JuliaLang/](https://github.com/JuliaLang/) | | Arie van Deursen |
 | roslyn | [https://github.com/dotnet/roslyn](https://github.com/dotnet/roslyn) | | Arie van Deursen
-| XWiki | [https://github.com/xwiki/xwiki-platform](https://github.com/xwiki/xwiki-platform) | | Arie van Deursen
-| odoo | [https://github.com/odoo/odoo](https://github.com/odoo/odoo) | | Arie van Deursen
 
