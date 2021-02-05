@@ -108,12 +108,13 @@ Your essays will be evaluated based on the following:
 The intended audience for the essays consists of computer science students or software engineers, interested in learning about architectural aspects of your open source project.
 
 A [publicly visible blog][desosa2021] is available through which teams can publish their essays. Different from previous years, we are publishing the essays throughout the course (and not just all at once after the course). We will use the blog to engage with and share our work with the open source community. Published essays (blog posts) will carry a [CC BY-SA 4.0] license, allowing the open source projects to include the resulting posts in their own documentation.
-You can decide yourself which posts you want to make public by means of simple meta-data flag in your Hugo markdown document.
+You can decide yourself which posts you want to make public by means of [simple meta-data flag][gitlab-desosa-consent] in your Hugo markdown document.
 
 [Dan Heller]: https://medium.com/@daniel.heller/ten-principles-for-growth-69015e08c35b
 [Markdown Word Count]: https://github.com/gandreadis/markdown-word-count
 [cc by-sa 4.0]: https://creativecommons.org/licenses/by-sa/4.0/legalcode
 [desosa2021]: https://2021.desosa.nl/
+[gitlab-desosa-consent]: https://gitlab.ewi.tudelft.nl/in4315/2020-2021/desosa2021#consent-to-publish-publicly
 
 
 <a id="vision"></a>
