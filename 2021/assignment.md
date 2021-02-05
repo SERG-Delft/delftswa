@@ -76,13 +76,12 @@ Grading will also be based on the progress you made compared to your initial kno
 
 To make this possible, it is important that you and your team provide insight in what you do each week. To that end:
 
-1. Create a folder `journal` in your project folder.
-2. In that folder, create four separate files for each team member
-3. Team members individually reports their own weekly experiences and effort in the course. It is important to commit and push these reports weekly (or even more frequently), and that you commit your own updates.
+1. Create a journal file for each team member in the `journals` directory of your project.
+2. Team members individually reports their own weekly experiences and effort in the course. It is important to commit and push these reports weekly (or even more frequently), and that you commit your own updates.
 
 In the journal, you can offer a story of what you learned, what activities you participated in (lectures, meetings).
 All effort related to the course can be included, including routes taken that do not directly lead to text in your essays (e.g., projects considered when selecting your project).
-For each week, also include _the number of hours  you spent that week on the software architecture course_.
+For each week, also include _the number of hours you spent that week on the software architecture course_.
 
 
 ## Essays
