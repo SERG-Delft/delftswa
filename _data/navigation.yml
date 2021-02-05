@@ -1,0 +1,55 @@
+"/":
+- title: Home
+  url: /
+- title: Edition 2021
+  url: /2021
+- title: Edition 2020
+  url: /2020
+
+"/2021/":
+- title: Home
+  url: /2021/
+- title: Schedule
+  url: /2021/#schedule
+- title: Deadlines
+  url: /2021/#deadlines
+- title: Assignment
+  url: /2021/assignment.html
+  sublinks:
+    - title: Getting Started
+      url: /2021/assignment.html#getting-started
+    - title: Suggested Projects
+      url: /2021/suggested-projects.html
+    - title: separator
+    - title: Essays
+      url: /2021/assignment.html#essays
+    - title: Contributions
+      url: /2021/assignment.html#contributions
+    - title: Journals
+      url: /2021/assignment.html#journals
+- title: Grading
+  url: /2021/#grading
+
+"/2020/":
+- title: Home
+  url: /2020/
+- title: Assignment
+  url: /2020/assignment.html
+  sublinks:
+    - title: Assignment
+      url: /2020/assignment.html
+    - title: separator
+    - title: Suggested Projects
+      url: /2020/suggested-projects.html
+    - title: Top 200 Projects
+      url: /2020/top200projects.html
+    - title: separator
+    - title: Variability Assignment
+      url: /2020/assignment-variability.html
+- title: Presentation Day
+  url: /2020/presentation-day.html
+- title: Resources
+  url: /2020/
+  sublinks:
+    - title: Componentization Guidelines
+      url: /2020/guidelines_for_componentization.html

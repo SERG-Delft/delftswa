@@ -1,0 +1,39 @@
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      {% assign links = site.data.navigation[page.dir] %}
+      {% for link in links %}
+          {% assign class = nil %}
+          {% if page.url == link.url %}
+              {% assign class = 'active' %}
+          {% endif %}
+          {% if link.sublinks %}
+              <li class="nav-item dropdown">
+                <a class="nav-link {{ class }} dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  {{ link.title }}
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  {% for sublink in link.sublinks %}
+                      {% if sublink.title == 'separator' %}
+                        <div class="dropdown-divider"></div>
+                      {% else %}
+                        <a class="dropdown-item" href="{{ site.url }}{{ site.baseurl }}{{ sublink.url }}">
+                          {{ sublink.title }}
+                        </a>
+                      {% endif %}
+                  {% endfor %}
+                </div>
+              </li>
+          {% else %}
+              <li class="nav-item">
+                <a class="nav-link {{ class }}" href="{{ site.url }}{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
+              </li>
+          {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
+</nav>

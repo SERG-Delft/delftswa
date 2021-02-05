@@ -7,9 +7,6 @@ _The content of this page is tentative and work in progress_
 
 Schedule and material for the 2021 edition of IN4315, the TU Delft [Software Architecture](../index.html) course.
 
-**Navigation:** Jump to [Schedule](#schedule), [Assignment](#assignment), [Deadlines](#deadlines), [Grading](#grading).
-
-
 ## IN4315 Teaching Team 2021
 
 The 2021 teaching team consists of:
