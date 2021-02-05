@@ -25,23 +25,20 @@ If you are looking for partners, you can post a message on our Brightspace forum
 
 ## Getting Access to GitLab for Writing
 
-All team members will get access to a shared [GitLab][gitlab-desosa] repository hosting the sources of the DESOSA 2021 book.
+All team members will get access to a shared [GitLab][gitlab-desosa] repository hosting the sources of DESOSA 2021.
 
 Within this repository, each team will have one dedicated project sub-folder to work in.
 Teams should only add changes to their own sub-folder (`./content/projects/<projectname>`).
 
-The repo includes all essays written for all projects. The essays themselves are writen in [Markdown], and rendered using [Hugo] on the web, and [pandoc] for creating a pdf and an epub version.
+The repo includes all essays written for all projects. The essays themselves are writen in [Markdown], and rendered using [Hugo].
 
 Follow all good software development practices in this repository, such as using issues and milestones for planning, merge requests, review, etc. Show that you are well-organized, and that the teachers can clearly see what you did and what you  are planning to do.
 
-You are encouraged to use issues and pull requests, properly labeling them with an identifier for your project.
+You are encouraged to use issues and must use merge requests, properly labeling them with an identifier for your project.
 
 [gitlab-desosa]: https://gitlab.ewi.tudelft.nl/in4315/2020-2021/desosa2021
-[jekyll]: https://jekyllrb.com/
 [hugo]: https://gohugo.io/
 [markdown]: https://daringfireball.net/projects/markdown/
-[pandoc]: https://pandoc.org/MANUAL.html
-
 
 <a id="picking"></a>
 
