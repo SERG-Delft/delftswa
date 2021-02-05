@@ -1,6 +1,6 @@
 ---
 title: "Assignment 2021"
-layout: tud
+layout: tud-toc
 ---
 
 TENTATIVE -- WORK IN PROGRESS
