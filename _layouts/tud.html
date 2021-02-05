@@ -15,27 +15,24 @@
   </head>
   <body>
     
-    <div class="container-fluid">
-    <div class="row">
-      <div class="col-xs-12">
+    <div class="container px-5 py-5">
+
+        <h1 class="text-center">{{ site.coursecode }}: {{ site.coursetitle }}</h1>
 
         <a href="{{ '/' | relative_url }}">
-        <img src="{{ "/img/altes-museum.jpg" | relative_url }}" class="img-fluid" title="{{ site.imagetitle }}"/>
+          <img src="{{ "/img/altes-museum.jpg" | relative_url }}" class="img-fluid" title="{{ site.imagetitle }}"/>
         </a>
-        
-        <h1>{{ site.coursecode }}: {{ page.title }} </h1>
 
+        <h1>{{ page.title }}</h1>
         {{ content }}
 
-        <br/>
-        <address>
-          <h3>Credits</h3>
+        <footer>
+          <hr />
           Cover image credit: {{ site.imagetitle }}
           <br/>
           Copyright text: TU Delft ({{ site.teacher }}), {{ site.year }}. Content available under CC BY-SA 4.0.
-        </address>
-      </div>
-    </div>
+        </footer>
+      
     </div>
 
   </body>

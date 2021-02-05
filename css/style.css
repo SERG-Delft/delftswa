@@ -1,103 +1,20 @@
-@import url('https://fonts.googleapis.com/css?family=Bree+Serif');
+@import url('https://fonts.googleapis.com/css?family=Inter');
 
 body {
-	margin-left: 15px;
-	margin-right: 15px;
-
-
-	font-family: "Bree+Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-size: 12pt;
+	font-family: "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	line-height: 1.75em;
-
-	padding-left: 1em;
-	padding-right: 1em;
-	padding-bottom: 1em;
+	background-color: var(--light);
 }
 
-.imgheader {
-	border-bottom: 10px solid #efefef;
-	border-left: 10px solid #efefef;
-	border-right: 10px solid #efefef;
+.container {
+	background-color: var(--white);
 }
 
 h1, h2, h3 {
 	margin-top: 1em;
-	font-family: Bree+Serif, serif;
-	clear: both;
-	display: block;
 }
-
-h2 {
-	margin-top: 1em;
-}
-
-/* contact */
-.contact-info {
-	display: block;
-	clear: both;
-}
-
-
-/* schedule */
-
-.schedule {
-	margin-bottom: 1em;
-}
-.schedule-date {
-	font-size: 1em;
-	display: block;
-}
-
-.schedule-topic {
-	font-size: 1.3em;
-}
-
-.schedule-header {
-	background-color: #eaeaea;
-	padding: 0.5em; 
-}
-
-.schedule-header-deadline {
-	background-color: #beffc3;
-	padding: 0.5em;
-}
-
-/* team */
-.team-photo {
-    float: left;
-    margin: 0.3em;
-    padding: 0.3em;
-    border: 1px solid #efefef;
-    text-align: center;
-
-}
-
-.photo {
-	border-radius: 80px;
-	width: 136px;
-	height: 140px;
-	border: 3px solid black;
-}
-
-.photo-less-w {
-	border-radius: 80px;
-	width: 130px;
-	height: 140px;
-	border: 3px solid black;
-}
-
-@media only screen and (max-width: 400px) {
-.photo {
-	border-radius: 80px;
-	width: 75px;
-	height: 75px;
-	border: 3px solid black;
-}
-}
-
 
 /* Tables, for examples used for listing research projects. */
-
 th, td {
     padding: 6px;
     border-bottom: 1px solid #ddd;
