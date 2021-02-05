@@ -317,12 +317,12 @@ Aspects to consider include:
 5. In your interactions (in GitHub comments) with the developers  who are responsible for integrating your change, be polite, to the point, and responsive.
 6. Follow any guidelines, for example in the projects `CONTRIBUTING.md` file.
 
-For pull requests you've actually submitted, you can enter the corresponding information in the `yaml` meta-data of your `index.md` project file, and information about it will be shown in your blog pages.
+For pull requests you've actually submitted, [create a new contributions entry in the DESOSA project][gitlab-desosa-contributions] to share your contributions on the website and PDF/epub.
 
 There will be two deadlines, for two simple reports:
 
-- Pull request midway report: Halfway the course, ensure submitted pull requests have all been added to  your `index.md`, and write a short plan for remaining pull requests that you still intend to submit.
-- Pull request final report: Again, ensure all submitted pull requests have been added to your `index.md`. Furthermore, for work on potential pull requests you  _tried_, but which eventually did not result in an actual pull request submission, write a short summary of what you did, and what was so hard about it.
+- Pull request midway report: Halfway the course, ensure submitted pull requests have all been added to your [DESOSA contributions listing][gitlab-desosa-contributions], and write a short plan for remaining pull requests that you still intend to submit.
+- Pull request final report: Again, ensure all submitted pull requests have been added to your [DESOSA contributions listing][gitlab-desosa-contributions]. Furthermore, for work on potential pull requests you  _tried_, but which eventually did not result in an actual pull request submission, write a short summary of what you did, and what was so hard about it.
 
 The two reports can be put in a file `contributions.md`, which you can put in your `journals` folder (so that it is ignored by Hugo). As an indication, around 100 words will probably suffice per planned (or terminated) pull request.
 
@@ -334,6 +334,7 @@ Pull requests will be graded, based on the following criteria:
 
 While your aim is of course that the pull request gets merged, the merge itself is not part of the grade.
 
+[gitlab-desosa-contributions]: https://gitlab.ewi.tudelft.nl/in4315/2020-2021/desosa2021#contributions
 
 ## References
 
