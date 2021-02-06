@@ -106,7 +106,7 @@ Your essays will be evaluated based on the following:
 
 The intended audience for the essays consists of computer science students or software engineers, interested in learning about architectural aspects of your open source project.
 
-A [publicly visible blog][desosa2021] is available through which teams can publish their essays. Different from previous years, we are publishing the essays throughout the course (and not just all at once after the course). We will use the blog to engage with and share our work with the open source community. Published essays (blog posts) will carry a [CC BY-SA 4.0] license, allowing the open source projects to include the resulting posts in their own documentation.
+A [publicly visible blog][desosa2021] is available through which teams can publish their essays. We are publishing the essays throughout the course (and not just all at once after the course). We will use the blog to engage with and share our work with the open source community. Published essays (blog posts) will carry a [CC BY-SA 4.0] license, allowing the open source projects to include the resulting posts in their own documentation.
 You can decide yourself which posts you want to make public by means of [simple meta-data flag][gitlab-desosa-consent] in your Hugo markdown document.
 
 [Dan Heller]: https://medium.com/@daniel.heller/ten-principles-for-growth-69015e08c35b
@@ -142,32 +142,38 @@ Relevant literature for this essay includes
 <!-- - _Software Systems Architecture_ [^rozanski], Chapter 9 (stakeholder analysis) and 16 (context analysis) -->
 
 
-<!--
-
 <a id="architecture"></a>
 
 ### Essay 2: From Vision to Architecture
 
 While the first essay focuses on the set of fundamental concepts or properties of the system in its environment, 
-in the second you explore how these are realized through its architectural elements and relationships, and the principles of its design and evolution.
+in the second you explore how these are realized through the system's architectural elements and relationships, and the principles of its design and evolution.
 Aspects to take into account include:
 
-1. A discussion of which architectural views are relevant to your system (taken, e.g., from Rozanski and Woods [^rozanski] or Kruchten [^kruchten])
-2. The main architectural style or patterns applied (if relevant), such as layering or model-view-controller architectures.
-3. An overview of the development view, covering the system decomposition and the main modules and their dependencies, as embodied in the source code.
-4. A run time view, indicating how components interact at run time to realize key scenarios, including typical run time dependencies
-5. A deployment view, explaining where and in what way processes are deployed, for example through cloud solutions.
-6. Non-functional properties, and how potential trade-offs between them have been resolved.
+1. The main architectural style or patterns applied (if relevant), such as layering or model-view-controller architectures.
+2. Containers view: The main execution environments, if applicable, as used to deploy the system.
+3. Components view: Structural decomposition into components with explicit interfaces, and their inter-dependencies
+4. Connectors view: Main types of connectors used between components / containers.
+5. Development view, covering the system decomposition and the main modules and their dependencies, as embodied in the source code.
+6. Run time view, indicating how components interact at run time to realize key scenarios, including typical run time dependencies
+7. How the architecture realizes key quality attributes, and how potential trade-offs between them have been resolved.
+8. API design principles applied
 
 It may be the case that some of these aspects do not naturally match your open source system under investigation. In that case, say so explicitly, and explain why you think this is the case in your essay. Instead offer a deeper analysis of other relevant aspects.
 
 Relevant literature for this essay includes 
 
+- _Software Architecture Visual Lecture Notes_ [^pautasso]: Chapter 4
+- _arc42 documentation_ [^arc]: Chapters 4-9
+- _C4 model_ [^c4]: Levels 2 (Containers) and 3 (Components)
+<!--
 - _Lean Architecture_ [^coplien], Chapters 5-7
 - _Software Systems Architecture_ [^rozanski],  Chapters 20 (development viewpoint) and 21 (deployment viewpoint)
-- _arc42 documentation_ [^arc]: Chapters 4-9
-- _C4 model_ [^c4]: Levels 2 and 3.
 - _SIG componentization_: The Sigrid Beta Architecture visualization for your system may provide input to your development view
+-->
+
+<!--
+
 
 <a id="quality"></a>
 
