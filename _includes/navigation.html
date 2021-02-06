@@ -27,7 +27,7 @@
                       {% if sublink.title == 'separator' %}
                         <div class="dropdown-divider"></div>
                       {% else %}
-                        <a class="dropdown-item" href="{{ site.url }}{{ site.baseurl }}{{ sublink.url }}">
+                        <a class="dropdown-item" href="{{ site.baseurl }}{{ sublink.url }}">
                           {{ sublink.title }}
                         </a>
                       {% endif %}
@@ -36,14 +36,14 @@
               </li>
           {% else %}
               <li class="nav-item">
-                <a class="nav-link {{ class }}" href="{{ site.url }}{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
+                <a class="nav-link {{ class }}" href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
               </li>
           {% endif %}
       {% endfor %}
     </ul>
     <ul class="navbar-nav">
       <li class="nav-item">
-        <a class="nav-link" href="{{ site.url }}{{ site.baseurl }}">{{ site.coursecode }}</a>
+        <a class="nav-link" href="{{ site.baseurl }}">{{ site.coursecode }}</a>
       </li>
     </ul>
   </div>
