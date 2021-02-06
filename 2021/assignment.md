@@ -166,6 +166,7 @@ Relevant literature for this essay includes
 - _Software Architecture Visual Lecture Notes_ [^pautasso]: Chapter 4
 - _arc42 documentation_ [^arc]: Chapters 4-9
 - _C4 model_ [^c4]: Levels 2 (Containers) and 3 (Components)
+
 <!--
 - _Lean Architecture_ [^coplien], Chapters 5-7
 - _Software Systems Architecture_ [^rozanski],  Chapters 20 (development viewpoint) and 21 (deployment viewpoint)
