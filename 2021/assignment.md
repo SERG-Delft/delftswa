@@ -144,7 +144,7 @@ Relevant literature for this essay includes
 
 <a id="architecture"></a>
 
-### Essay 2: From Vision to Architecture
+#### Essay 2: From Vision to Architecture
 
 While the first essay focuses on the set of fundamental concepts or properties of the system in its environment, 
 in the second you explore how these are realized through the system's architectural elements and relationships, and the principles of its design and evolution.
