@@ -42,7 +42,7 @@ Furthermore, there will be several lecturers from industry.
 
 ## (Tentative) Course Schedule
 
-Because of the COVID-19 pandamic, all lectures will be online, most likely using Microsoft Teams.
+Because of the COVID-19 pandamic, all lectures will be online in Zoom (link available in Mattermost).
 Scheduled interaction time includes the following:
 
 
