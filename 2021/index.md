@@ -59,7 +59,7 @@ Fri Mar 5  | 08:45 | 10:30 | Lecture 8 | TBD <!-- Adyen? -->
 Wed Mar 10 | 13:45 | 15:30 | Lecture 9 | TBD 
 Fri Mar 12 | 08:45 | 10:30 | Lecture 10 | [Xavier Devroey][xavier] | Software Variability Management
 Wed Mar 17 | 13:45 | 15:30 | Lecture 11 | TBD 
-Fri Mar 19 | 08:45 | 10:30 | Lecture 12 | Daniel Gebler ([Picnic])  | Software architecture for business as _unusual_.
+Fri Mar 19 | 08:45 | 10:30 | Lecture 12 | Daniel Gebler ([Picnic])  | Architecting for business as _unusual_
 Wed Mar 24 | 13:45 | 15:30 | Lecture 13 | TBD
 Fri Mar 26 | 08:45 | 10:30 | Lecture 14 | [Ferd Scheepers][ferd] (ING) | Architecting for the Enterprise
 **Thu** Apr 1 | **08:45** | **17:30** | Finale | All students | Final presentations
