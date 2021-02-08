@@ -173,24 +173,21 @@ Relevant literature for this essay includes
 - _SIG componentization_: The Sigrid Beta Architecture visualization for your system may provide input to your development view
 -->
 
-<!--
-
 
 <a id="quality"></a>
 
-### Essay 3: Quality and Technical Debt
+#### Essay 3: Quality and Evolution
 
 With key aspects of the architecture described, the third essay focuses on means to safeguard the quality and architectural integrity of the underlying system.
 Aspects to take into account include:
 
-1. A description of the overall software quality process used in your system
+1. A description of the overall software quality process that apply to your system
 2. A summary of the key checks conducted in the system's continuous integration processes, and the configurations tested.
 3. An assessment of the quality of the test processes and possibly test adequacy (coverage)
 4. A mapping of recent coding activity on key architectural components (are there "hotspots" in terms of coding activity)
 1. A mapping of the system's roadmap (expected features) onto architectural components, and on the underlying code
-1. An assessment of the code quality and maintainability for example using the views offered by SIG. Most relevant is the quality of those components most likely affected by future change (conform the roadmap)
+1. An assessment of the code quality and maintainability of selected components. Most relevant is the quality of those components most likely affected by future change (conform the roadmap)
 1. An analysis of the importance of code quality, testing, and technical debt in the _discussions_ about new features, as visible in documentation, (GitHub) issues, or (GitHub) pull requests.
-1. Refactoring suggestions as offered by, e.g., SIG or SonarQube.
 1. An assessment of technical debt (if any) present in the system.
 
 Again, it may be the case that some of these aspects do not naturally match your open source system under investigation. Also, doing all of these well may not fit in a single essay. Select those aspects that are most relevant, and do a thorough analysis for them. 
@@ -201,11 +198,12 @@ assess whether trade-offs have been made, and demonstrate leadership by offering
 
 Relevant pointers for this essay include:
 
-- _arc42 documentation_ [^arc]: Chapters 10 and 11.
-- _SIG componentization_: The Sigrid _Technical Monitor_ for your system
 - Martin Fowler: _Technical Debt_. https://www.martinfowler.com/bliki/TechnicalDebt.html
 - _SonarQube_: https://www.sonarqube.org/
 - _JArchitect_: https://www.jarchitect.com/Metrics
+- _arc42 documentation_ [^arc]: Chapters 10 and 11.
+
+<!--
 
 
 <a id="deepening"></a>
