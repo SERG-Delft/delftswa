@@ -261,7 +261,7 @@ If you pick this option, consult the teachers first with a short proposal (a few
 
 
 
-## Submissions
+#### Submissions
 
 Once you are ready to submit your essay, please follow the following steps:
 
