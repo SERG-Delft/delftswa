@@ -203,20 +203,19 @@ Relevant pointers for this essay include:
 - _JArchitect_: https://www.jarchitect.com/Metrics
 - _arc42 documentation_ [^arc]: Chapters 10 and 11.
 
-<!--
-
 
 <a id="deepening"></a>
-### Essay 4: Deepening your Analysis
+#### Essay 4: Deepening your Analysis
 
 Your team's final essay serves to deepen your analyis, and can be on one of the following topics.
 
-#### Essay 4.VAR: Variability Analysis
+##### Essay 4.VAR: Variability Analysis
 
 An analysis of the variability modeling, management and implementation mechanisms that are relevant to your system,
-based on the [lecture by Xavier Devroey](slides/tudelft-architecture-spl2020.pdf).
+based on the lecture by Xavier Devroey.
 The details of this essay are [described separately](assignment-variability.html).
 
+<!--
 #### Essay 4.COL: Collaboration Analysis
 
 An analysis of  the collaborative and social aspects of the  system under study, based on the [lecture by Ayushi Ratsogi](slides/sa-people.pdf).
@@ -227,9 +226,9 @@ To that end, assess the _socio-technical congruence_ in the development effort o
 2. Using your results from Essay 2, identify a number of components that are _loosely_ coupled, and a number of compnents that are  _tightly_ coupled.
 3. Analyze  the communication network of the developers, for example by analyzing  which developers communicate with each other in pull requests, issues, or other channels.
 4. Contrast the two dependency  networks, and assess their congruence in relation to Conway's law.
+-->
 
-
-#### Essay 4.SUS: Sustainability Analysis
+##### Essay 4.SUS: Sustainability Analysis
 
 Look into the change history of the project and find code changes that are related
 to green computing, based on the [green software engineering lecture by Luís Cruz](slides/sa-green-se.pdf). 
@@ -249,7 +248,7 @@ When discussing energy efficiency, **critical thinking** is key. Aspects to cove
 
 
 
-#### Essay 4.OTH: Topic of choice
+##### Essay 4.OTH: Topic of choice
 
 A topic of choice, specific to your project. This can be based on 
 
@@ -304,8 +303,6 @@ Once you are ready to submit your essay, please follow the following steps:
     On the course page, select the correct assignment (corresponding to the essay you are about to hand in) and submit the PDF from step 2.
     
     _Note:_ This only needs to be done once per team.
-
--->
 
 
 <a id="contributions"></a>
