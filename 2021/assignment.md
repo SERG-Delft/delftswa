@@ -271,39 +271,16 @@ Once you are ready to submit your essay, please follow the following steps:
     **Important note:** Your MR needs to be merged for it to be considered submitted.
 
 2.  To prepare your essay for peer reviews, a PDF, _containing only your new essay_, needs to be created.
-    This can be done in two ways:
+    See the [README on GitLab][gitlab-desosa-pdf] for instructions on generating such a PDF locally or on the DESOSA site.
 
-    *   **Download PDF from GitLab**
-
-        For each build of the master branch, a collection of single-essay PDFs is created and made available as a job artifact.
-        Go to the [Project Overview](https://gitlab.ewi.tudelft.nl/in4315/2019-2020/desosa2020) on GitLab, press the download button, and select `single-essays` (see the screenshot below)
-
-        ![Select single-essays from the GitLab master branch job artifacts]({{ "/img/gitlab_artifacts.png" | relative_url }}){:.img-fluid}
-
-        Once you have downloaded the ZIP file, you can find your essay within the directory corresponding to your project.
-        
-        _Note:_ Your MR needs to be merged (into master) before it becomes available here.
-
-    *   **Generate PDF manually**
-    
-        Assuming that you have a working docker setup, it is easy to generate a PDF manually.
-        In order to create a single-essay PDF manually, run the following command:
-        ```
-        $ make dockeressaypdf
-        ```
-        This command will ask you for the relative location of your to-be-submitted essay.
-        Enter the correct path, and press enter.
-        You can now find your essay in the `target/` directory as a PDF.
-
-        _Note:_ This make command was added later.
-        Make sure you are up to date with the master branch if the command is not available.
-
-3.  Submit your essay to [peer.ewi.tudelft.nl](https://peer.ewi.tudelft.nl/), the peer evaluation system that we use.
+3.  Submit your essay to [peer.tudelft.nl][peer], the peer evaluation system that we use.
     After logging in with your NetID, you can find the Software Architecture course under "Enrolled Courses".
-    On the course page, select the correct assignment (corresponding to the essay you are about to hand in) and submit the PDF from step 2.
+    On the course page, select the assignment matching your essay and submit the PDF from step 2.
     
     _Note:_ This only needs to be done once per team.
 
+[gitlab-desosa-pdf]: https://gitlab.ewi.tudelft.nl/in4315/2020-2021/desosa2021#pdf
+[peer]: https://peer.tudelft.nl/
 
 <a id="contributions"></a>
 
