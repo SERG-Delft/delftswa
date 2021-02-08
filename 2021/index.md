@@ -22,7 +22,7 @@ The 2021 teaching team consists of:
 [casper]: https://github.com/casperboone
 [shipra]: https://nl.linkedin.com/in/shiprasharma0312
 [ferd]: https://nl.linkedin.com/in/ferdscheepers
-[leonhard]: s[https://github.com/Twonki]
+[leonhard]: https://github.com/Twonki
 
 
 
