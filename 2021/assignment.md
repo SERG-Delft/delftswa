@@ -247,6 +247,18 @@ When discussing energy efficiency, **critical thinking** is key. Aspects to cove
 - What is missing in the project to leverage energy efficiency?
 
 
+##### Essay 4.AMD: `ARCHITECTURE.md`
+
+Recently, [Aleksey Kladov](https://matklad.github.io) suggested that projects of 10K-200K lines of code should have an `ARCHITECTURE.md` file. If you believe this would be important for your project as well, do as follows:
+
+- Study Kladov's proposal in detail, and see how it would work out for your project
+- Engage a discussion (in an issue) about the desirability of such an `architecture.md` file and the possible contents
+- If the project is positive, draft an actual `architecture.md` and discuss it
+- Refine it until it can be merged.
+- The resulting `architecture.md` file serves as your fourth essay.
+
+Note that interaction with the project is key for this assignment, since otherwise the most likely outcome is that your proposal for an `architecture.md` file is rejected or ignored.
+
 
 ##### Essay 4.OTH: Topic of choice
 

@@ -44,7 +44,9 @@ _Non-exclusive list of potential open source projects to study._
 | CoronaMelder | [https://github.com/minvws](https://github.com/minvws) | Dutch Covid19 Notification App | Arie van Deursen
 | Covid Tools | [http://jgbarah.github.io/Notes/foss-covid-tools.html](http://jgbarah.github.io/Notes/foss-covid-tools.html) | Find your favorite | Arie van Deursen
 | Egeria | [https://github.com/odpi/egeria](https://github.com/odpi/egeria) | ING | Arie van Deursen
+| [Near](https://near.org) | [https://github.com/near/nearcore](https://github.com/near/nearcore) | Smart contracts | Arie van Deursen |
 | Spack | [https://github.com/spack/spack](https://github.com/spack/spack) | Dependency management | Arie van Deursen |
+| [Rust Analyzer](https://rust-analyzer.github.io) | [https://github.com/rust-analyzer/rust-analyzer](https://github.com/rust-analyzer/rust-analyzer) | Program analysis | Arie van Deursen
+| roslyn | [https://github.com/dotnet/roslyn](https://github.com/dotnet/roslyn) | Program analysis | Arie van Deursen
 | JuliaLang | [https://github.com/JuliaLang/](https://github.com/JuliaLang/) | | Arie van Deursen |
-| roslyn | [https://github.com/dotnet/roslyn](https://github.com/dotnet/roslyn) | | Arie van Deursen
 
