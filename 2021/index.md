@@ -98,6 +98,7 @@ Date       | Time  | Writing      | Coding                    | Reviewing | Pres
 |---|---|---|---|---|---|
 Mon Feb 15 | 17:00 |              | Project selected          |           |
 Mon Feb 22 | 17:00 |              | Project meta-data added   |           |
+Mon Feb 22 | 17:00 |              | Journal entries for weeks 1 & 2 |           |
 Mon Mar 8  | 17:00 | Team essay 1 |                           |           |
 Mon Mar 15 | 17:00 | Team essay 2 | Pull request midway report| Essay 1   |
 Mon Mar 22 | 17:00 | Team essay 3 |                           | Essay 2   |
