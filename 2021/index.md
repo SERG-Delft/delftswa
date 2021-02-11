@@ -3,8 +3,6 @@ title: "Software Architecture in 2021"
 layout: tud
 ---
 
-_The content of this page is tentative and work in progress_
-
 Schedule and material for the 2021 edition of IN4315, the TU Delft [Software Architecture](../index.html) course.
 
 ## IN4315 Teaching Team 2021
@@ -40,7 +38,7 @@ Furthermore, there will be several lecturers from industry.
 
 <a id="schedule"></a>
 
-## (Tentative) Course Schedule
+## Course Schedule
 
 Because of the COVID-19 pandamic, all lectures will be online in Zoom (link available in Mattermost).
 Scheduled interaction time includes the following:
