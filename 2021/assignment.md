@@ -260,6 +260,25 @@ Recently, [Aleksey Kladov](https://matklad.github.io) suggested that projects of
 Note that interaction with the project is key for this assignment, since otherwise the most likely outcome is that your proposal for an `architecture.md` file is rejected or ignored.
 
 
+##### Essay 4.DIS: Distribution Analysis
+
+An analysis of the distribution architecture and design choices of your system, based on the lecture by Burcu Kulahcioglu Ozkan. 
+
+You are suggested to address the following questions in your essay:
+
+- What are the distributed components in the system?   
+- What information do the components exchange with each other?   
+- How do the system components communicate with each other?   
+- What kind of faults does the system tolerate? How does it handle failing components?  
+- What are the trade-offs of the distributed design?   
+
+While analyzing trade-offs, you can discuss the availability, consistency, and partition-tolerance properties of the system: 
+
+- Consistency - what level of consistency does the system provide (strong, weak, tunable)?  
+- Availability - to be able to serve user requests in a short response time?  
+- Partition tolerance - how does the system tolerate network partitions?  
+
+
 ##### Essay 4.OTH: Topic of choice
 
 A topic of choice, specific to your project. This can be based on 
