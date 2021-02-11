@@ -48,7 +48,7 @@ Scheduled interaction time includes the following:
 
 Date | Start | End | Activity | Teacher | Topic
 |---|---|---|---|---|
-Wed Feb 10 | 13:45 | 15:30 | Lecture 1 | Arie van Deursen         | Introduction and Course Structure
+Wed Feb 10 | 13:45 | 15:30 | Lecture 1 | Arie van Deursen         | Introduction and Course Structure ([slides](slides/overview2021.pdf))
 Fri Feb 12 | 08:45 | 10:30 | Lecture 2 | Arie van Deursen         | Envisioning the System
 Wed Feb 17 | 13:45 | 15:30 | Lecture 3 | Arie van Deursen         | Realizing the Vision
 Fri Feb 19 | 08:45 | 10:30 | Lecture 4 | Arie van Deursen         | Continuous Evolution
