@@ -125,12 +125,13 @@ The starting point for your architectural analysis is a description of the _visi
 Aspects to take into account include:
 
 1. A concise, inspirational characterization of what the project aims to achieve
-2. A brief explanation of the key domain concepts (underlying domain model)
-3. A description of the system's main capabilities (e.g. use cases), as they are visible to the typical (end) user
-3. A description of the current and future (external) context in which the system operates
-4. An analysis of the stakeholders involved in the project, and what they need from the system so that it is beneficial to them
-5. A characterization of key quality attributes the system must meet
-6. A product roadmap, laying out the main directions anticipated for the upcoming years
+1. A brief explanation of the key domain concepts (underlying domain model)
+1. A description of the system's main capabilities (e.g. use cases), as they are visible to the typical (end) user
+1. A description of the current and future (external) context in which the system operates
+1. An analysis of the stakeholders involved in the project, and what they need from the system so that it is beneficial to them
+1. A characterization of key quality attributes the system must meet
+1. A product roadmap, laying out the main directions anticipated for the upcoming years
+1. Ethical considerations of the system and its construction process
 
 It may be the case that some of these aspects do not naturally match your open source system under investigation. In that case, say so explicitly, and explain why you think this is the case in your essay. Instead offer a deeper analysis of other relevant aspects.
 
