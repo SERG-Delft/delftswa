@@ -3,6 +3,8 @@ title: "Assignment"
 layout: tud
 ---
 
+{% include edition_warning.html %}
+
 ## Team Formation
 
 As software architecture is all about collaboration and communication, the work must be done in teams:

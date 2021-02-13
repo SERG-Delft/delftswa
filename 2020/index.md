@@ -3,6 +3,8 @@ title: "Software Architecture in 2020"
 layout: tud
 ---
 
+{% include edition_warning.html %}
+
 Schedule and material for the 2020 edition of IN4315, the TU Delft [Software Architecture](../index.html) course.
 
 ## IN4315 Teaching Team 2020
