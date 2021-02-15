@@ -53,9 +53,9 @@ Fri Feb 19 | 08:45 | 10:30 | Lecture 4 | Arie van Deursen         | Continuous E
 Wed Feb 24 | 13:45 | 15:30 | Lecture 5 | [Luís Cruz][luis]        | Architecting for Sustainability
 Fri Feb 26 | 08:45 | 10:30 | Lecture 6 | [Burcu Kulahcioglu Ozkan][burcu]     | Architecting for Distribution
 Wed Mar 3  | 13:45 | 15:30 | Lecture 7 | [Diomidis Spinellis][diomidis] | 50 years of Unix Architecture
-Fri Mar 5  | 08:45 | 10:30 | Lecture 8 | TBD <!-- Adyen? -->
-Wed Mar 10 | 13:45 | 15:30 | Lecture 9 | TBD 
-Fri Mar 12 | 08:45 | 10:30 | Lecture 10 | [Xavier Devroey][xavier] | Software Variability Management
+Fri Mar 5  | 08:45 | 10:30 | Lecture 8 | Bert Wolters ([Adyen])     | Architecting for Scalability
+Wed Mar 10 | 13:45 | 15:30 | Lecture 9 | [Steffan Norberhuis][norberhuis]      | Architecting for Operations
+Fri Mar 12 | 08:45 | 10:30 | Lecture 10 | [Xavier Devroey][xavier] | Architecting for Variability
 Wed Mar 17 | 13:45 | 15:30 | Lecture 11 | TBD 
 Fri Mar 19 | 08:45 | 10:30 | Lecture 12 | Daniel Gebler ([Picnic])  | Architecting for business as _unusual_
 Wed Mar 24 | 13:45 | 15:30 | Lecture 13 | TBD
@@ -64,6 +64,8 @@ Fri Mar 26 | 08:45 | 10:30 | Lecture 14 | [Ferd Scheepers][ferd] (ING) | Archite
 
 
 [picnic]: https://blog.picnic.nl/
+[adyen]: https://www.adyen.com/
+[norberhuis]: https://www.norberhuis.nl/
 
 
 
