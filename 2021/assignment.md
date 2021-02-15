@@ -67,6 +67,8 @@ Follow all good software development practices in this repository, such as using
 
 You are encouraged to use issues and must use merge requests, properly labeling them with an identifier for your project.
 
+(Some teams prefer to use a collaborative tool like Overleaf or Google Doc for "pair writing". That is OK, as long as the eventual result is committed, in time, in the gitlab repository in proper markdown format.)
+
 [gitlab-desosa]: https://gitlab.ewi.tudelft.nl/in4315/2020-2021/desosa2021
 [hugo]: https://gohugo.io/
 [markdown]: https://daringfireball.net/projects/markdown/
