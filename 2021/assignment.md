@@ -271,7 +271,7 @@ While analyzing trade-offs, you can discuss the availability, consistency, and p
 
 ##### Essay 4.AMD: `ARCHITECTURE.md`
 
-Recently, [Aleksey Kladov](https://matklad.github.io) suggested that projects of 10K-200K lines of code should have an `ARCHITECTURE.md` file. If you believe this would be important for your project as well, do as follows:
+Recently, [Aleksey Kladov](https://matklad.github.io) suggested that projects of 10K-200K lines of code should have an [ARCHITECTURE.md][archmd] file. If you believe this would be important for your project as well, do as follows:
 
 - Study Kladov's proposal in detail, and see how it would work out for your project
 - Engage a discussion (in an issue) about the desirability of such an `architecture.md` file and the possible contents
@@ -280,6 +280,8 @@ Recently, [Aleksey Kladov](https://matklad.github.io) suggested that projects of
 - The resulting `architecture.md` file serves as your fourth essay.
 
 Note that interaction with the project is key for this assignment, since otherwise the most likely outcome is that your proposal for an `architecture.md` file is rejected or ignored.
+
+[archmd]: https://matklad.github.io/2021/02/06/ARCHITECTURE.md.html
 
 
 ##### Essay 4.OTH: Topic of choice
