@@ -181,17 +181,16 @@ Relevant literature for this essay includes
 
 #### Essay 3: Quality and Evolution
 
-With key aspects of the architecture described, the third essay focuses on means to safeguard the quality and architectural integrity of the underlying system.
+With key aspects of the architecture described, the third essay focuses on means to safeguard the quality and architectural integrity of the underlying system, with special empahsis on the rate of change.
 Aspects to take into account include:
 
-1. A description of the overall software quality process that apply to your system
-2. A summary of the key checks conducted in the system's continuous integration processes, and the configurations tested.
-3. An assessment of the quality of the test processes and possibly test adequacy (coverage)
-4. A mapping of recent coding activity on key architectural components (are there "hotspots" in terms of coding activity)
-1. A mapping of the system's roadmap (expected features) onto architectural components, and on the underlying code
-1. An assessment of the code quality and maintainability of selected components. Most relevant is the quality of those components most likely affected by future change (conform the roadmap)
-1. An analysis of the importance of code quality, testing, and technical debt in the _discussions_ about new features, as visible in documentation, (GitHub) issues, or (GitHub) pull requests.
-1. An assessment of technical debt (if any) present in the system.
+1. The overall software quality processes that apply to your system
+2. The key elements of the system's continuous integration processes
+3. The rigor of the test processes and the role of test coverage
+4. Hotspot components from the past (previously changed a lot) and the future (needed for roadmap)
+5. The code quality, with a focus on hotspot components
+6. The quality culture, as evidenced in actual discussions and tests taking place in architecturally significant feature and pull requests (identify and analyze at least 10 such issues and 10 such pull requests)
+7. An assessment of technical debt present in the system.
 
 Again, it may be the case that some of these aspects do not naturally match your open source system under investigation. Also, doing all of these well may not fit in a single essay. Select those aspects that are most relevant, and do a thorough analysis for them. 
 
