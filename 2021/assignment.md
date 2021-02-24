@@ -233,7 +233,7 @@ To that end, assess the _socio-technical congruence_ in the development effort o
 ##### Essay 4.SUS: Sustainability Analysis
 
 Look into the change history of the project and find code changes that are related
-to green computing, based on the [Green Software engineering lecture by Luís Cruz](slides/sa-green-se.pdf). 
+to green computing, based on the [Green Software Engineering lecture by Luís Cruz](slides/sa-green-se.pdf). 
 Present and discuss the rationale behind those changes:
 
 - A) **Analyze the change history** of the project and find code changes that are related to green computing. Present and discuss the rationale behind those changes.
