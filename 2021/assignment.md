@@ -233,15 +233,15 @@ To that end, assess the _socio-technical congruence_ in the development effort o
 ##### Essay 4.SUS: Sustainability Analysis
 
 Look into the change history of the project and find code changes that are related
-to green computing, based on the [green software engineering lecture by Luís Cruz](slides/sa-green-se.pdf). 
+to green computing, based on the [Green Software Engineering lecture by Luís Cruz](slides/sa-green-se.pdf). 
 Present and discuss the rationale behind those changes:
 
-- Suggest energy improvements to be implement in the project (development, source, infrastructure). Implement them, if possible.
-- Measure the energy consumption of potential hotspots. (use RAPL)
+- A) **Analyze the change history** of the project and find code changes that are related to green computing. Present and discuss the rationale behind those changes.
+- B) **Recommend energy improvements** to be implemented in the project and implement them, if possible. Recommendations can be posed from a development, execution, or infrastructure perspective.
+- C) **Measure the energy consumption** of potential hotspots. (Using an energy profiler)
 
 When discussing energy efficiency, **critical thinking** is key. Aspects to cover include:
 
-- No assumptions or preconceptions, think outside the script.
 - Is it always possible to reduce energy consumption?
 - What are the trade-offs of improving energy efficiency?
 - What are the implications on UX or business metrics?
