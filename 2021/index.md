@@ -58,7 +58,7 @@ Wed Feb 10 | 13:45 | 15:30 | Lecture 1 | Arie van Deursen         | Introduction
 Fri Feb 12 | 08:45 | 10:30 | Lecture 2 | Arie van Deursen         | Envisioning the System ([slides](slides/envisioning-the-system.pdf))
 Wed Feb 17 | 13:45 | 15:30 | Lecture 3 | Arie van Deursen         | Realizing the Vision ([slides](slides/contributions-and-views.pdf))
 Fri Feb 19 | 08:45 | 10:30 | Lecture 4 | Arie van Deursen         | Architecting for Change ([slides](slides/architecting-for-change.pdf))
-Wed Feb 24 | 13:45 | 15:30 | Lecture 5 | [Luís Cruz][luis]        | Architecting for Sustainability
+Wed Feb 24 | 13:45 | 15:30 | Lecture 5 | [Luís Cruz][luis]        | Architecting for Sustainability ([slides](slides/sa-green-se.pdf))
 Fri Feb 26 | 08:45 | 10:30 | Lecture 6 | [Burcu Kulahcioglu Ozkan][burcu]     | Architecting for Distribution
 Wed Mar 3  | 13:45 | 15:30 | Lecture 7 | [Diomidis Spinellis][diomidis] | 50 years of Unix Architecture
 Fri Mar 5  | 08:45 | 10:30 | Lecture 8 | Bert Wolters ([Adyen])     | Architecting for Scalability
