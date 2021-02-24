@@ -5,6 +5,14 @@ layout: tud
 
 Schedule and material for the 2021 edition of IN4315, the TU Delft [Software Architecture](../index.html) course.
 
+**Note:** This course is being taught during the second (and third) COVID19 wave taking place in The Netherlands. Therefore, the course is entirely online.
+The impact on student's well being of having to study online only can be substantial:
+_Students can at all times reach out to the teachers, teaching assistants, 
+the student counsellors, or any of the 
+[organizations and people](slides/student-well-being.pdf) that may be able to help._
+
+
+
 ## IN4315 Teaching Team 2021
 
 The 2021 teaching team consists of:
