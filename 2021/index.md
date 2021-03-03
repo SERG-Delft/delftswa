@@ -52,14 +52,14 @@ Because of the COVID-19 pandamic, all lectures will be online in Zoom (link avai
 Scheduled interaction time includes the following:
 
 
-Date | Start | End | Activity | Teacher | Topic
+Date | Start | End | Activity | Teacher | Topic | Slides | Video
 |---|---|---|---|---|
-Wed Feb 10 | 13:45 | 15:30 | Lecture 1 | Arie van Deursen         | Introduction and Course Structure ([slides](slides/overview2021.pdf))
-Fri Feb 12 | 08:45 | 10:30 | Lecture 2 | Arie van Deursen         | Envisioning the System ([slides](slides/envisioning-the-system.pdf))
-Wed Feb 17 | 13:45 | 15:30 | Lecture 3 | Arie van Deursen         | Realizing the Vision ([slides](slides/contributions-and-views.pdf))
-Fri Feb 19 | 08:45 | 10:30 | Lecture 4 | Arie van Deursen         | Architecting for Change ([slides](slides/architecting-for-change.pdf))
-Wed Feb 24 | 13:45 | 15:30 | Lecture 5 | [Luís Cruz][luis]        | Architecting for Sustainability ([slides](slides/sa-green-se.pdf))
-Fri Feb 26 | 08:45 | 10:30 | Lecture 6 | [Burcu Kulahcioglu Ozkan][burcu]     | Architecting for Distribution ([slides](slides/architecting-for-distribution.pdf))
+Wed Feb 10 | 13:45 | 15:30 | Lecture 1 | Arie van Deursen         | Introduction and Course Structure | [pdf](slides/overview2021.pdf) | [video](https://collegerama.tudelft.nl/Mediasite/Channel/eemcs-msc-cs/watch/3e74da30042e4edc90ca96648e336e5e1d)
+Fri Feb 12 | 08:45 | 10:30 | Lecture 2 | Arie van Deursen         | Envisioning the System | [pdf](slides/envisioning-the-system.pdf) | [video](https://collegerama.tudelft.nl/Mediasite/Channel/eemcs-msc-cs/watch/a346b37e49504745a857c1abc55cb99e1d)
+Wed Feb 17 | 13:45 | 15:30 | Lecture 3 | Arie van Deursen         | Realizing the Vision | [pdf](slides/contributions-and-views.pdf) | [video](https://collegerama.tudelft.nl/Mediasite/Channel/eemcs-msc-cs/watch/e9cea7ad12464b138d41ad2b6f17abbe1d)
+Fri Feb 19 | 08:45 | 10:30 | Lecture 4 | Arie van Deursen         | Architecting for Change | [pdf](slides/architecting-for-change.pdf) | [video](https://collegerama.tudelft.nl/Mediasite/Channel/eemcs-msc-cs/watch/7dd72f21515e47318535e11776f7ec541d)
+Wed Feb 24 | 13:45 | 15:30 | Lecture 5 | [Luís Cruz][luis]        | Architecting for Sustainability | [pdf](slides/sa-green-se.pdf) | [video](https://collegerama.tudelft.nl/Mediasite/Channel/eemcs-msc-cs/watch/baf7f84c76d54e2a9c3323f122f926281d)
+Fri Feb 26 | 08:45 | 10:30 | Lecture 6 | [Burcu Kulahcioglu Ozkan][burcu]     | Architecting for Distribution | [pdf](slides/architecting-for-distribution.pdf) | [video](https://collegerama.tudelft.nl/Mediasite/Channel/eemcs-msc-cs/watch/4e45e2300a624cf9a27fffb3ac7a6d0b1d)
 Wed Mar 3  | 13:45 | 15:30 | Lecture 7 | [Diomidis Spinellis][diomidis] | 50 years of Unix Architecture
 Fri Mar 5  | 08:45 | 10:30 | Lecture 8 | Bert Wolters ([Adyen])     | Architecting for Scalability
 Wed Mar 10 | 13:45 | 15:30 | Lecture 9 | [Steffan Norberhuis][norberhuis]      | Architecting for Operations		
@@ -71,9 +71,14 @@ Fri Mar 26 | 08:45 | 10:30 | Lecture 14 | [Ferd Scheepers][ferd] (ING) | Archite
 **Thu** Apr 1 | **08:45** | **17:30** | Finale | All students | Final presentations
 
 
+<br/>
+Recorded lectures are available for TU Delft students on [Collegerama].
+
+
 [picnic]: https://blog.picnic.nl/
 [adyen]: https://www.adyen.com/
 [norberhuis]: https://www.norberhuis.nl/
+[collegerama]: https://collegerama.tudelft.nl/Mediasite/Channel/eemcs-msc-cs/browse/null/most-recent/null/0/1cf33499abdf4e20a195204e9d47b4b414
 
 
 
