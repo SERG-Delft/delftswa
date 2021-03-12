@@ -60,10 +60,10 @@ Wed Feb 17 | 13:45 | 15:30 | Lecture 3 | Arie van Deursen         | Realizing th
 Fri Feb 19 | 08:45 | 10:30 | Lecture 4 | Arie van Deursen         | Architecting for Change | [pdf](slides/architecting-for-change.pdf) | [video](https://collegerama.tudelft.nl/Mediasite/Channel/eemcs-msc-cs/watch/7dd72f21515e47318535e11776f7ec541d)
 Wed Feb 24 | 13:45 | 15:30 | Lecture 5 | [Luís Cruz][luis]        | Architecting for Sustainability | [pdf](slides/sa-green-se.pdf) | [video](https://collegerama.tudelft.nl/Mediasite/Channel/eemcs-msc-cs/watch/baf7f84c76d54e2a9c3323f122f926281d)
 Fri Feb 26 | 08:45 | 10:30 | Lecture 6 | [Burcu Kulahcioglu Ozkan][burcu]     | Architecting for Distribution | [pdf](slides/architecting-for-distribution.pdf) | [video](https://collegerama.tudelft.nl/Mediasite/Channel/eemcs-msc-cs/watch/4e45e2300a624cf9a27fffb3ac7a6d0b1d)
-Wed Mar 3  | 13:45 | 15:30 | Lecture 7 | [Diomidis Spinellis][diomidis] | 50 years of Unix Architecture
-Fri Mar 5  | 08:45 | 10:30 | Lecture 8 | Bert Wolters ([Adyen])     | Architecting for Scalability
-Wed Mar 10 | 13:45 | 15:30 | Lecture 9 | [Steffan Norberhuis][norberhuis]      | Architecting for Operations		
-Fri Mar 12 | 08:45 | 10:30 | Lecture 10 | [Xavier Devroey][xavier] | Architecting for Variability
+Wed Mar 3  | 13:45 | 15:30 | Lecture 7 | [Diomidis Spinellis][diomidis] | 50 years of Unix Architecture | [pdf](slides/unix-arch-evolution-v5.pdf) | [video](https://collegerama.tudelft.nl/Mediasite/Channel/eemcs-msc-cs/watch/60d3d5e186504d0ebb8978927ab461131d)
+Fri Mar 5  | 08:45 | 10:30 | Lecture 8 | Bert Wolters ([Adyen])     | Architecting for Scalability | [pdf](slides/architecting-for-scalability.pdf) | [video](https://collegerama.tudelft.nl/Mediasite/Channel/eemcs-msc-cs/watch/0264caaf373f40cab74424d6d7ece9081d)
+Wed Mar 10 | 13:45 | 15:30 | Lecture 9 | [Steffan Norberhuis][norberhuis]      | Architecting for Operations | [pdf](slides/architecting-for-operations.pdf) | [video]()		
+Fri Mar 12 | 08:45 | 10:30 | Lecture 10 | [Xavier Devroey][xavier] | Architecting for Variability | [pdf](slides/tudelft-architecture-spl2021.pdf)
 Wed Mar 17 | 13:45 | 15:30 | Lecture 11 | TBD 
 Fri Mar 19 | 08:45 | 10:30 | Lecture 12 | Daniel Gebler ([Picnic])  | Architecting for business as _unusual_
 Wed Mar 24 | 13:45 | 15:30 | Lecture 13 | TBD
