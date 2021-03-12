@@ -17,7 +17,7 @@ the student counsellors, or any of the
 
 The 2021 teaching team consists of:
 
-- Teachers: Arie van Deursen (responsible professor), [Luís Cruz][luis], [Xavier Devroey][xavier], [Burcu Kulahcioglu Ozkan][burcu], [Diomidis Spinellis][diomidis]
+- Teachers: Arie van Deursen (responsible professor), [Luís Cruz][luis], [Xavier Devroey][xavier], [Burcu Kulahcioglu Ozkan][burcu], and [Diomidis Spinellis][diomidis]
 - Teaching Assistants: [Shipra Sharma][shipra], [Casper Boone][casper], [Leonhard Applis][leonhard]
 
 
