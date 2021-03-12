@@ -70,10 +70,8 @@ Wed Mar 24 | 13:45 | 15:30 | Lecture 13 | TBD
 Fri Mar 26 | 08:45 | 10:30 | Lecture 14 | [Ferd Scheepers][ferd] (ING) | Architecting for the Enterprise
 **Thu** Apr 1 | **08:45** | **17:30** | Finale | All students | Final presentations
 
-
 <br/>
 Recorded lectures are available for TU Delft students on [Collegerama].
-
 
 [picnic]: https://blog.picnic.nl/
 [adyen]: https://www.adyen.com/
