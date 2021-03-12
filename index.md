@@ -23,7 +23,6 @@ To that end, we will work with three knowledge sources:
 
 2. **Theory**: Little is as applicable as good theory, which is codified practice. We will study various books, articles, and resources on the web. 
 In particular we will look at 
-    - Coplien and Bjørnvig's [Lean Architecture][lsa][^coplien], with focus on delivering customer value
     - Cesare Pautasso's [Software Architecture][cesare][^pautasso], offering a broad perspective on software arechitecture including software services, deployment, and scalability, and availability
     - Rozanski and Woods' [Views and Perspectives][views][^rozanski] approach to software systems architecture at enterprise level.
 
