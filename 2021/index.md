@@ -64,7 +64,7 @@ Wed Mar 3  | 13:45 | 15:30 | Lecture 7 | [Diomidis Spinellis][diomidis] | 50 yea
 Fri Mar 5  | 08:45 | 10:30 | Lecture 8 | Bert Wolters ([Adyen])     | Architecting for Scalability | [pdf](slides/architecting-for-scalability.pdf) | [video](https://collegerama.tudelft.nl/Mediasite/Channel/eemcs-msc-cs/watch/0264caaf373f40cab74424d6d7ece9081d)
 Wed Mar 10 | 13:45 | 15:30 | Lecture 9 | [Steffan Norberhuis][norberhuis]      | Architecting for Operations | [pdf](slides/architecting-for-operations.pdf) | [video]()		
 Fri Mar 12 | 08:45 | 10:30 | Lecture 10 | [Xavier Devroey][xavier] | Architecting for Variability | [pdf](slides/tudelft-architecture-spl2021.pdf)
-Wed Mar 17 | 13:45 | 15:30 | Lecture 11 | TBD 
+Wed Mar 17 | 13:45 | 15:30 | Lecture 11 | _No lecture_
 Fri Mar 19 | 08:45 | 10:30 | Lecture 12 | Daniel Gebler ([Picnic])  | Architecting for business as _unusual_
 Wed Mar 24 | 13:45 | 15:30 | Lecture 13 | TBD
 Fri Mar 26 | 08:45 | 10:30 | Lecture 14 | [Ferd Scheepers][ferd] (ING) | Architecting for the Enterprise
