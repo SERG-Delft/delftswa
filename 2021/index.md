@@ -63,7 +63,7 @@ Fri Feb 26 | 08:45 | 10:30 | Lecture 6 | [Burcu Kulahcioglu Ozkan][burcu]     | 
 Wed Mar 3  | 13:45 | 15:30 | Lecture 7 | [Diomidis Spinellis][diomidis] | 50 years of Unix Architecture | [pdf](slides/unix-arch-evolution-v5.pdf) | [video](https://collegerama.tudelft.nl/Mediasite/Channel/eemcs-msc-cs/watch/60d3d5e186504d0ebb8978927ab461131d)
 Fri Mar 5  | 08:45 | 10:30 | Lecture 8 | Bert Wolters ([Adyen])     | Architecting for Scalability | [pdf](slides/architecting-for-scalability.pdf) | [video](https://collegerama.tudelft.nl/Mediasite/Channel/eemcs-msc-cs/watch/0264caaf373f40cab74424d6d7ece9081d)
 Wed Mar 10 | 13:45 | 15:30 | Lecture 9 | [Steffan Norberhuis][norberhuis]      | Architecting for Operations | [pdf](slides/architecting-for-operations.pdf) | [video]()		
-Fri Mar 12 | 08:45 | 10:30 | Lecture 10 | [Xavier Devroey][xavier] | Architecting for Variability | [pdf](slides/tudelft-architecture-spl2021.pdf)
+Fri Mar 12 | 08:45 | 10:30 | Lecture 10 | [Xavier Devroey][xavier] | Architecting for Variability | [pdf](slides/tudelft-architecture-spl2021.pdf) | [video](https://collegerama.tudelft.nl/Mediasite/Showcase/msc-computerscience/Presentation/648bf0fe0e89447b95acf171df0710a51d)
 Wed Mar 17 | 13:45 | 15:30 | Lecture 11 | _No lecture_
 Fri Mar 19 | 08:45 | 10:30 | Lecture 12 | Daniel Gebler ([Picnic])  | Architecting for business as _unusual_
 Wed Mar 24 | 13:45 | 15:30 | Lecture 13 | TBD
