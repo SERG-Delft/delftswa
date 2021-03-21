@@ -3,8 +3,6 @@ title: "Assignment 2021"
 layout: tud-toc
 ---
 
-TENTATIVE -- WORK IN PROGRESS
-
 ## Getting Started
 
 To get started with the assignment, the following tasks need to be completed:
@@ -371,6 +369,48 @@ To make this possible, it is important that you and your team provide insight in
 In the journal, you can offer a story of what you learned, what activities you participated in (lectures, meetings).
 All effort related to the course can be included, including routes taken that do not directly lead to text in your essays (e.g., projects considered when selecting your project).
 For each week, also include _the number of hours you spent that week on the software architecture course_.
+
+
+<a id="videos"></a>
+
+### Final Presentation
+
+#### Video
+
+The course will be concluded with an online presentation day. To that end each team prepares a 10 minute video highlighting their work. 
+
+The primary audience for this video is your fellow students who also followed this course.
+Furthermore, try to make the video of interest to current or future contributors of the open source system you analyzed.
+
+If possible, try to make it clear that the video is _team_ work, by letting all team members feature in the video.
+
+You should upload your video as a (private or public) YouTube video, and add the URL to the relevant `.yml` file in your DESOSA gitlab repository, 
+where you can also indicate whether you want your video to be public.
+
+
+#### Presentation Day
+
+During presentation day, we will create six _sessions_ of approximately two hours.
+Sessions will start at 10:00, 12:30, and 15:00, in two parallel tracks (in two separate Zoom calls).
+
+For each team, there will be 20 minutes. During the first 10 minutes the team's video will be shown.
+During the second 10 minutes there will be Q&A. All four team members must be present, and should be involved in answering questions.
+
+Each team is expected to join the full (two hour) session during which their own video is shown and discussed,
+and participate actively in the discussions of the other four teams in the same session.
+
+Furthermore, individual students are welcome to join any other session and participate in the Q&A (but this is not compulsory).
+
+
+#### Grading
+
+Students should fill in a form for each of the four presentations and Q&A sessions they participate in.
+This form will distinguish content depth, presentation style, and the handling of questions.
+
+In each session 1-2 teachers will participate, who will also grade the teams.
+
+The Q&A sessions including the chat will be recorded.
+
 
 
 ## References
