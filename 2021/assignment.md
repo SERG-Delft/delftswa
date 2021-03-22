@@ -384,10 +384,12 @@ Furthermore, try to make the video of interest to current or future contributors
 
 If possible, try to make it clear that the video is _team_ work, by letting all team members feature in the video.
 
-You should upload your video as a (private or public) YouTube video, and add the URL to the relevant `video.yml` file in your DESOSA gitlab repository, 
-where you can also indicate whether you want your video to be public.
-_More detailed instructions will follow soon._
+You should upload your video as a (unlisted or public) YouTube video, and add the URL to your project page on the DESOSA website.
+See the [DESOSA README][gitlab-desosa-videos] for full instructions on how to add the video.
+You can indicate whether you want your video to be public.
 Both should be done _before_ the deadline of the presentation video.
+
+[gitlab-desosa-videos]: https://gitlab.ewi.tudelft.nl/in4315/2020-2021/desosa2021#videos
 
 
 #### Presentation Day
