@@ -382,6 +382,11 @@ The course will be concluded with an online presentation day. To that end each t
 The primary audience for this video is your fellow students who also followed this course.
 Furthermore, try to make the video of interest to current or future contributors of the open source system you analyzed.
 
+Aspects you can cover in your video include the purpose of the system (essay 1), the underlying architecture (essay 2), the quality assurance process (essay 3), as well as your choice of topic for essay 4.
+As it is impossible to cover everything you did, please focus on what sets your system apart from many other systems -- the key thing other students in this course should learn about your system.
+
+In terms of video style, feel free to use your full creativity.
+The best videos trigger applause and awe when presented to all students.
 If possible, try to make it clear that the video is _team_ work, by letting all team members feature in the video.
 
 You should upload your video as a (unlisted or public) YouTube video, and add the URL to your project page on the DESOSA website.
