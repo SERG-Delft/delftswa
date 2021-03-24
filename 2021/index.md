@@ -117,6 +117,10 @@ Mon Mar 29 | 17:00 | Team essay 4       |                           |           
 Wed Mar 31 | 17:00 |                    |                           |           | Presentation Video
 Tue Apr 6  | 17:00 | Small improvements | Pull request report       | Essay 3+4 |
 
+The "Small improvements" deadline offers an opportunity to make small fixes to your essay based on the reviewing comments.
+These changes are optional and should be **small**, i.e., at most 1-2 hours of work, and should focus on obvious mistakes and oversights. 
+The "substance" of the essays should all be in the essays at the original deadline.
+
 
 ## Grading
 
