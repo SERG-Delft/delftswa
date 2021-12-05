@@ -21,7 +21,7 @@
 
         <a href="{{ '/' | relative_url }}">
           <img
-            src="/img/{{ site.imagefile }}"
+            src="{{ site.imagefile | relative_url }}"
             class="img-fluid"
             title="{{ site.imagetitle }}"
           />
