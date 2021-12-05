@@ -1,9 +1,9 @@
 ---
-title: "Software Architecture in 2021"
+title: "Software Architecture in 2022"
 layout: tud
 ---
 
-{% include edition_warning.html %}
+{% include construction_warning.html %}
 
 Schedule and material for the 2021 edition of IN4315, the TU Delft [Software Architecture](../index.html) course.
 

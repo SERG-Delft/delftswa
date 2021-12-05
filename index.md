@@ -3,7 +3,7 @@ layout: tud
 title: Software Architecture
 ---
 
-**{{ site.teacher}}, {{ site.year }}**
+**{{ site.teacher }}, {{ site.year }}**
 
 ## Course Content
 

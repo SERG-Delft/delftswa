@@ -1,10 +1,18 @@
 "/":
 - title: Home
   url: /
-- title: Edition 2021
-  url: /2021
-- title: Edition 2020
-  url: /2020
+- title: Edition 2022
+  url: /2022
+- title: History
+  sublinks:
+  - title: Edition 2021
+    url: /2021
+  - title: Edition 2020
+    url: /2020
+
+"/2022/":
+- title: Home
+  url: /2022
 
 "/2021/":
 - title: Home
