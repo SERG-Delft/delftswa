@@ -20,8 +20,13 @@
         <h1 class="text-center">{{ site.coursecode }}: {{ site.coursetitle }}</h1>
 
         <a href="{{ '/' | relative_url }}">
-          <img src="{{ "/img/altes-museum.jpg" | relative_url }}" class="img-fluid" title="{{ site.imagetitle }}"/>
+          <img
+            src="/img/{{ site.imagefile }}"
+            class="img-fluid"
+            title="{{ site.imagetitle }}"
+          />
         </a>
+
 
         {% include navigation.html %}
 
