@@ -3,6 +3,8 @@ title: "Assignment 2021"
 layout: tud-toc
 ---
 
+{% include construction_warning.html %}
+
 ## Getting Started
 
 To get started with the assignment, the following tasks need to be completed:

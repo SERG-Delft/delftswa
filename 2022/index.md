@@ -101,16 +101,18 @@ You can watch our progress (for essays made public) at [2021.desosa.nl][desosa20
 ## Deadlines
 
 Date       | Time  | Writing            | Coding                    | Reviewing | Presenting
-|---|---|---|---|---|---|
-Mon Feb 15 | 17:00 |                    | Project selected          |           |
-Mon Feb 22 | 17:00 |                    | Project meta-data added   |           |
-Mon Feb 22 | 17:00 |                    | Journal entries for weeks 1 & 2 |     |
-Mon Mar 8  | 17:00 | Team essay 1       |                           |           |
-Mon Mar 15 | 17:00 | Team essay 2       | Pull request midway report| Essay 1   |
-Mon Mar 22 | 17:00 | Team essay 3       |                           | Essay 2   |
-Mon Mar 29 | 17:00 | Team essay 4       |                           |           |
-Wed Mar 31 | 17:00 |                    |                           |           | Presentation Video
-Tue Apr 6  | 17:00 | Small improvements | Pull request report       | Essay 3+4 |
+-------|---|-------|--------------------|---------------------------|-----------|----------------|
+Mon Feb 14 | 17:00 |                    | Project selected          |           |
+Mon Feb 21 | 17:00 |                    | Project meta-data added   |           |
+Mon Feb 21 | 17:00 |                    | Journal entries for weeks 1 & 2 |     |
+Mon Mar  7 | 17:00 | Team essay 1       |                           |           |
+Mon Mar 14 | 17:00 | Team essay 2       | Pull request midway report| Essay 1   |
+Mon Mar 21 | 17:00 | Team essay 3       |                           | Essay 2   |
+Mon Mar 28 | 17:00 | Team essay 4       |                           |           |
+Tue Mar 29 | 17:00 |                    |                           |           | Poster/video/slides
+Mon Apr  5 | 17:00 | Small improvements | Pull request report       | Essay 3+4 |
+
+<br/>
 
 The "Small improvements" deadline offers an opportunity to make small fixes to your essay based on the reviewing comments.
 These changes are optional and should be **small**, i.e., at most 1-2 hours of work, and should focus on obvious mistakes and oversights. 
