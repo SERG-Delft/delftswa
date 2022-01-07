@@ -10,6 +10,8 @@ Schedule and material for the 2022 edition of IN4315, the TU Delft [Software Arc
 **Note:** This course is being taught during the Omikron COVID19 wave taking place in The Netherlands. The course will be hybrid in setup. As many activities as possible will be set up on campus, with online fall back mechansims.
 
 
+<a id="teachers"></a>
+
 ## IN4315 Teaching Team 2022
 
 The 2021 teaching team consists of:
@@ -59,7 +61,7 @@ Wed Feb 23 | 13:45 | 15:30 | Lecture  5 | _No lecture_             | _(no room a
 Fri Feb 25 | 08:45 | 10:30 | Lecture  6 | Arie van Deursen         | Architecting for Configurability
 Wed Mar 2  | 13:45 | 15:30 | Lecture  7 | Diomidis Spinellis       | 50 years of Unix Architecture |
 Fri Mar 4  | 08:45 | 10:30 | Lecture  8 | Industry I               | Architecting for Scalability | 
-Wed Mar 9 | 13:45 | 15:30 | Lecture   9 | Industry II              | Architecting for Operations |
+Wed Mar 9  | 13:45 | 15:30 | Lecture  9 | Industry II              | Architecting for Operations |
 Fri Mar 11 | 08:45 | 10:30 | Lecture 10 | Industry III             | TBD |
 Wed Mar 16 | 13:45 | 15:30 | Lecture 11 | TBD
 Fri Mar 18 | 08:45 | 10:30 | Lecture 12 | TBD

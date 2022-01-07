@@ -13,6 +13,32 @@
 "/2022/":
 - title: Home
   url: /2022
+  sublinks:
+    - title: Teachers
+      url: /2022/#teachers
+    - title: Schedule
+      url: /2022/#schedule
+    - title: Deadlines
+      url: /2022/#deadlines
+    - title: Grading
+      url: /2021/#grading
+
+- title: Assignment
+  url: /2022/assignment.html
+  sublinks:
+    - title: Getting Started
+      url: /2021/assignment.html#getting-started
+    - title: Suggested Projects
+      url: /2021/suggested-projects.html
+    - title: separator
+    - title: Essays
+      url: /2021/assignment.html#essays
+    - title: Contributions
+      url: /2021/assignment.html#contributions
+    - title: Journals
+      url: /2021/assignment.html#journals
+    - title: Videos
+      url: /2021/assignment.html#videos
 
 "/2021/":
 - title: Home
