@@ -5,79 +5,68 @@ layout: tud
 
 {% include construction_warning.html %}
 
-Schedule and material for the 2021 edition of IN4315, the TU Delft [Software Architecture](../index.html) course.
+Schedule and material for the 2022 edition of IN4315, the TU Delft [Software Architecture](../index.html) course.
 
-**Note:** This course is being taught during the second (and third) COVID19 wave taking place in The Netherlands. Therefore, the course is entirely online.
-The impact on student's well being of having to study online only can be substantial:
-_Students can at all times reach out to the teachers, teaching assistants, 
-the student counsellors, or any of the 
-[organizations and people](slides/student-well-being.pdf) that may be able to help._
+**Note:** This course is being taught during the Omikron COVID19 wave taking place in The Netherlands. The course will be hybrid in setup. As many activities as possible will be set up on campus, with online fall back mechansims.
 
 
-
-## IN4315 Teaching Team 2021
+## IN4315 Teaching Team 2022
 
 The 2021 teaching team consists of:
 
-- Teachers: Arie van Deursen (responsible professor), [Luís Cruz][luis], [Xavier Devroey][xavier], [Burcu Kulahcioglu Ozkan][burcu], and [Diomidis Spinellis][diomidis]
-- Teaching Assistants: [Shipra Sharma][shipra], [Casper Boone][casper], [Leonhard Applis][leonhard]
+- Responsbile professors: [Arie van Deursen][arie] and [Diomidis Spinellis][diomidis] 
+- Teaching assistants: [Raoul Kalisvaart][raoul] and [Erik Sennema][erik]
+- Student coaches: [Leonhard Applis][leonhard], [Lorena Poenaru-Olaru][lorena], as well as the teachers and teaching assistants.
 
+[diomidis]: https://en.wikipedia.org/wiki/Diomidis_Spinellis
+[casper]: https://github.com/casperboone
+[leonhard]: https://github.com/Twonki
+[lorena]: https://www.tudelft.nl/en/eemcs/the-faculty/departments/software-technology/distributed-systems/people/lorena-poenaru-olaru
+[arie]: https://avandeursen.com/
+[raoul]: https://github.com/RaoulKalisvaart
+[erik]: https://github.com/eriksennema
+
+Furthermore, there will be several lecturers from industry.
 
 [xavier]: http://xdevroey.be/
 [luis]: https://luiscruz.github.io/
 [burcu]: https://burcuku.github.io/home/
-[diomidis]: https://en.wikipedia.org/wiki/Diomidis_Spinellis
-[casper]: https://github.com/casperboone
 [shipra]: https://nl.linkedin.com/in/shiprasharma0312
 [ferd]: https://nl.linkedin.com/in/ferdscheepers
-[leonhard]: https://github.com/Twonki
-
-
-
-<!--
-
-- Casper Boone (Teaching assistent)
-- Xavier Devroey (co-teacher, variability)
-- Marco Di Biase (co-teacher, quality)
-- Ayushi Rastogi (co-teacher, social aspects)
-
--->
-
-Furthermore, there will be several lecturers from industry.
-
 
 <a id="schedule"></a>
 
 ## Course Schedule
 
-Because of the COVID-19 pandamic, all lectures will be online in Zoom (link available in Mattermost).
-Scheduled interaction time includes the following:
+If possible, lectures will be on campus, with a live stream available via Zoom or Teams (link available in Mattermost).
+Lecture rooms include
+[3mE-CZ B] (Wednesday),
+[EWI Pi] (Friday),
+and [Pulse Hall 1] (final presentations).
+
+[EWI Pi]: https://esviewer.tudelft.nl/space/53/
+[3mE-CZ B]: https://esviewer.tudelft.nl/space/6/
+[Pulse Hall 1]: https://esviewer.tudelft.nl/space/164/
 
 
-Date | Start | End | Activity | Teacher | Topic | Slides | Video
-|---|---|---|---|---|
-Wed Feb 10 | 13:45 | 15:30 | Lecture 1 | Arie van Deursen         | Introduction and Course Structure | [pdf](slides/overview2021.pdf) | [video](https://collegerama.tudelft.nl/Mediasite/Channel/eemcs-msc-cs/watch/3e74da30042e4edc90ca96648e336e5e1d)
-Fri Feb 12 | 08:45 | 10:30 | Lecture 2 | Arie van Deursen         | Envisioning the System | [pdf](slides/envisioning-the-system.pdf) | [video](https://collegerama.tudelft.nl/Mediasite/Channel/eemcs-msc-cs/watch/a346b37e49504745a857c1abc55cb99e1d)
-Wed Feb 17 | 13:45 | 15:30 | Lecture 3 | Arie van Deursen         | Realizing the Vision | [pdf](slides/contributions-and-views.pdf) | [video](https://collegerama.tudelft.nl/Mediasite/Channel/eemcs-msc-cs/watch/e9cea7ad12464b138d41ad2b6f17abbe1d)
-Fri Feb 19 | 08:45 | 10:30 | Lecture 4 | Arie van Deursen         | Architecting for Change | [pdf](slides/architecting-for-change.pdf) | [video](https://collegerama.tudelft.nl/Mediasite/Channel/eemcs-msc-cs/watch/7dd72f21515e47318535e11776f7ec541d)
-Wed Feb 24 | 13:45 | 15:30 | Lecture 5 | [Luís Cruz][luis]        | Architecting for Sustainability | [pdf](slides/sa-green-se.pdf) | [video](https://collegerama.tudelft.nl/Mediasite/Channel/eemcs-msc-cs/watch/baf7f84c76d54e2a9c3323f122f926281d)
-Fri Feb 26 | 08:45 | 10:30 | Lecture 6 | [Burcu Kulahcioglu Ozkan][burcu]     | Architecting for Distribution | [pdf](slides/architecting-for-distribution.pdf) | [video](https://collegerama.tudelft.nl/Mediasite/Channel/eemcs-msc-cs/watch/4e45e2300a624cf9a27fffb3ac7a6d0b1d)
-Wed Mar 3  | 13:45 | 15:30 | Lecture 7 | [Diomidis Spinellis][diomidis] | 50 years of Unix Architecture | [pdf](slides/unix-arch-evolution-v5.pdf) | [video](https://collegerama.tudelft.nl/Mediasite/Channel/eemcs-msc-cs/watch/60d3d5e186504d0ebb8978927ab461131d)
-Fri Mar 5  | 08:45 | 10:30 | Lecture 8 | Bert Wolters ([Adyen])     | Architecting for Scalability | [pdf](slides/architecting-for-scalability.pdf) | [video](https://collegerama.tudelft.nl/Mediasite/Channel/eemcs-msc-cs/watch/0264caaf373f40cab74424d6d7ece9081d)
-Wed Mar 10 | 13:45 | 15:30 | Lecture 9 | [Steffan Norberhuis][norberhuis]      | Architecting for Operations | [pdf](slides/architecting-for-operations.pdf) | [video](https://collegerama.tudelft.nl/Mediasite/Showcase/msc-computerscience/Presentation/6e297dd555754aef82b2e6c2a5fcdecb1d)		
-Fri Mar 12 | 08:45 | 10:30 | Lecture 10 | [Xavier Devroey][xavier] | Architecting for Variability | [pdf](slides/tudelft-architecture-spl2021.pdf) | [video](https://collegerama.tudelft.nl/Mediasite/Showcase/msc-computerscience/Presentation/648bf0fe0e89447b95acf171df0710a51d)
-Wed Mar 17 | 13:45 | 15:30 | Lecture 11 | _No lecture_
-Fri Mar 19 | 08:45 | 10:30 | Lecture 12 | Daniel Gebler ([Picnic])  | Architecting for the _unusual_ | [pdf](slides/architecting-for-the-unusual.pdf) | [video](https://collegerama.tudelft.nl/Mediasite/Channel/eemcs-msc-cs/watch/aaebb0e58178466fa2d19ccb87dc2a1b1d)
-Wed Mar 24 | 13:45 | 15:30 | Lecture 13 | _No lecture_
-Fri Mar 26 | 08:45 | 10:30 | Lecture 14 | Arie van Deursen | Ask me Anything
-**Thu** Apr 1 | **08:45** | **17:30** | Finale | All students | Final presentations
+Date       | Start | End   | Activity   | Teacher              | Topic | Slides | Video
+-----------|-------|-------|------------|----------------------|---|
+Wed Feb  9 | 13:45 | 15:30 | Lecture  1 | Arie van Deursen         | Introduction and Course Structure 
+Fri Feb 11 | 08:45 | 10:30 | Lecture  2 | Arie van Deursen         | Envisioning the System
+Wed Feb 16 | 13:45 | 15:30 | Lecture  3 | Diomidis Spinellis       | Architectural Modeling 
+Fri Feb 18 | 08:45 | 10:30 | Lecture  4 | Diomidis Spinellis       | Architecting for Scale 
+Wed Feb 23 | 13:45 | 15:30 | Lecture  5 | _No lecture_             | _(no room available?)_
+Fri Feb 25 | 08:45 | 10:30 | Lecture  6 | Arie van Deursen         | Architecting for Configurability
+Wed Mar 2  | 13:45 | 15:30 | Lecture  7 | Diomidis Spinellis       | 50 years of Unix Architecture |
+Fri Mar 4  | 08:45 | 10:30 | Lecture  8 | Industry I               | Architecting for Scalability | 
+Wed Mar 9 | 13:45 | 15:30 | Lecture   9 | Industry II              | Architecting for Operations |
+Fri Mar 11 | 08:45 | 10:30 | Lecture 10 | Industry III             | TBD |
+Wed Mar 16 | 13:45 | 15:30 | Lecture 11 | TBD
+Fri Mar 18 | 08:45 | 10:30 | Lecture 12 | TBD
+Wed Mar 23 | 13:45 | 15:30 | Lecture 13 | TBD
+Fri Mar 25 | 08:45 | 10:30 | Lecture 14 | TBD
+**Wed** Mar 30 | **08:45** | **17:30** | Finale | All students | Final presentations
 
-<!--
-Fri Mar 26 | 08:45 | 10:30 | Lecture 14 | [Ferd Scheepers][ferd] (ING) | Architecting for the Enterprise
--->
-
-<br/>
-Recorded lectures are available for TU Delft students on [Collegerama].
 
 [picnic]: https://blog.picnic.nl/
 [adyen]: https://www.adyen.com/
