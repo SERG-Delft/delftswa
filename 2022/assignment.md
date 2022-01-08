@@ -20,14 +20,14 @@ To get started with the assignment, the following tasks need to be completed:
 As software architecture is all about collaboration and communication, the work must be done in teams:
 
 1.	Required team size is 4
-2.	Aim for diversity in your team. For example, aim at at a mixture of master tracks, backgrounds, expertise,  cultures, countries, etc.
+2.	Aim for diversity in your team. For example, aim at at a mixture of master tracks, backgrounds, domain knowledge, technical expertise,  cultures, countries, etc. This will broaden your horizon and offer opportunities to learn from each other.
 3.  Form your group in Brightspace. Go to Collaboration -> [Groups].
 
 If you are looking for partners, you can post a message on our Brightspace forum (there is a topic for [partners wanted][partners]), and offer your expertise.
 
-[brightspace]: https://brightspace.tudelft.nl/d2l/home/280700
+[brightspace]: https://brightspace.tudelft.nl/d2l/home/400610
 [partners]: https://brightspace.tudelft.nl/d2l/le/280700/discussions/topics/42189/View
-[groups]: https://brightspace.tudelft.nl/d2l/lms/group/user_group_list.d2l?ou=280700
+[groups]: https://brightspace.tudelft.nl/d2l/lms/group/group_list.d2l?ou=400610
 
 <a id="picking"></a>
 
