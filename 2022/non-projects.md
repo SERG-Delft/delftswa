@@ -1,9 +1,12 @@
 ---
-title: "Non-Projects for 2021"
+title: "Non-Projects for 2022"
 layout: tud
 ---
 
-In 2021, you cannot use projects covered in the 2019 or 2020 editions of this course.
+{% include construction_warning.html %}
+
+
+In 2022, you cannot use projects covered in the 2020 or 2021 editions of this course.
 These are:
 
 
