@@ -21,24 +21,24 @@
     - title: Deadlines
       url: /2022/#deadlines
     - title: Grading
-      url: /2021/#grading
+      url: /2022/#grading
 
 - title: Assignment
   url: /2022/assignment.html
   sublinks:
     - title: Getting Started
-      url: /2021/assignment.html#getting-started
+      url: /2022/assignment.html#getting-started
     - title: Suggested Projects
-      url: /2021/suggested-projects.html
+      url: /2022/suggested-projects.html
     - title: separator
     - title: Essays
-      url: /2021/assignment.html#essays
+      url: /2022/assignment.html#essays
     - title: Contributions
-      url: /2021/assignment.html#contributions
+      url: /2022/assignment.html#contributions
     - title: Journals
-      url: /2021/assignment.html#journals
+      url: /2022/assignment.html#journals
     - title: Videos
-      url: /2021/assignment.html#videos
+      url: /2022/assignment.html#videos
 
 "/2021/":
 - title: Home
@@ -65,6 +65,24 @@
       url: /2021/assignment.html#videos
 - title: Grading
   url: /2021/#grading
+
+- title: Assignment
+  url: /2021/assignment.html
+  sublinks:
+    - title: Getting Started
+      url: /2021/assignment.html#getting-started
+    - title: Suggested Projects
+      url: /2021/suggested-projects.html
+    - title: separator
+    - title: Essays
+      url: /2021/assignment.html#essays
+    - title: Contributions
+      url: /2021/assignment.html#contributions
+    - title: Journals
+      url: /2021/assignment.html#journals
+    - title: Videos
+      url: /2021/assignment.html#videos
+
 
 "/2020/":
 - title: Home
