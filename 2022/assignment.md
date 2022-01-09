@@ -35,13 +35,13 @@ If you are looking for partners, you can post a message on our Brightspace forum
 
 In principle you are free to pick any open source project on GitHub. Take the following factors into account:
 
-* The project should be sufficiently large and complex
-* The project should be under active development
+* The project should be sufficiently large and complex to make it interesting, but not too large to keep the assignment manageable. A system of around  100,000 lines of code is a good guideline: If you're interested in a larger system try  to identify a smaller component that you can focus on.
+* The project should be under active development (a pull request handled  per day would  be a good number).
 * The project should use GitHub as its main communication platform (and not merely as a mirror, as, e.g., Linux is doing).
-* The project should not have been used in previous courses (you can see them by checking previous versions of our books).
+* The project should not have been used in previous courses in the two  previous years (you can see them by checking previous versions of our books -- see the list of [non-projects](non-projects.html)
 * The project should be open to external contributors (i.e. accept pull requests from outsiders)
 
-An active project should have 1 or more pull requests per day. To get you started, we hand-picked a [list of projects](suggested-projects.html) which are large, actively developed, maintained by a vibrant community, and are not analyzed in the previous runs of this course. You cannot reuse a project that studied by other students in 2019 or 2020: see the list of [non-projects](non-projects.html).
+To get you started, we hand-picked a [list of projects](suggested-projects.html) which are large, actively developed, maintained by a vibrant community, and are not analyzed in the previous runs of this course.
 
 To claim a project: Post on the Brightspace forum, title _Claiming project P_, explain why you like this project in the issue, and indicate the 4 team members that will work on this project as well as your group number. Make sure to add their GitLab accounts in the issue so we can find them.
 
