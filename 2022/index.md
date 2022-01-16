@@ -16,11 +16,11 @@ Schedule and material for the 2022 edition of IN4315, the TU Delft [Software Arc
 
 The 2021 teaching team consists of:
 
-- Responsbile professors: [Arie van Deursen][arie] and [Diomidis Spinellis][diomidis] 
+- Responsbile professors: [Arie van Deursen][arie] and [Diomidis Spinellis][diomidis]
 - Teaching assistants: [Raoul Kalisvaart][raoul] and [Erik Sennema][erik]
 - Student coaches: [Leonhard Applis][leonhard], [Lorena Poenaru-Olaru][lorena], as well as the teachers and teaching assistants.
 
-[diomidis]: https://en.wikipedia.org/wiki/Diomidis_Spinellis
+[diomidis]: https://www.spinellis.gr
 [casper]: https://github.com/casperboone
 [leonhard]: https://github.com/Twonki
 [lorena]: https://www.tudelft.nl/en/eemcs/the-faculty/departments/software-technology/distributed-systems/people/lorena-poenaru-olaru
@@ -55,13 +55,13 @@ Date       | Start | End   | Activity   | Teacher              | Topic | Slides 
 -----------|-------|-------|------------|----------------------|---|
 Wed Feb  9 | 13:45 | 15:30 | Lecture  1 | Arie van Deursen         | Introduction and Course Structure 
 Fri Feb 11 | 08:45 | 10:30 | Lecture  2 | Arie van Deursen         | Envisioning the System
-Wed Feb 16 | 13:45 | 15:30 | Lecture  3 | Diomidis Spinellis       | Architectural Modeling 
-Fri Feb 18 | 08:45 | 10:30 | Lecture  4 | Diomidis Spinellis       | Architecting for Scale 
+Wed Feb 16 | 13:45 | 15:30 | Lecture  3 | Diomidis Spinellis       | Architecting for Quality
+Fri Feb 18 | 08:45 | 10:30 | Lecture  4 | Diomidis Spinellis       | Architecting for Scale
 Wed Feb 23 | 13:45 | 15:30 | Lecture  5 | _No lecture_             | _(no room available?)_
 Fri Feb 25 | 08:45 | 10:30 | Lecture  6 | Arie van Deursen         | Architecting for Configurability
 Wed Mar 2  | 13:45 | 15:30 | Lecture  7 | Diomidis Spinellis       | 50 years of Unix Architecture Evolution |
-Fri Mar 4  | 08:45 | 10:30 | Lecture  8 | Industry I               | Architecting for Scalability | 
-Wed Mar 9  | 13:45 | 15:30 | Lecture  9 | Industry II              | Architecting for Operations |
+Fri Mar 4  | 08:45 | 10:30 | Lecture  8 | Industry I               | Tackling Scale |
+Wed Mar 9  | 13:45 | 15:30 | Lecture  9 | Industry II              | Tackling Operations |
 Fri Mar 11 | 08:45 | 10:30 | Lecture 10 | Industry III             | TBD |
 Wed Mar 16 | 13:45 | 15:30 | Lecture 11 | TBD
 Fri Mar 18 | 08:45 | 10:30 | Lecture 12 | TBD
