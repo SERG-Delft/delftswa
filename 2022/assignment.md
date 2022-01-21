@@ -244,9 +244,11 @@ The study should include the following.
 Relevant pointers for this essay include:
 
 - _Software Architecture Visual Lecture Notes_ [^pautasso]: Chapter 11 (Scalability)
-- Beyer, Betsy, Chris Jones, Jennifer Petoff, and Niall Richard Murphy. _Site reliability engineering: How Google runs production systems_. O'Reilly Media, Inc., 2016.   Chapters 19–21, 25 https://sre.google/sre-book/table-of-contents/
-- _Patterns for scalable and resilient apps_ https://cloud.google.com/architecture/scalable-and-resilient-apps
-- Killalea, Tom. [Building Scalable Web Services: Build only what you really need.](https://dl.acm.org/doi/pdf/10.1145/1466443.1466447) Queue 6, no. 6 (2008): 10-13. 
+- Beyer, Betsy, Chris Jones, Jennifer Petoff, and Niall Richard Murphy. _[Site reliability engineering: How Google runs production systems](https://sre.google/sre-book/table-of-contents/)_. O'Reilly Media, Inc., 2016.   Chapters 19–21, 25.
+- Hull, Sean. [20 obstacles to scalability.](https://queue.acm.org/detail.cfm?id=2512489) _Communications of the ACM_ 56, no. 9 (2013): 54-59.
+- Killalea, Tom. [Building Scalable Web Services: Build only what you really need.](https://dl.acm.org/doi/pdf/10.1145/1466443.1466447) Queue 6, no. 6 (2008): 10-13.
+- Cole, Clem, and Russell Williams. [Photoshop scalability: Keeping it simple.](https://queue.acm.org/detail.cfm?id=1858330) _Communications of the ACM_ 53, no. 10 (2010): 32-38.
+- [Patterns for scalable and resilient apps](https://cloud.google.com/architecture/scalable-and-resilient-apps)
 
 
 #### Submissions
