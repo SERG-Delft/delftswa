@@ -11,12 +11,14 @@ _Non-exclusive list of potential open source projects to study._
 
 | Project | GitHub URL | Remarks | Proposed by |
 |--|--|--|--|
-| [PodMan](https://podman.io/) | https://github.com/containers/podman | | Arie van Deursen
-| [Log4J2](https://logging.apache.org/log4j/2.x/) | https://github.com/apache/logging-log4j2 | Security, performance | Arie van Deursen
+| [PodMan](https://podman.io/) | [https://github.com/containers/podman](https://github.com/containers/podman) | | Arie van Deursen
+| [Log4J2](https://logging.apache.org/log4j/2.x/) | [https://github.com/apache/logging-log4j2](https://github.com/apache/logging-log4j2) | Security, performance | Arie van Deursen
+| [Ghidra](https://www.nsa.gov/ghidra) | [https://github.com/NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | Security, decompilation | Arie van Deursen
 
 <br/>
 
 <!-- list from last year -->
+
 | Project | GitHub URL | Remarks | Proposed by |
 |--|--|--|--|
 | [Hugo](https://gohugo.io) | [https://github.com/gohugoio/hugo](https://github.com/gohugoio/hugo) | Variability | Xavier Devroey
