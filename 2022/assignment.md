@@ -101,6 +101,7 @@ Your essays will be evaluated based on the following:
 2. Sentences, paragraphs, and sections are coherent. They naturally build upon each other and work towards a clear message. 
 3. The arguments laid out are technically sound, and of adequate technical depth.
 4. The English writing is grammatically correct
+4. A standard notation, such as [UML 2](https://en.wikipedia.org/wiki/Unified_Modeling_Language), is appropriately used for all diagrams
 5. The text clearly references any sources it builds upon
 6. The essay is unique and recognizable in its voice and its way of approaching the topic
 7. The essay is independently readable
@@ -184,6 +185,7 @@ Relevant literature for this essay includes
 With key aspects of the architecture described, the third essay focuses on means to safeguard the quality and architectural integrity of the underlying system, with special empahsis on the rate of change.
 Aspects to take into account include:
 
+1. The system's key quality attributes and the degree to which they are currently satisfied
 1. The overall software quality processes that apply to your system
 2. The key elements of the system's continuous integration processes
 3. The rigor of the test processes and the role of test coverage
