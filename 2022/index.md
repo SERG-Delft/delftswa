@@ -18,7 +18,7 @@ The 2021 teaching team consists of:
 
 - Responsbile professors: [Arie van Deursen][arie] and [Diomidis Spinellis][diomidis]
 - Teaching assistants: [Raoul Kalisvaart][raoul] and [Erik Sennema][erik]
-- Student coaches: [Leonhard Applis][leonhard], [Lorena Poenaru-Olaru][lorena], as well as the teachers and teaching assistants.
+- Student coaches: [Leonhard Applis][leonhard], [Zoe Kotti](https://www.balab.aueb.gr/zoe-kotti.html), [Lorena Poenaru-Olaru][lorena], [Thodoris Sotiropoulos](https://theosotr.github.io) as well as the teachers and teaching assistants.
 
 [diomidis]: https://www.spinellis.gr
 [casper]: https://github.com/casperboone
