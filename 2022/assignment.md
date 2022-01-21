@@ -208,94 +208,44 @@ Relevant pointers for this essay include:
 - _arc42 documentation_ [^arc]: Chapters 10 and 11.
 
 
-<a id="deepening"></a>
-#### Essay 4: Deepening your Analysis
+<a id="scalability"></a>
+#### Essay 4: Scalability
+Your team's final essay serves to deepen your analysis in an aspect
+where software architecture plays a particularly important role, namely
+the system's _scalability_.
+This includes ensuring that under increasing workloads
+or reduced resources (think of porting to a resource-constrained platform)
+the system exhibits adequate
 
-Your team's final essay serves to deepen your analyis, and can be on one of the following topics.
+1. time performance regarding
+latency, throughput, processor time requirements, real time response, or
+time variability;
+2. space performance associated with the main and secondary memory; and
+3. energy consumption performance.
 
-##### Essay 4.VAR: Variability Analysis
+The study should include the following.
 
-An analysis of the variability modeling, management and implementation mechanisms that are relevant to your system,
-based on the lecture by Xavier Devroey.
-The details of this essay are [described separately](assignment-variability.html).
+1. Identification of the system's key scalability challenges under a
+   plausible scenario.
+2. Empirical quantitative analysis under varying workloads
+   of at least one scalability dimension that can limit scalability .
+   Examples include achievable transactions per second, processing time,
+   memory use, or energy consumption.
+3. Identification of the system's architectural decisions that affect
+   its scalability.
+4. Proposals for architectural changes that can address the identified issues.
+5. Diagrams in a standard notation,
+   such as [UML 2](https://en.wikipedia.org/wiki/Unified_Modeling_Language),
+   depicting the "as is" and the "to be" architectural designs.
+6. An argument using an appropriate method (analysis, simulation, or experiment)
+   showing how the proposed changes will address the identified scalability
+   issues.
 
-<!--
-#### Essay 4.COL: Collaboration Analysis
+Relevant pointers for this essay include:
 
-An analysis of  the collaborative and social aspects of the  system under study, based on the [lecture by Ayushi Ratsogi](slides/sa-people.pdf).
-
-To that end, assess the _socio-technical congruence_ in the development effort of your system under study as follows:
-
-1. Study the paper on _socio-technical congruence_ by Cataldo et al (ICSE 2008) [^cataldo]
-2. Using your results from Essay 2, identify a number of components that are _loosely_ coupled, and a number of compnents that are  _tightly_ coupled.
-3. Analyze  the communication network of the developers, for example by analyzing  which developers communicate with each other in pull requests, issues, or other channels.
-4. Contrast the two dependency  networks, and assess their congruence in relation to Conway's law.
--->
-
-##### Essay 4.SUS: Sustainability Analysis
-
-Look into the change history of the project and find code changes that are related
-to green computing, based on the [Green Software Engineering lecture by Luís Cruz](slides/sa-green-se.pdf). 
-Present and discuss the rationale behind those changes:
-
-- A) **Analyze the change history** of the project and find code changes that are related to green computing. Present and discuss the rationale behind those changes.
-- B) **Recommend energy improvements** to be implemented in the project and implement them, if possible. Recommendations can be posed from a development, execution, or infrastructure perspective.
-- C) **Measure the energy consumption** of potential hotspots. (Using an energy profiler)
-
-When discussing energy efficiency, **critical thinking** is key. Aspects to cover include:
-
-- Is it always possible to reduce energy consumption?
-- What are the trade-offs of improving energy efficiency?
-- What are the implications on UX or business metrics?
-- Would automation tools help?
-- What is missing in the project to leverage energy efficiency?
-
-
-##### Essay 4.DIS: Distribution Analysis
-
-An analysis of the distribution architecture and design choices of your system, based on the lecture by Burcu Kulahcioglu Ozkan. 
-
-You are suggested to address the following questions in your essay:
-
-- What are the distributed components in the system?   
-- What information do the components exchange with each other?   
-- How do the system components communicate with each other?   
-- What kind of faults does the system tolerate? How does it handle failing components?  
-- What are the trade-offs of the distributed design?   
-
-While analyzing trade-offs, you can discuss the availability, consistency, and partition-tolerance properties of the system: 
-
-- Consistency - what level of consistency does the system provide (strong, weak, tunable)?  
-- Availability - to be able to serve user requests in a short response time?  
-- Partition tolerance - how does the system tolerate network partitions?  
-
-
-##### Essay 4.AMD: `ARCHITECTURE.md`
-
-Recently, [Aleksey Kladov](https://matklad.github.io) suggested that projects of 10K-200K lines of code should have an [ARCHITECTURE.md][archmd] file. If you believe this would be important for your project as well, do as follows:
-
-- Study Kladov's proposal in detail, and see how it would work out for your project
-- Engage a discussion (in an issue) about the desirability of such an `architecture.md` file and the possible contents
-- If the project is positive, draft an actual `architecture.md` and discuss it
-- Refine it until it can be merged.
-- The resulting `architecture.md` file serves as your fourth essay.
-
-Note that interaction with the project is key for this assignment, since otherwise the most likely outcome is that your proposal for an `architecture.md` file is rejected or ignored.
-
-[archmd]: https://matklad.github.io/2021/02/06/ARCHITECTURE.md.html
-
-
-##### Essay 4.OTH: Topic of choice
-
-A topic of choice, specific to your project. This can be based on 
-
-- documentation of your project, 
-- architectural literature you'd like to understand and apply to your project, 
-- one of the industrial guest lectures
-- one of your earlier essays, where you could not elaborate certain aspects in the first version. For example, essay 3 lists many possible asepcts, and you may have deliberately  skipped some of those in essay 3. Expand those in essay 4.
-
-If you pick this option, consult the teachers first with a short proposal (a few sentences) explaining what you'd like to investigate, and how this is relevant to your project.
-
+- _Software Architecture Visual Lecture Notes_ [^pautasso]: Chapter 11 (Scalability)
+- Beyer, Betsy, Chris Jones, Jennifer Petoff, and Niall Richard Murphy. _Site reliability engineering: How Google runs production systems_. O'Reilly Media, Inc., 2016.   Chapters 19–21, 25 https://sre.google/sre-book/table-of-contents/
+- _Patterns for scalable and resilient apps_ https://cloud.google.com/architecture/scalable-and-resilient-apps
 
 
 #### Submissions
@@ -438,7 +388,6 @@ The Q&A sessions including the chat will be recorded.
 [^rozanski]: Nick Rozanski and Eoin Woods. [Software Systems Architecture: Working with Stakeholders Using Viewpoints and Perspectives][views]. Addison-Wesley, 2012, 2nd edition.
 
 [^pautasso]: Cesare Pautasso. Software Architecture: Visual Lecture Notes. Leanpub, 2020. [leanpub.com][cesare].
-
 
 [^kruchten]: Philippe Kruchten. The 4+1 View Model of architecture. IEEE Software 12(6), 1995.
     ([doi](https://doi.org/10.1109/52.469759), 

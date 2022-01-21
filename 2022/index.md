@@ -87,7 +87,7 @@ Team work includes:
     1. the product [vision](assignment.html#vision), including required capabilities, roadmap, product context, and stakeholder analysis.
     2. [architectural decisions made](assignment.html#architecture), including system decomposition, tradeoff points, as well as architectural styles and patterns adopted.
     3. an assessment of [quality and (potential) technical debt](assignment.html#quality); and
-    4. a [deeper analysis](assignment.html#deepening) based on the lectures or other relevant material specific to the system of choice;
+    4. a [scalability study](assignment.html#scalability) identifying possible scalability issues and proposing architectural changes to address them.
 3. [Contributing changes](assignment.html#contributions) to the open source system selected (via pull requests submitted on GitHub)
 4. Preparing a final video summarizing the key results, and answering questions about it (online).
 5. Reviewing work from other teams, to learn from them, and to give them feedback
