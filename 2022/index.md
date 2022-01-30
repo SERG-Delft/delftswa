@@ -45,6 +45,7 @@ Lecture rooms include
 [3mE-CZ B] (Wednesday),
 [EWI Pi] (Friday),
 and [Pulse Hall 1] (final presentations).
+Besides the stream we will do our best to record lectures and make them available afterwards.
 
 [EWI Pi]: https://esviewer.tudelft.nl/space/53/
 [3mE-CZ B]: https://esviewer.tudelft.nl/space/6/
