@@ -10,25 +10,22 @@ title: Software Architecture
 This TU Delft graduate (master level, see current [{{ site.year }}]({{ site.year }}/index.html) edition) course is concerned with the software architecture of software-intensive systems.
 This relates to:
 
-1. **What** the software should do, now and in the future, and how it is to interact with its environment. Here we will look at the problem domain, natural ways to decompose and understand the problem domain, the desired capabilities of the system, required properties (such as privacy, usability, scalability, security, or maintainability) of the system, the context in which the system will operate, and the stakeholders that have an interest in the system.
+1. **What** the software should do, now and in the future, and how it is to interact with its environment. Here we look at the problem domain, natural ways to decompose and understand the problem domain, the desired capabilities of the system, required properties (such as privacy, usability, scalability, security, or maintainability) of the system, the context in which the system operates, and the stakeholders that have an interest in the system.
 
-2. **How** the software is designed so that it can reliably meet its objectives. Here we will look at design principles, system decomposition and assembly, quality assurance procedures, architectural styles and patterns, and architectural perspectives on, e.g., configurability, energy consumption, or scalability.
+2. **How** the software is designed so that it can reliably meet its objectives. Here we look at design principles, system decomposition and assembly, quality assurance procedures, architectural styles and patterns, and architectural perspectives on, e.g., configurability, energy consumption, or scalability.
 
-3. **Who** is involved in the use, operation, creation, and evolution of the software. Here we will look at all people aspects of software architecting, relating to leadership, team work, trust, bias, collaboration, effective communication, work distribution and Conway's law, ethics, and people development.
+3. **Who** is involved in the use, operation, creation, and evolution of the software. Here we look at all people aspects of software architecting, relating to leadership, team work, trust, bias, collaboration, effective communication, work distribution and Conway's law, ethics, and people development.
 
 Our aim is to study _reliable knowledge_ in these areas.
-To that end, we will work with three knowledge sources:
+To that end, we work with three knowledge sources:
 
-1. **Practice**: Where possible, we will try to learn from actual software systems. To that end, students will engage with the architecture of an open source system. Furthermore, the course will involve 3-4 guest lectures by architects responsible for complex commercial software systems. We also intend to invite 3-4 international architects for a 15 minute _Ask Me Anything_ session over skype, in which they offer answers to questions asked by students of the course.
+1. **Practice**: Where possible, we try to learn from actual software systems. To that end, students  engage with the architecture of an open source system. Furthermore, the course  involves 3-4 guest lectures by architects responsible for complex commercial software systems. We also often invite 3-4 international architects for a 15 minute _Ask Me Anything_ session over skype, in which they offer answers to questions asked by students of the course.
 
-2. **Theory**: Little is as applicable as good theory, which is codified practice. We will study various books, articles, and resources on the web. 
-In particular we will look at 
-    - Cesare Pautasso's [Software Architecture][cesare][^pautasso], offering a broad perspective on software arechitecture including software services, deployment, and scalability, and availability
-    - Rozanski and Woods' [Views and Perspectives][views][^rozanski] approach to software systems architecture at enterprise level.
+2. **Theory**: Little is as applicable as good theory, which is codified practice. We study various [books and online resources](suggested-reading) on software architecture. We  particularly rely on  Pautasso's [Software Architecture][cesare][^pautasso], offering a broad perspective on software arechitecture including software services, deployment, and scalability, and availability.
 
-3. **Research**: There is a lot that we do _not_ know about software architecture. In research we explore theories that may be true, or may turn out to be false. As part of the course we will investigate a number of new research findings, to establish whether they apply to systems under study in this course.
+3. **Research**: There is a lot that we do _not_ know about software architecture. In research we explore theories that may be true, or may turn out to be false. As part of the course we investigate a number of new research findings, to establish whether they apply to systems under study in this course.
 
-There will be 3-4 lectures for each of the three components (practice, theory, research).
+There are typically 3-4 lectures for each of the three components (theory, practice, research).
 
 [lsa]: http://www.leansoftwarearchitecture.com/
 [views]: https://www.viewpoints-and-perspectives.info/
@@ -37,19 +34,19 @@ There will be 3-4 lectures for each of the three components (practice, theory, r
 
 ## Course Assignments
 
-Since architecture is team work, students will work in teams in this course as well. The team size is four.
+Since architecture is team work, students work in teams in this course as well. The team size is four.
 
-Each team will select an open source system (from GitHub or other forges). Teams will conduct an in depth study of the architecture of the system they picked, looking at it from different (theoretical) perspectives. The student findings will be collected in various _essays_, each of around 1,000 words. Each team is expected to deliver four essays. Three of these will be related to the _what_, _how_, and _who_ of the system as highlighted above. The fourth essay can be either a _research_ essay, exploring how one of the research topics discussed in class applies to the system under study, or it can be a topic of choice that is most relevant for the system under study.
+Each team selects an open source system (from GitHub or other forges). Teams conduct an in depth study of the architecture of the system they picked, looking at it from different (theoretical) perspectives. The student findings are collected in various _essays_, each of around 1,000 words. Each team is expected to deliver four essays. The specific essays vary per year, but relate to  _what_, _how_, and _who_ of the system and to various quality attributes relevant for the systems under study.
 
-Students are encouraged to share their essays publicly: To that end, the course will offer an on line "book" where student essays will be collected and made available, under the overarching title _Delft Students on Software Architecture_ (DESOSA).
+Students are encouraged to share their essays publicly: To that end, the course offers an on line "book" where student essays are collected and made available, under the overarching title _Delft Students on Software Architecture_ (DESOSA).
 This book series was inspired by Brown and Wilson's _Architecture of Open Source Applications_ (AOSA) [^aosa2012], in which architects themselves explain the history and roadmaps of software applications, and the architecctural decisions made to realize these.
 
-Furthermore, teams will make actual changes to the systems under study, for example by offering pull requests that resolve currently open issues, or issues that they have discovered themselves. While the changes themselves will typically be fairly small, the process of making these changes will offer the students an opportunity to engage with ("feel") the current architecture of the system.
+Furthermore, teams make actual changes to the systems under study, for example by offering pull requests that resolve currently open issues, or issues that they have discovered themselves. While the changes themselves are typically fairly small, the process of making these changes offers the students an opportunity to engage with ("feel") the current architecture of the system.
 
 
 ## Course Editions and History
 
-- {{ site.year }} edition: [Course description for {{ site.year }}]({{ site.year }}/index.html) (February--April, {{ site.year }}).
+- {{ site.year }} edition: [Course description for {{ site.year }}]({{ site.year }}/index.html) (February--April, {{ site.year }}). Taught by Diomidis Spinellis and Arie van Deursen.
 - 2015-2020: Resulting books: _Delft Students on Software Architecture_, DESOSA, editions 
     [2015][desosa2015][^desosa2015],
     [2016][desosa2016][^desosa2016], 
@@ -82,7 +79,7 @@ Earlier editions were co-taught with and inspired by a range of people, includin
 
 [^rozanski]: Nick Rozanski and Eoin Woods. [Software Systems Architecture: Working with Stakeholders Using Viewpoints and Perspectives][views]. Addison-Wesley, 2012, 2nd edition.
 
-[^coplien]: Jim Coplien Gertrud Bjørnvig. [Lean Architecture][lsa]. Wiley, 2010.
+[^coplien]: Jim Coplien and Gertrud Bjørnvig. [Lean Architecture][lsa]. Wiley, 2010.
 
 [^pautasso]: Cesare Pautasso. Software Architecture: Visual Lecture Notes. Leanpub, 2020. [leanpub.com][cesare].
 
