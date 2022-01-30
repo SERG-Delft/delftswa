@@ -17,7 +17,7 @@ This is a living list -- if there is a resource you are particularly enthusiasti
   _A book targeting smaller teams, with a strong focus on delivering (customer) value_.
 
 1. Nick Rozanski and Eoin Woods. [Software Systems Architecture: Working with Stakeholders Using Viewpoints and Perspectives][views]. Addison-Wesley, 2012, 2nd edition.
-  _A somewhat abstract book based on extensive experience of the authors in an enterprise setting. Useful views, perpsectives, and patterns. More of a reference than a book to study cover to cover._
+  _A somewhat abstract book, yet based on years of experience of the authors in an enterprise setting. Perhaps more of a reference than a book to study cover to cover, but full of useful views, perpsectives, and patterns._
 
 
 [aosabook]: http://aosabook.org/en/index.html
