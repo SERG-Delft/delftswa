@@ -49,7 +49,7 @@ After your project choice is approved, you will be granted [access to the GitLab
 
 
 [claiming]: https://brightspace.tudelft.nl/d2l/le/280700/discussions/topics/42190/View
-[gitlab-desosa-project-page]: https://gitlab.ewi.tudelft.nl/in4315/2020-2021/desosa2021#project-page
+[gitlab-desosa-project-page]: https://gitlab.ewi.tudelft.nl/in4315/2021-2022/desosa2022#project-page
 
 
 <a id="gitlab"></a>
@@ -69,7 +69,7 @@ You are encouraged to use issues and must use merge requests, properly labeling 
 
 (Some teams prefer to use a collaborative tool like Overleaf or Google Doc for "pair writing". That is OK, as long as the eventual result is committed, in time, in the gitlab repository in proper markdown format.)
 
-[gitlab-desosa]: https://gitlab.ewi.tudelft.nl/in4315/2020-2021/desosa2021
+[gitlab-desosa]: https://gitlab.ewi.tudelft.nl/in4315/2021-2022/desosa2022
 [hugo]: https://gohugo.io/
 [markdown]: https://daringfireball.net/projects/markdown/
 
