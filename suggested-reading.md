@@ -25,6 +25,13 @@ This is a living list -- if there is a resource you are particularly enthusiasti
 
 1. Sam Newman. [Building Microservices](https://samnewman.io/books/building_microservices_2nd_edition/), 2nd edition. O'Reilly, 2021. _Everything you always wanted to know about micro-services, including a people's perspective_.
 
+1. Buschmann, Frank, Regine Meunier, Hans Rohnert, Peter Sommerlad and Michael Stal. [_Pattern-oriented software architecture Volume 1: A system of patterns_](https://en.wikipedia.org/wiki/Pattern-Oriented_Software_Architecture#POSA1). Chichester New York: Wiley, 1996.
+
+1. Schmidt, Douglas C., Michael Stal, Hans Rohnert, and Frank Buschmann. [_Pattern-oriented software architecture Volume 2: Patterns for concurrent and networked objects_](https://en.wikipedia.org/wiki/Pattern-Oriented_Software_Architecture#POSA2). John Wiley & Sons, 2013.
+
+1. Buschmann, Frank, Kevlin Henney, and Douglas C. Schmidt. [_Pattern-oriented software architecture Volume 5: On patterns and pattern languages_](https://en.wikipedia.org/wiki/Pattern-Oriented_Software_Architecture#POSA5). John Wiley & Sons, 2007.
+
+
 ### The Role of the Architect
 
 1. Martin Fowler. Who needs an architect? IEEE Software, 2003 ([pdf](https://martinfowler.com/ieeeSoftware/whoNeedsArchitect.pdf)). _Reflections on what architecture is and what an architect does in just 2.5 page._
