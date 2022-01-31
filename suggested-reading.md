@@ -19,6 +19,8 @@ This is a living list -- if there is a resource you are particularly enthusiasti
 1. Nick Rozanski and Eoin Woods. [Software Systems Architecture: Working with Stakeholders Using Viewpoints and Perspectives][views]. Addison-Wesley, 2012, 2nd edition.
   _A somewhat abstract book, yet based on years of experience of the authors in an enterprise setting. Perhaps more of a reference than a book to study cover to cover, but full of useful views, perpsectives, and patterns._
 
+1. Gregor Hohpe. [The Software Architect Elevator](https://architectelevator.com/book/). O'Reilly, 2020. _Argues that the successful architect should easily navigate between "engine room" (in the basement) and the boardroom (at the top of the sky scraper). Book based on years of experience from the trenches. Don't miss Hohpe's [50 min. techtalk](https://www.youtube.com/watch?v=Zq2VcRZmz78) summarizing the key points of this book._
+
 
 [aosabook]: http://aosabook.org/en/index.html
 [lsa]: http://www.leansoftwarearchitecture.com/
