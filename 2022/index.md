@@ -101,14 +101,14 @@ Team work includes:
     3. an assessment of [quality and (potential) technical debt](assignment.html#quality); and
     4. a [scalability study](assignment.html#scalability) identifying possible scalability issues and proposing architectural changes to address them.
 3. [Contributing changes](assignment.html#contributions) to the open source system selected (via pull requests submitted on GitHub)
-4. Preparing a final video summarizing the key results, and answering questions about it (online).
+4. Preparing a final video/presentation/poster summarizing the key results, and answering questions about it.
 5. Reviewing work from other teams, to learn from them, and to give them feedback
 
 The four essays can build upon each other, but should be independently readable.
 We will collect all essays in an online book, that will emerge throughout the course.
-You can watch our progress (for essays made public) at [2021.desosa.nl][desosa2021].
+You can watch our progress (for essays made public) at the [DESOSA 2022][desosa2022] site.
 
-[desosa2021]: https://2021.desosa.nl
+[desosa2022]: https://desosa2022.netlify.app
 
 
 
