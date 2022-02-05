@@ -62,14 +62,19 @@ Wed Feb 23 | 13:45 | 15:30 | Lecture  5 | _No lecture_             | _(no room a
 Fri Feb 25 | 08:45 | 10:30 | Lecture  6 | Arie van Deursen         | Architecting for Configurability
 Wed Mar 2  | 13:45 | 15:30 | Lecture  7 | Diomidis Spinellis       | 50 years of Unix Architecture Evolution |
 Fri Mar 4  | 08:45 | 10:30 | Lecture  8 | [Pinar Kahraman][pinar] (ING)     | AI Ops and Analytics (tentative) |
-Wed Mar 9  | 13:45 | 15:30 | Lecture  9 | Industry tbd             | Tackling Operations |
-Fri Mar 11 | 08:45 | 10:30 | Lecture 10 | Industry tbd             | TBD |
-Wed Mar 16 | 13:45 | 15:30 | Lecture 11 | TBD
-Fri Mar 18 | 08:45 | 10:30 | Lecture 12 | TBD
+Wed Mar 9  | 13:45 | 15:30 | Lecture  9 | TBD                      | TBD |
+Fri Mar 11 | 08:45 | 10:30 | Lecture 10 | TBD                      | TBD |
+Wed Mar 16 | 13:45 | 15:30 | Lecture 11 | [Maurício], [Efe], [Thinus], [Arthur] | Architecture at [Adyen] |
+Fri Mar 18 | 08:45 | 10:30 | Lecture 12 | VistaPrint               | Architecting for Experimentation |
 Wed Mar 23 | 13:45 | 15:30 | Lecture 13 | TBD
 Fri Mar 25 | 08:45 | 10:30 | Lecture 14 | TBD
 **Wed** Mar 30 | **08:45** | **17:30** | Finale | All students | Final presentations
 
+
+[efe]: https://nl.linkedin.com/in/efekocabas
+[arthur]: https://nl.linkedin.com/in/arthur-breurkes-5a954a106
+[thinus]: https://nl.linkedin.com/in/thinus-naude
+[maurício]: https://www.mauricioaniche.com/
 
 [picnic]: https://blog.picnic.nl/
 [adyen]: https://www.adyen.com/
