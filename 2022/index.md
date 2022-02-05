@@ -40,16 +40,22 @@ Furthermore, there will be several lecturers from industry.
 
 ## Course Schedule
 
-If possible, lectures will be on campus, with a live stream available via Zoom or Teams (link available in Mattermost).
+The course will be taught in _hybrid_ mode:
+
+- Lectures will be on campus with a limited capacity of at most 75. Students who enrolled via the [Queue System][queue] can participate in first come first served base, with a maximum of 75.
+
+- Lectures will be streamed as well -- details will be made available on Mattermost. We will also do our best to record the stream.
+
 Lecture rooms include
-[3mE-CZ B] (Wednesday),
+[EWI Boole] (Wednesday),
 [EWI Pi] (Friday),
 and [Pulse Hall 1] (final presentations).
-Besides the stream we will do our best to record lectures and make them available afterwards.
 
+[EWI Boole]: https://esviewer.tudelft.nl/space/50/
 [EWI Pi]: https://esviewer.tudelft.nl/space/53/
 [3mE-CZ B]: https://esviewer.tudelft.nl/space/6/
 [Pulse Hall 1]: https://esviewer.tudelft.nl/space/164/
+[queue]: https://queue.tudelft.nl/edition/338/labs
 
 
 Date       | Start | End   | Activity   | Teacher              | Topic | Slides | Video
