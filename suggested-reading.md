@@ -44,6 +44,11 @@ This is a living list -- if there is a resource you are particularly enthusiasti
 1. Martin Fowler. Who needs an architect? IEEE Software, 2003 ([pdf](https://martinfowler.com/ieeeSoftware/whoNeedsArchitect.pdf)). _Reflections on what architecture is and what an architect does in just 2.5 page._
 
 
+### Technical Debt
+
+1. Sunny Beatteay. [From 15,000 database connections to under 100: DigitalOcean's tale of tech debt](https://www.digitalocean.com/blog/from-15-000-database-connections-to-under-100-digitaloceans-tale-of-tech-debt).  Digital Ocean engineering blog, January 2020. _Wonderful story about Digital Ocean's step by step replacement of a critical legacy table that served as a queue by a proper event-driven architecture._
+
+
 
 [aosabook]: http://aosabook.org/en/index.html
 [lsa]: http://www.leansoftwarearchitecture.com/
