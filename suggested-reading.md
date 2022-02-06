@@ -25,7 +25,9 @@ This is a living list -- if there is a resource you are particularly enthusiasti
 
 1. Sam Newman. [Building Microservices](https://samnewman.io/books/building_microservices_2nd_edition/), 2nd edition. O'Reilly, 2021. _Everything you always wanted to know about micro-services, including a people's perspective_.
 
-1. Shaw, Mary, and David Garlan. [An Introduction to Software Architecture](https://userweb.cs.txstate.edu/~rp31/papers/intro_softarch.pdf), in V.Ambriola and G.Tortora (editors) _Advances in Software Engineering and Knowledge Engineering_, Volume I, World Scientific Publishing Company, New Jersey, 1993. _An early book that helped defined and popularize software architecture as a discipline. Funded through a DARPA grant, it's openly available online._
+1. Mark Richards and Neal Ford. [Fundamentals of Software Architecture](https://fundamentalsofsoftwarearchitecture.com/). O'Reilly, 2020. _Lots of classical software architecture concepts, including metrics, architectural characteristics, and architectural styles, mixed with practical experience from the authors. Rich collection of patterns, each with 1-5 start rating for the various characteristics._
+
+1. Shaw, Mary, and David Garlan. [An Introduction to Software Architecture](https://userweb.cs.txstate.edu/~rp31/papers/intro_softarch.pdf), in V.Ambriola and G.Tortora (editors) _Advances in Software Engineering and Knowledge Engineering_, Volume I, World Scientific Publishing Company, New Jersey, 1993. _An early book that helped define and popularize software architecture as a discipline. Funded through a DARPA grant, it's openly available online._
 
 1. Bass, Len, Paul Clements, and Rick Kazman. _Software architecture in practice_. Fourth Edition.  Upper Saddle River, NJ: Addison-Wesley, 2022. _A popular textbook on software architecture, now in its fourth edition. It covers in depth the quality attributes presented in the "Architecting for Quality" lecture._
 
