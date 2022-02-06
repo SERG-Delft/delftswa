@@ -36,7 +36,7 @@ There are typically 3-4 lectures for each of the three components (theory, pract
 
 Since architecture is team work, students work in teams in this course as well. The team size is four.
 
-Each team selects an open source system (from GitHub or other forges). Teams conduct an in depth study of the architecture of the system they picked, looking at it from different (theoretical) perspectives. The student findings are collected in various _essays_, each of around 1,000 words. Each team is expected to deliver four essays. The specific essays vary per year, but relate to  _what_, _how_, and _who_ of the system and to various quality attributes relevant for the systems under study.
+Each team selects an open source system (from GitHub or other forges). Teams conduct an in depth study of the architecture of the system they picked, looking at it from different (theoretical) perspectives. The student findings are collected in various _essays_ (blog posts). The specific essays vary per year, but relate to  _what_, _how_, and _who_ of the system and to various quality attributes relevant for the systems under study.
 
 Students are encouraged to share their essays publicly: To that end, the course offers an on line "book" where student essays are collected and made available, under the overarching title _Delft Students on Software Architecture_ (DESOSA).
 This book series was inspired by Brown and Wilson's _Architecture of Open Source Applications_ (AOSA) [^aosa2012], in which architects themselves explain the history and roadmaps of software applications, and the architecctural decisions made to realize these.
