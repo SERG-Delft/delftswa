@@ -3,8 +3,6 @@ title: "Software Architecture in 2022"
 layout: tud
 ---
 
-{% include construction_warning.html %}
-
 Schedule and material for the 2022 edition of IN4315, the TU Delft [Software Architecture](../index.html) course.
 
 **Note:** This course is being taught during the Omikron COVID19 wave taking place in The Netherlands. The course will be hybrid in setup. As many activities as possible will be set up on campus, with online fall back mechansims.
@@ -110,6 +108,12 @@ You can watch our progress (for essays made public) at the [DESOSA 2022][desosa2
 
 [desosa2022]: https://desosa2022.netlify.app
 
+## Coaches
+
+Each team is assigned a _coach_. 
+The coach is there to help the team, answer questions, and give feedback on progress, the setup of the essays, and the contributions.
+Each team organizes a 30 minute session with the coach in weeks 2, 4, and 6.
+For these sessions, the team prepares a short presentation on the current status and plans for the next weeks.
 
 
 ## Deadlines
@@ -124,6 +128,7 @@ Mon Mar 14 | 17:00 | Team essay 2       | Pull request midway report| Essay 1   
 Mon Mar 21 | 17:00 | Team essay 3       |                           | Essay 2   |
 Mon Mar 28 | 17:00 | Team essay 4       |                           |           |
 Tue Mar 29 | 17:00 |                    |                           |           | Poster/video/slides
+Wed Mar 30 |       |                    |                           |           | **Presentation day!**
 Mon Apr  5 | 17:00 | Small improvements | Pull request report       | Essay 3+4 |
 
 <br/>
