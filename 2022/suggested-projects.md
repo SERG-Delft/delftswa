@@ -3,8 +3,6 @@ layout: tud
 title: Suggested projects
 ---
 
-{% include construction_warning.html %}
-
 _Non-exclusive list of potential open source projects to study._
 <br/>
 <br/>
@@ -22,14 +20,6 @@ _Non-exclusive list of potential open source projects to study._
 | [React Native](https://reactnative.dev/) | [https://github.com/facebook/react-native](https://github.com/facebook/react-native) | UI software framework | Diomidis Spinellis
 | [SIMH](http://simh.trailing-edge.com/) | [https://github.com/simh/simh](https://github.com/simh/simh) | Portable multi-system emulator | Diomidis Spinellis
 | [Sonic Pi](https://sonic-pi.net/) | [https://github.com/sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) | Live (music) coding | Diomidis Spinellis
-
-
-<br/>
-
-<!-- list from last year -->
-
-| Project | GitHub URL | Remarks | Proposed by |
-|--|--|--|--|
 | [Hugo](https://gohugo.io) | [https://github.com/gohugoio/hugo](https://github.com/gohugoio/hugo) | Variability | Xavier Devroey
 | Scaphandre | [https://github.com/hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) | Energy | Luís Cruz
 | Sitespeed | [https://github.com/sitespeedio/sitespeed.io](https://github.com/sitespeedio/sitespeed.io) | | Luís Cruz
@@ -45,7 +35,6 @@ _Non-exclusive list of potential open source projects to study._
 | Akka | [https://github.com/akka/akka](https://github.com/akka/akka) | Distribution | Burcu Kulahcioglu Ozkan
 | AntidoteDB | [https://github.com/AntidoteDB/antidote](https://github.com/AntidoteDB/antidote) | Distribution | Burcu Kulahcioglu Ozkan
 | Stellar | [https://github.com/stellar](https://github.com/stellar) | Distribution | Burcu Kulahcioglu Ozkan
-| CoronaMelder | [https://github.com/minvws](https://github.com/minvws) | Dutch Covid19 Notification App | Arie van Deursen
 | Covid Tools | [http://jgbarah.github.io/Notes/foss-covid-tools.html](http://jgbarah.github.io/Notes/foss-covid-tools.html) | Find your favorite | Arie van Deursen
 | Egeria | [https://github.com/odpi/egeria](https://github.com/odpi/egeria) | ING | Arie van Deursen
 | [Near](https://near.org) | [https://github.com/near/nearcore](https://github.com/near/nearcore) | Smart contracts | Arie van Deursen |
