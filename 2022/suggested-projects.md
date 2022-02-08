@@ -13,6 +13,7 @@ You can also look at:
 
 | Project | GitHub URL | Remarks | Proposed by |
 |--|--|--|--|
+| [Agda](https://wiki.portal.chalmers.se/agda/pmwiki.php) | [https://github.com/agda/agda](https://github.com/agda/agda) | Type theory, theorem prover | Jesper Cockx |
 | [Express.js](https://expressjs.com/) | [https://github.com/expressjs/express](https://github.com/expressjs/express) | Back-end web application framework for Node.js | Diomidis Spinellis
 | [Freeplane](https://www.freeplane.org/) | [https://github.com/freeplane/freeplane](https://github.com/freeplane/freeplane) | Mind map editor | Diomidis Spinellis
 | [Ghidra](https://www.nsa.gov/ghidra) | [https://github.com/NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | Security, decompilation | Arie van Deursen
