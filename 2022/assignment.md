@@ -3,7 +3,6 @@ title: "Assignment 2021"
 layout: tud-toc
 ---
 
-{% include construction_warning.html %}
 
 ## Getting Started
 
