@@ -26,7 +26,6 @@ _Non-exclusive list of potential open source projects to study._
 | Akka | [https://github.com/akka/akka](https://github.com/akka/akka) | Distribution | Burcu Kulahcioglu Ozkan
 | AntidoteDB | [https://github.com/AntidoteDB/antidote](https://github.com/AntidoteDB/antidote) | Distribution | Burcu Kulahcioglu Ozkan
 | Audacity | [https://github.com/audacity/audacity](https://github.com/audacity/audacity) | Audio Editor | Diomidis Spinellis
-| CleverHans |  [https://github.com/cleverhans-lab/cleverhans](https://github.com/cleverhans-lab/cleverhans) | Adversarial Attacks on NNs | Leonhard Applis
 | Covid Tools | [http://jgbarah.github.io/Notes/foss-covid-tools.html](http://jgbarah.github.io/Notes/foss-covid-tools.html) | Find your favorite | Arie van Deursen
 | DOSBox-X | [https://github.com/joncampbell123/dosbox-x](https://github.com/joncampbell123/dosbox-x) | | Diomidis Spinellis
 | Egeria | [https://github.com/odpi/egeria](https://github.com/odpi/egeria) | ING | Arie van Deursen
@@ -40,6 +39,6 @@ _Non-exclusive list of potential open source projects to study._
 | Sitespeed | [https://github.com/sitespeedio/sitespeed.io](https://github.com/sitespeedio/sitespeed.io) | | Luís Cruz
 | Spack | [https://github.com/spack/spack](https://github.com/spack/spack) | Dependency management | Arie van Deursen |
 | Stellar | [https://github.com/stellar](https://github.com/stellar) | Distribution | Burcu Kulahcioglu Ozkan
-| Timescale DB | [https://github.com/timescale/timescaledb](https://github.com/timescale/timescaledb)] | | Luís Cruz
+| Timescale DB | [https://github.com/timescale/timescaledb](https://github.com/timescale/timescaledb) | | Luís Cruz
 | Wireshark | [https://gitlab.com/wireshark/wireshark](https://gitlab.com/wireshark/wireshark) | | Diomidis Spinellis
 
