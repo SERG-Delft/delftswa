@@ -4,7 +4,10 @@ title: Suggested projects
 ---
 
 Below is a non-exclusive list of potential open source projects to study.
-You can also consider inspecting some of the projects that participated in the [GitHub Hacktober Fest](https://github.com/topics/hacktoberfest).
+You can also look at:
+
+- the projects that participated in the [GitHub Hacktober Fest](https://github.com/topics/hacktoberfest).
+- [up-for-grabs](https://up-for-grabs.net/#/): a list of projects which have curated tasks specifically for new contributors
 <br/>
 <br/>
 
