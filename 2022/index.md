@@ -36,7 +36,7 @@ Furthermore, there will be several lecturers from industry.
 
 <a id="schedule"></a>
 
-## Course Schedule
+## Course Schedule (Tentative)
 
 The course will be taught in _hybrid_ mode:
 
