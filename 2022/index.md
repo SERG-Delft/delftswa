@@ -62,7 +62,7 @@ Wed Feb  9 | 13:45 | 15:30 | Lecture  1 | Arie van Deursen         | Introductio
 Fri Feb 11 | 08:45 | 10:30 | Lecture  2 | Arie van Deursen         | Envisioning the System
 Wed Feb 16 | 13:45 | 15:30 | Lecture  3 | Diomidis Spinellis       | Architecting for Quality
 Fri Feb 18 | 08:45 | 10:30 | Lecture  4 | Diomidis Spinellis       | Architecting for Scale
-Wed Feb 23 | 13:45 | 15:30 | Lecture  5 | _No lecture_             | _(no room available?)_
+Wed Feb 23 | 13:45 | 15:30 | Lecture  5 | TBD                      | TBD
 Fri Feb 25 | 08:45 | 10:30 | Lecture  6 | Arie van Deursen         | Architecting for Configurability
 Wed Mar 2  | 13:45 | 15:30 | Lecture  7 | Diomidis Spinellis       | 50 years of Unix Architecture Evolution |
 Fri Mar 4  | 08:45 | 10:30 | Lecture  8 | [Pinar Kahraman][pinar] (ING)     | AI Ops and Analytics (tentative) |
