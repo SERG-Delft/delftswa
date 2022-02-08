@@ -3,7 +3,8 @@ layout: tud
 title: Suggested projects
 ---
 
-_Non-exclusive list of potential open source projects to study._
+Below is a non-exclusive list of potential open source projects to study.
+You can also consider inspecting some of the projects that participated in the [GitHub Hacktober Fest](https://github.com/topics/hacktoberfest).
 <br/>
 <br/>
 
