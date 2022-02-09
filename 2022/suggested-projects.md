@@ -28,6 +28,7 @@ You can also look at:
 | [Node.js](https://nodejs.org/) | [https://github.com/nodejs/node](https://github.com/nodejs/node) | Back-end JavaScript runtime environment | Diomidis Spinellis
 | [Pharo](https://pharo.org) | [https://github.com/pharo-project/pharo](https://github.com/pharo-project/pharo) | If your'e into SmallTalk | Guille Polito |
 | [PodMan](https://podman.io/) | [https://github.com/containers/podman](https://github.com/containers/podman) | The New Docker | Arie van Deursen
+| [Prettier](https://prettier.io/) | [https://github.com/prettier/prettier](https://github.com/prettier/prettier) | Opiniated Code Formatter | Tim van der Lippe 
 | [Processing](https://processing.org/) | [https://github.com/processing/](https://github.com/processing/) | Programming language geared toward visual arts | Diomidis Spinellis
 | [React Native](https://reactnative.dev/) | [https://github.com/facebook/react-native](https://github.com/facebook/react-native) | UI software framework | Diomidis Spinellis
 | [Rust Analyzer](https://rust-analyzer.github.io) | [https://github.com/rust-analyzer/rust-analyzer](https://github.com/rust-analyzer/rust-analyzer) | Program analysis | Arie van Deursen
