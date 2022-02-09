@@ -18,9 +18,6 @@ This is a living list -- if there is a resource you are particularly enthusiasti
 1. Jim Coplien and Gertrud Bjørnvig. [Lean Architecture][lsa]. Wiley, 2010.
   _A book targeting smaller teams, with a strong focus on delivering (customer) value_.
 
-1. Nick Rozanski and Eoin Woods. [Software Systems Architecture: Working with Stakeholders Using Viewpoints and Perspectives][views]. Addison-Wesley, 2012, 2nd edition.
-  _A somewhat abstract book, yet based on years of experience of the authors in an enterprise setting. Perhaps more of a reference than a book to study cover to cover, but full of useful views, perspectives, and patterns._
-
 1. Gregor Hohpe. [The Software Architect Elevator](https://architectelevator.com/book/). O'Reilly, 2020. _Argues that the successful architect should easily navigate between "engine room" (in the basement) and the boardroom (at the top of the sky scraper). Book based on years of experience from the trenches. Don't miss Hohpe's [50 min. techtalk](https://www.youtube.com/watch?v=Zq2VcRZmz78) summarizing the key points of this book. See also the summary on [Martin Fowler's bliki](https://martinfowler.com/articles/architect-elevator.html). Hohpe also has an "[architect's bookshelf](https://architectelevator.com/architecture/architect-bookshelf/) with recommendations for almost 20 books._
 
 1. Sam Newman. [Building Microservices](https://samnewman.io/books/building_microservices_2nd_edition/), 2nd edition. O'Reilly, 2021. _Everything you always wanted to know about micro-services, including a people's perspective_.
@@ -38,6 +35,17 @@ This is a living list -- if there is a resource you are particularly enthusiasti
 1. Schmidt, Douglas C., Michael Stal, Hans Rohnert, and Frank Buschmann. [_Pattern-oriented software architecture Volume 2: Patterns for concurrent and networked objects_](https://en.wikipedia.org/wiki/Pattern-Oriented_Software_Architecture#POSA2). John Wiley & Sons, 2013. _Second volume of the POSA series. This one deals with patterns that have become important in modern web-based, mobile, and IoT applications._
 
 1. Buschmann, Frank, Kevlin Henney, and Douglas C. Schmidt. [_Pattern-oriented software architecture Volume 5: On patterns and pattern languages_](https://en.wikipedia.org/wiki/Pattern-Oriented_Software_Architecture#POSA5). John Wiley & Sons, 2007. _This fifth volume of the POSA series is introspective in nature, addressing the question of what a pattern language is and comparing pattern paradigms, including pattern compounds, pattern complements, pattern collections, pattern stories, and pattern sequences._
+
+1. Richard N. Taylor, Nenad Medvidović, and Eric M. Dashofy. [Software Architecture: Foundations, Theory, and Practice](https://www.wiley.com/en-us/Software+Architecture%3A+Foundations%2C+Theory%2C+and+Practice-p-9780470167748). Wiley, 2009. _Solid 700 page coverage of classical software architecture, including styles, connectors, Architecture Description Languages (ADLs), adaptation, and domain-specific software engineering._
+
+### Documenting Software Architectures
+
+1. Peter Hruschka and Gernot Starke. arc42: Effective, lean and pragmatic architecture documentation and communication. [https://docs.arc42.org/home/](https://docs.arc42.org/home/). _Highly practical collection of 143 tips and 33 examples on how to document architectures. Grouped into 12 main categories ('arc42 templates'), varying from context and stakeholders to runtime and deployment views._
+
+1. Nick Rozanski and Eoin Woods. [Software Systems Architecture: Working with Stakeholders Using Viewpoints and Perspectives][views]. Addison-Wesley, 2012, 2nd edition.
+  _A somewhat abstract book, yet based on years of experience of the authors in an enterprise setting. Perhaps more of a reference than a book to study cover to cover, but full of useful views, perspectives, and patterns._
+
+
 
 ### The Role of the Architect
 
