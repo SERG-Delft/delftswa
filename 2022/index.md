@@ -128,7 +128,7 @@ Mon Mar 21 | 17:00 | Team essay 3       |                           | Essay 2   
 Mon Mar 28 | 17:00 | Team essay 4       |                           |           |
 Tue Mar 29 | 17:00 |                    |                           |           | Poster/video/slides
 Wed Mar 30 |       |                    |                           |           | **Presentation day!**
-Mon Apr  5 | 17:00 | Small improvements | Pull request report       | Essay 3+4 |
+Mon Apr  4 | 17:00 | Small improvements | Pull request report       | Essay 3+4 |
 
 <br/>
 
