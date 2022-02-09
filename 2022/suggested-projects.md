@@ -16,6 +16,7 @@ You can also look at:
 | Project | GitHub URL | Remarks | Proposed by |
 |--|--|--|--|
 | [Agda](https://wiki.portal.chalmers.se/agda/pmwiki.php) | [https://github.com/agda/agda](https://github.com/agda/agda) | Type theory, theorem prover | Jesper Cockx |
+| [Backstage](https://backstage.io/) | [https://github.com/backstage/backstage](https://github.com/backstage/backstage) | Building Dev Portals | Chris Langhout |
 | [DuckDB](https://duckdb.org) | [https://github.com/duckdb/duckdb](https://github.com/duckdb/duckdb) | In-process SQL OLAP DB | Arjen de Vries |
 | [Express.js](https://expressjs.com/) | [https://github.com/expressjs/express](https://github.com/expressjs/express) | Back-end web application framework for Node.js | Diomidis Spinellis
 | [Freeplane](https://www.freeplane.org/) | [https://github.com/freeplane/freeplane](https://github.com/freeplane/freeplane) | Mind map editor | Diomidis Spinellis
