@@ -8,6 +8,8 @@ You can also look at:
 
 - the projects that participated in the [GitHub Hacktober Fest](https://github.com/topics/hacktoberfest).
 - [up-for-grabs](https://up-for-grabs.net/#/): a list of projects which have curated tasks specifically for new contributors
+- answers to a [question on Twitter](https://twitter.com/avandeursen/status/1491146678539550720) asking for suitable systems.
+
 <br/>
 <br/>
 
