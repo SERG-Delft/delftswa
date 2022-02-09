@@ -28,6 +28,7 @@ You can also look at:
 | [Netdata](https://www.netdata.cloud/) | [https://github.com/netdata/netdata](https://github.com/netdata/netdata) | Real time OS metrics display | Diomidis Spinellis
 | [Near](https://near.org) | [https://github.com/near/nearcore](https://github.com/near/nearcore) | Smart contracts | Arie van Deursen |
 | [Node.js](https://nodejs.org/) | [https://github.com/nodejs/node](https://github.com/nodejs/node) | Back-end JavaScript runtime environment | Diomidis Spinellis
+| [Open Metadata](https://open-metadata.org/) | [https://github.com/open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) | Standard for Meta Data | Anil Kumar
 | [Pharo](https://pharo.org) | [https://github.com/pharo-project/pharo](https://github.com/pharo-project/pharo) | If your'e into SmallTalk | Guille Polito |
 | [PodMan](https://podman.io/) | [https://github.com/containers/podman](https://github.com/containers/podman) | The New Docker | Arie van Deursen
 | [Prettier](https://prettier.io/) | [https://github.com/prettier/prettier](https://github.com/prettier/prettier) | Opiniated Code Formatter | Tim van der Lippe 
