@@ -55,9 +55,9 @@ and [Pulse Hall 1] (final presentations).
 [Pulse Hall 1]: https://esviewer.tudelft.nl/space/164/
 [queue]: https://queue.tudelft.nl/edition/338/labs
 
-Date       | Start | End   | Activity   | Teacher              | Topic | Slides | Video
------------|-------|-------|------------|----------------------|---|
-Wed Feb  9 | 13:45 | 15:30 | Lecture  1 | Arie van Deursen         | Introduction and Course Structure 
+Date       | Start | End   | Activity   | Teacher                  | Topic                                  | Slides | Video
+-----------|-------|-------|------------|--------------------------|----------------------------------------|
+Wed Feb  9 | 13:45 | 15:30 | Lecture  1 | Arie van Deursen         | Introduction and Course Structure      | [pdf](slides/lecture1-overview.pdf) |
 Fri Feb 11 | 08:45 | 10:30 | Lecture  2 | Arie van Deursen         | Envisioning the System (E1, E2)
 Wed Feb 16 | 13:45 | 15:30 | Lecture  3 | Diomidis Spinellis       | Architecting for Quality (E3)
 Fri Feb 18 | 08:45 | 10:30 | Lecture  4 | Diomidis Spinellis       | Architecting for Scale (E4)
