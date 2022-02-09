@@ -28,6 +28,7 @@ You can also look at:
 | [React Native](https://reactnative.dev/) | [https://github.com/facebook/react-native](https://github.com/facebook/react-native) | UI software framework | Diomidis Spinellis
 | [Rust Analyzer](https://rust-analyzer.github.io) | [https://github.com/rust-analyzer/rust-analyzer](https://github.com/rust-analyzer/rust-analyzer) | Program analysis | Arie van Deursen
 | [SIMH](http://simh.trailing-edge.com/) | [https://github.com/simh/simh](https://github.com/simh/simh) | Portable multi-system emulator | Diomidis Spinellis
+| [Serenity OS](https://serenityos.org) | [https://github.com/SerenityOS/serenity](https://github.com/SerenityOS/serenity) | Retro OS experience | Brian Gianforcaro |
 | [Sonic Pi](https://sonic-pi.net/) | [https://github.com/sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) | Live (music) coding | Diomidis Spinellis
 | Akka | [https://github.com/akka/akka](https://github.com/akka/akka) | Distribution | Burcu Kulahcioglu Ozkan
 | AntidoteDB | [https://github.com/AntidoteDB/antidote](https://github.com/AntidoteDB/antidote) | Distribution | Burcu Kulahcioglu Ozkan
