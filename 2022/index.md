@@ -57,7 +57,7 @@ and [Pulse Hall 1] (final presentations).
 
 Date       | Start | End   | Activity   | Teacher                  | Topic                                  | Slides | Video
 -----------|-------|-------|------------|--------------------------|----------------------------------------|
-Wed Feb  9 | 13:45 | 15:30 | Lecture  1 | Arie van Deursen         | Introduction and Course Structure      | [pdf](slides/lecture1-overview.pdf) |
+Wed Feb  9 | 13:45 | 15:30 | Lecture  1 | Arie van Deursen         | Introduction and Course Structure      | [pdf][pdf1] | [zoom][zoom1] |
 Fri Feb 11 | 08:45 | 10:30 | Lecture  2 | Arie van Deursen         | Envisioning the System (E1, E2)
 Wed Feb 16 | 13:45 | 15:30 | Lecture  3 | Diomidis Spinellis       | Architecting for Quality (E3)
 Fri Feb 18 | 08:45 | 10:30 | Lecture  4 | Diomidis Spinellis       | Architecting for Scale (E4)
@@ -72,6 +72,9 @@ Fri Mar 18 | 08:45 | 10:30 | Lecture 12 | VistaPrint               | Architectin
 Wed Mar 23 | 13:45 | 15:30 | Lecture 13 | TBD
 Fri Mar 25 | 08:45 | 10:30 | Lecture 14 | TBD
 **Wed** Mar 30 | **08:45** | **17:30** | Finale | All students | Final presentations
+
+[pdf1]: slides/lecture1-overview.pdf
+[zoom1]: https://tudelft.zoom.us/rec/share/6x9NVPs1aIw7YQY6vRp-CwK-EXLwaHPVXcA4SEoyyYJQwLuEcfc4BfRBLIbT8MgZ.K5QkaERqRHRiTuIs
 
 
 [efe]: https://nl.linkedin.com/in/efekocabas
