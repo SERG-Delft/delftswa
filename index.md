@@ -53,11 +53,13 @@ Furthermore, teams make actual changes to the systems under study, for example b
     [2017][desosa2017][^desosa2017], 
     [2018][desosa2018][^desosa2018], 
     [2019][desosa2019][^desosa2019],
-    [2020][desosa2020][^desosa2020]
+    [2020][desosa2020][^desosa2020],
+    [2021][desosa2020][^desosa2021]
 - 2017: Publication at ACM SIGCSE describing the course[^sigcse2017]: A Collaborative Approach to Teaching Software Architecture. SIGCSE 2017: 591-596
 - 2013: Blog post describing the 2013 edition of the course[^blog2013], [Teaching Software Architecture with GitHub!](https://avandeursen.com/2013/12/30/teaching-software-architecture-with-github/)
 - Course descriptions for earlier editions: [2019](https://se.ewi.tudelft.nl/delftswa2019/), [2020](2020/index.html)
 
+[desosa2021]: https://2021.desosa.nl
 [desosa2020]: https://desosa.nl
 [desosa2019]: https://se.ewi.tudelft.nl/desosa2019/
 [desosa2018]: https://pure.tudelft.nl/portal/en/publications/delft-students-on-software-architecture-desosa-2018(f0ae92bb-bbf4-49a7-a8dc-ef52ebc9018c).html
@@ -126,3 +128,8 @@ Earlier editions were co-taught with and inspired by a range of people, includin
     [research.tudelft.nl](https://research.tudelft.nl/en/publications/delft-students-on-software-architecture-desosa-2020),
     [pdf](https://se.ewi.tudelft.nl/delftswa/books/desosa2020.pdf), and
     [epub](https://se.ewi.tudelft.nl/delftswa/books/desosa2020.epub)
+
+[^desosa2021]: Arie van Deursen, Casper Boone, and Shipra Sharma (editors).
+    Delft Students on Software Architecture: DESOSA 2021. TU Delft.
+    Available via
+    [2021.desosa.nl](https://2021.desosa.nl/).
