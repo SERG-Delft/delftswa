@@ -55,10 +55,10 @@ and [Pulse Hall 1] (final presentations).
 [Pulse Hall 1]: https://esviewer.tudelft.nl/space/164/
 [queue]: https://queue.tudelft.nl/edition/338/labs
 
-Date       | Start | End   | Activity   | Teacher                  | Topic                                  | Slides | Video
------------|-------|-------|------------|--------------------------|----------------------------------------|
-Wed Feb  9 | 13:45 | 15:30 | Lecture  1 | Arie van Deursen         | Introduction and Course Structure      | [pdf][pdf1] | [zoom][zoom1] |
-Fri Feb 11 | 08:45 | 10:30 | Lecture  2 | Arie van Deursen         | Envisioning the System (E1, E2)        | [pdf][pdf2] | 
+Date       | Start | End   | Activity   | Teacher                  | Topic                                  | Slides      | Video
+-----------|-------|-------|------------|--------------------------|----------------------------------------|-------------|----------------|
+Wed Feb  9 | 13:45 | 15:30 | Lecture  1 | Arie van Deursen         | Introduction and Course Structure      | [pdf][pdf1] | [video][zoom1] |
+Fri Feb 11 | 08:45 | 10:30 | Lecture  2 | Arie van Deursen         | Envisioning the System (E1, E2)        | [pdf][pdf2] | [video][zoom2] |
 Wed Feb 16 | 13:45 | 15:30 | Lecture  3 | Diomidis Spinellis       | Architecting for Quality (E3)
 Fri Feb 18 | 08:45 | 10:30 | Lecture  4 | Diomidis Spinellis       | Architecting for Scale (E4)
 Wed Feb 23 | 13:45 | 15:30 | Lecture  5 | Arie van Deursen         | Realizing the System (E2 cont.)
@@ -76,6 +76,7 @@ Fri Mar 25 | 08:45 | 10:30 | Lecture 14 | TBD
 [pdf1]: slides/lecture1-overview.pdf
 [pdf2]: slides/lecture2-envisioning-the-product.pdf
 [zoom1]: https://tudelft.zoom.us/rec/share/6x9NVPs1aIw7YQY6vRp-CwK-EXLwaHPVXcA4SEoyyYJQwLuEcfc4BfRBLIbT8MgZ.K5QkaERqRHRiTuIs
+[zoom2]: https://tudelft.zoom.us/rec/share/-rXtXRetktrtO08YSDNZQnSifHHkO2hUzxQVBWXaRDBu8kBmtDgK5ke3EU9l3bIo.HHUEwNQq9RRoV2Kb
 
 
 [efe]: https://nl.linkedin.com/in/efekocabas
