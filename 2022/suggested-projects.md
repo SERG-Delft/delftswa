@@ -24,7 +24,6 @@ You can also look at:
 | [Hugo](https://gohugo.io) | [https://github.com/gohugoio/hugo](https://github.com/gohugoio/hugo) | Variability | Xavier Devroey
 | [Log4J2](https://logging.apache.org/log4j/2.x/) | [https://github.com/apache/logging-log4j2](https://github.com/apache/logging-log4j2) | Security, performance | Arie van Deursen
 | [Mattermost](https://mattermost.com) | [https://github.com/mattermost](https://github.com/mattermost) | Collaboration | Zef Hemel
-| [MuseScore](https://musescore.org/en) | [https://github.com/musescore/MuseScore](https://github.com/musescore/MuseScore) | Music composition and notation | Diomidis Spinellis
 | [Netdata](https://www.netdata.cloud/) | [https://github.com/netdata/netdata](https://github.com/netdata/netdata) | Real time OS metrics display | Diomidis Spinellis
 | [Near](https://near.org) | [https://github.com/near/nearcore](https://github.com/near/nearcore) | Smart contracts | Arie van Deursen |
 | [Node.js](https://nodejs.org/) | [https://github.com/nodejs/node](https://github.com/nodejs/node) | Back-end JavaScript runtime environment | Diomidis Spinellis
