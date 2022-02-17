@@ -55,7 +55,7 @@ After your project choice is approved, you will be granted [access to the GitLab
 
 ### Getting Access to GitLab for Writing
 
-All team members will get access to a shared [GitLab][gitlab-desosa] repository hosting the sources of DESOSA 2021.
+All team members will get access to a shared [GitLab][gitlab-desosa] repository hosting the sources of DESOSA 2022.
 
 Within this repository, each team will have one dedicated project sub-folder to work in.
 Teams should only add changes to their own sub-folder (`./content/projects/<projectname>`).
@@ -108,14 +108,15 @@ Your essays will be evaluated based on the following:
 
 The intended audience for the essays consists of computer science students or software engineers, interested in learning about architectural aspects of your open source project.
 
-A [publicly visible blog][desosa2021] is available through which teams can publish their essays. We are publishing the essays throughout the course (and not just all at once after the course). We will use the blog to engage with and share our work with the open source community. Published essays (blog posts) will carry a [CC BY-SA 4.0] license, allowing the open source projects to include the resulting posts in their own documentation.
+A [publicly visible blog][desosa2022] is available through which teams can publish their essays. We are publishing the essays throughout the course (and not just all at once after the course). We will use the blog to engage with and share our work with the open source community. Published essays (blog posts) will carry a [CC BY-SA 4.0] license, allowing the open source projects to include the resulting posts in their own documentation.
 You can decide yourself which posts you want to make public by means of [simple meta-data flag][gitlab-desosa-consent] in your Hugo markdown document.
 
 [Dan Heller]: https://medium.com/@daniel.heller/ten-principles-for-growth-69015e08c35b
 [Markdown Word Count]: https://github.com/gandreadis/markdown-word-count
 [cc by-sa 4.0]: https://creativecommons.org/licenses/by-sa/4.0/legalcode
 [desosa2021]: https://2021.desosa.nl/
-[gitlab-desosa-consent]: https://gitlab.ewi.tudelft.nl/in4315/2020-2021/desosa2021#consent-to-publish-publicly
+[desosa2022]: https://desosa2022.netlify.app/
+[gitlab-desosa-consent]: https://gitlab.ewi.tudelft.nl/in4315/2021-2022/desosa2022#consent-to-publish-publicly
 
 
 <a id="vision"></a>
@@ -268,7 +269,7 @@ Once you are ready to submit your essay, please follow the following steps:
     
     _Note:_ This only needs to be done once per team.
 
-[gitlab-desosa-pdf]: https://gitlab.ewi.tudelft.nl/in4315/2020-2021/desosa2021#pdf
+[gitlab-desosa-pdf]: https://gitlab.ewi.tudelft.nl/in4315/2021-2022/desosa2022#pdf
 [peer]: https://peer.tudelft.nl/
 
 <a id="contributions"></a>
@@ -303,7 +304,7 @@ Pull requests will be graded, based on the following criteria:
 
 While your aim is of course that the pull request gets merged, the merge itself is not part of the grade.
 
-[gitlab-desosa-contributions]: https://gitlab.ewi.tudelft.nl/in4315/2020-2021/desosa2021#contributions
+[gitlab-desosa-contributions]: https://gitlab.ewi.tudelft.nl/in4315/2021-2022/desosa2022#contributions
 
 
 <a id="journals"></a>
@@ -350,7 +351,7 @@ See the [DESOSA README][gitlab-desosa-videos] for full instructions on how to ad
 You can indicate whether you want your video to be public.
 Both should be done _before_ the deadline of the presentation video.
 
-[gitlab-desosa-videos]: https://gitlab.ewi.tudelft.nl/in4315/2020-2021/desosa2021#videos
+[gitlab-desosa-videos]: https://gitlab.ewi.tudelft.nl/in4315/2021-2022/desosa2022#videos
 
 
 #### Presentation Day
