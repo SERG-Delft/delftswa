@@ -57,6 +57,15 @@ This is a living list -- if there is a resource you are particularly enthusiasti
 1. Sunny Beatteay. [From 15,000 database connections to under 100: DigitalOcean's tale of tech debt](https://www.digitalocean.com/blog/from-15-000-database-connections-to-under-100-digitaloceans-tale-of-tech-debt).  Digital Ocean engineering blog, January 2020. _Wonderful story about Digital Ocean's step by step replacement of a critical legacy table that served as a queue by a proper event-driven architecture._
 
 
+### Making Open Source Contributions
+
+1. GitHub (curator). How to Contribute to Open Source. [https://opensource.guide/how-to-contribute/](https://opensource.guide/how-to-contribute/).
+
+1. Vi Tran, 2020. The Beginner’s Guide to Open Source. [https://newrelic.com/blog/best-practices/open-source_gettingstarted](https://newrelic.com/blog/best-practices/open-source_gettingstarted)
+
+1. Chris Beams, 2014. How to Write a Git Commit Message. [https://cbea.ms/git-commit/](https://cbea.ms/git-commit/).
+
+
 
 [aosabook]: http://aosabook.org/en/index.html
 [lsa]: http://www.leansoftwarearchitecture.com/
