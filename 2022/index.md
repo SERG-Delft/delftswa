@@ -61,17 +61,17 @@ Wed Feb  9 | 13:45 | 15:30 | Lecture  1 | Arie van Deursen         | Introductio
 Fri Feb 11 | 08:45 | 10:30 | Lecture  2 | Arie van Deursen         | Envisioning the System (E1, E2)        | [pdf][pdf2] | [video][zoom2] |
 Wed Feb 16 | 13:45 | 15:30 | Lecture  3 | Diomidis Spinellis       | Architecting for Quality (E3)          | [pdf][pdf3] | [video][zoom3] |
 Fri Feb 18 | 08:45 | 10:30 | Lecture  4 | Diomidis Spinellis       | Architecting for Scale (E4)            | [pdf][pdf4] | [video][zoom4] |
-Wed Feb 23 | 13:45 | 15:30 | Lecture  5 | Arie van Deursen         | Realizing the System (E2 cont.)
-Fri Feb 25 | 08:45 | 10:30 | Lecture  6 | Arie van Deursen         | Architecting for Configurability
+Wed Feb 23 | 13:45 | 15:30 | Lecture  5 | Arie van Deursen         | Realizing the System (E2 cont.)        |
+Fri Feb 25 | 08:45 | 10:30 | Lecture  6 | Arie van Deursen         | Architecting for Configurability       |
 Wed Mar 2  | 13:45 | 15:30 | Lecture  7 | Diomidis Spinellis       | 50 years of Unix Architecture Evolution |
 Fri Mar 4  | 08:45 | 10:30 | Lecture  8 | TBD                      | TBD |
 Wed Mar 9  | 13:45 | 15:30 | Lecture  9 | TBD                      | TBD |
 Fri Mar 11 | 08:45 | 10:30 | Lecture 10 | [Lukas Vermeer][lukas], [Kevin Anderson][kevin] | Architecting for Experimentation |
-Wed Mar 16 | 13:45 | 15:30 | Lecture 11 | [Maurício], [Efe], [Thinus], [Arthur] | Architecture at [Adyen] |
-Fri Mar 18 | 08:45 | 10:30 | Lecture 12 | TBD                      | TBD |
-Wed Mar 23 | 13:45 | 15:30 | Lecture 13 | [Pinar Kahraman][pinar] (ING)     | AI Ops and Analytics
-Fri Mar 25 | 08:45 | 10:30 | Lecture 14 | TBD
-**Wed** Mar 30 | **08:45** | **17:30** | Finale | All students | Final presentations
+Wed Mar 16 | 13:45 | 15:30 | Lecture 11 | [Maurício], [Efe], [Thinus], [Arthur] | Architecture at [Adyen]   |
+Fri Mar 18 | 08:45 | 10:30 | Lecture 12 | [Pinar Kahraman][pinar] (ING)         | AI Ops and Analytics      |
+Wed Mar 23 | 13:45 | 15:30 | Lecture 13 | TBD                      | TBD                                    |
+Fri Mar 25 | 08:45 | 10:30 | Lecture 14 | TBD                      | TBD                                    |
+**Wed** Mar 30 | **08:45** | **17:30** | Finale | All students     | Final presentations
 
 [pdf1]: slides/lecture1-overview.pdf
 [pdf2]: slides/lecture2-envisioning-the-product.pdf
