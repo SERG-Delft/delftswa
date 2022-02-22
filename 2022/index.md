@@ -16,7 +16,7 @@ The 2021 teaching team consists of:
 
 - Responsbile professors: [Arie van Deursen][arie] and [Diomidis Spinellis][diomidis]
 - Teaching assistants: [Raoul Kalisvaart][raoul] and [Erik Sennema][erik]
-- Student coaches: [Leonhard Applis][leonhard], [Zoe Kotti](https://www.balab.aueb.gr/zoe-kotti.html), [Lorena Poenaru-Olaru][lorena], [Thodoris Sotiropoulos](https://theosotr.github.io) as well as the teachers and teaching assistants.
+- Student coaches: [Ali Al-Kaswan][ali], [Leonhard Applis][leonhard], [Zoe Kotti](https://www.balab.aueb.gr/zoe-kotti.html), [Lorena Poenaru-Olaru][lorena], [Stefan Petrescu][stefan], [Thodoris Sotiropoulos](https://theosotr.github.io) as well as the teachers and teaching assistants.
 
 [diomidis]: https://www.spinellis.gr
 [casper]: https://github.com/casperboone
@@ -25,6 +25,8 @@ The 2021 teaching team consists of:
 [arie]: https://avandeursen.com/
 [raoul]: https://github.com/RaoulKalisvaart
 [erik]: https://github.com/eriksennema
+[stefan]: https://nl.linkedin.com/in/spetrescu
+[ali]: https://nl.linkedin.com/in/aalkaswan
 
 Furthermore, there will be several lecturers from industry.
 
@@ -120,7 +122,7 @@ You can watch our progress (for essays made public) at the [DESOSA 2022][desosa2
 
 Each team is assigned a _coach_. 
 The coach is there to help the team, answer questions, and give feedback on progress, the setup of the essays, and the contributions.
-Each team organizes a 30 minute session with the coach in weeks 2, 4, and 6.
+Each team organizes two to three 30 minute sessions with the coach during weeks 3-7 of the course.
 For these sessions, the team prepares a short presentation on the current status and plans for the next weeks.
 
 
