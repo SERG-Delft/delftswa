@@ -38,13 +38,13 @@ Furthermore, there will be several lecturers from industry.
 
 <a id="schedule"></a>
 
-## Course Schedule (Tentative)
+## Course Schedule
 
 The course will be taught in _hybrid_ mode:
 
-- Lectures will be on campus with a limited capacity of at most 75. Students who enrolled via the [Queue System][queue] can participate in first come first served base, with a maximum of 75.
+- Lectures will be on campus ~~with a limited capacity of at most 75. Students who enrolled via the [Queue System][queue] can participate in first come first served base, with a maximum of 75~~.
 
-- Lectures will be streamed as well -- details will be made available on Mattermost. We will also do our best to record the stream.
+- Lectures will also be streamed via Zoom -- details will be made available on Mattermost. We will also do our best to record the stream. Remote students can participate via the chat.
 
 Lecture rooms include
 [EWI Boole] (Wednesday),
@@ -65,10 +65,9 @@ Wed Feb 16 | 13:45 | 15:30 | Lecture  3 | Diomidis Spinellis       | Architectin
 Fri Feb 18 | 08:45 | 10:30 | Lecture  4 | Diomidis Spinellis       | Architecting for Scale (E4)            | [pdf][pdf4] | [video][zoom4] |
 Wed Feb 23 | 13:45 | 15:30 | Lecture  5 | Arie van Deursen         | Views and Beyond (E2 cont.)            | [pdf][pdf5] | [video][zoom5] |
 Fri Feb 25 | 08:45 | 10:30 | Lecture  6 | _No lecture_             | **NO LECTURE**                          |
-Wed Mar 2  | 13:45 | 15:30 | Lecture  7 | Diomidis Spinellis       | 50 years of Unix Architecture Evolution |
+Wed Mar 2  | 13:45 | 15:30 | Lecture  7 | Diomidis Spinellis       | 50 years of Unix Architecture Evolution |            | [video][zoom7] |
 Fri Mar 4  | 08:45 | 10:30 | Lecture  8 | Arie van Deursen         | Architecting for Configurability |
-Wed Mar 9  | 13:45 | 14:30 | Lecture  9 | Mattermost (tentative)   | The Team / open source / AMA  |
-           | 14:45 | 15:30 | Lecture  9 | [Engin Bozdag][engin] (Uber) | Architecting for Privacy / AMA |
+Wed Mar 9  | **14:45** | 15:30 | Lecture  9 | [Engin Bozdag][engin] (Uber) | Architecting for Privacy / AMA |
 Fri Mar 11 | 08:45 | 10:30 | Lecture 10 | [Lukas Vermeer][lukas], [Kevin Anderson][kevin] | Architecting for Experimentation |
 Wed Mar 16 | 13:45 | 15:30 | Lecture 11 | [Maurício], [Efe], [Thinus], [Arthur] | Architecture at [Adyen]   |
 Fri Mar 18 | 08:45 | 10:30 | Lecture 12 | [Pinar Kahraman][pinar] (ING)         | AI Ops and Analytics      |
@@ -87,6 +86,7 @@ Fri Mar 25 | 08:45 | 10:30 | Lecture 14 | TBD                      | TBD        
 [zoom3]: https://tudelft.zoom.us/rec/share/1XDEWFAiuPjbLDzlalqRiK581ZZeM08ZmYL5kI4eyuSaMqs5os2q-odX-qTdK60.434e2Vxun4M-tfMl
 [zoom4]: https://tudelft.zoom.us/rec/share/oFSUhqF2M3xREmjRFcnBAFoEGBNsrYbFGrT9VlZaxykf3pW0di3RuZNyL7-bOVdE.qsz5RJ0zQMaiIaDl
 [zoom5]: https://tudelft.zoom.us/rec/share/t7Tp5-K0XEcB_ewn_lbrPHng1260AGnbu-9-WCuP0rKygYd_PzS4BSeLh-nultee.cCsFfa8_vcerospd
+[zoom7]: https://tudelft.zoom.us/rec/share/rfOaKtewWEeGLQdR8IlCJj9SEnmsKcaMqJKv7tyfLs4tXi497pwDrxsu4dWkViNB.R1KTB5QmUs1UMPrx
 
 [efe]: https://nl.linkedin.com/in/efekocabas
 [arthur]: https://nl.linkedin.com/in/arthur-breurkes-5a954a106
