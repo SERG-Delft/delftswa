@@ -72,7 +72,7 @@ Fri Mar 11 | 08:45 | 10:30 | Lecture 10 | [Lukas Vermeer][lukas], [Kevin Anderso
 Wed Mar 16 | 13:45 | 15:30 | Lecture 11 | [Maurício], [Efe], [Thinus], [Arthur] | Architecture at [Adyen]   |
 Fri Mar 18 | 08:45 | 10:30 | Lecture 12 | [Pinar Kahraman][pinar] (ING)         | AI Ops and Analytics      |
 Wed Mar 23 | 13:45 | 15:30 | Lecture 13 | TBD                      | TBD                                    |
-Fri Mar 25 | 08:45 | 10:30 | Lecture 14 | TBD                      | TBD                                    |
+Fri Mar 25 | 08:45 | 10:30 | Lecture 14 | _No lecture_             | **NO LECTURE**                         |
 **Wed** Mar 30 | **08:45** | **17:30** | Finale | All students     | Final presentations
 
 [pdf1]: slides/lecture1-overview.pdf
