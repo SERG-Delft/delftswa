@@ -67,7 +67,7 @@ Wed Feb 23 | 13:45 | 15:30 | Lecture  5 | Arie van Deursen         | Views and B
 Fri Feb 25 | 08:45 | 10:30 | Lecture  6 | _No lecture_             | **NO LECTURE**                         |
 Wed Mar 2  | 13:45 | 15:30 | Lecture  7 | Diomidis Spinellis       | 50 years of Unix Architecture Evolution | [pdf][pdf7] | [video][zoom7] |
 Fri Mar 4  | 08:45 | 10:30 | Lecture  8 | Arie van Deursen         | Configurability and Change             | [pdf][pdf8] | [video][zoom8] |
-Wed Mar 9  | **14:45** | 15:30 | Lecture  9 | [Engin Bozdag][engin] (Uber) | Architecting for Privacy / AMA |
+Wed Mar 9  | **14:45** | 15:30 | Lecture  9 | [Engin Bozdag][engin] (Uber) | Architecting for Privacy / AMA | [pdf][pdf9] | [video][zoom9] |
 Fri Mar 11 | 08:45 | 10:30 | Lecture 10 | [Lukas Vermeer][lukas], [Kevin Anderson][kevin] | Architecting for Experimentation |
 Wed Mar 16 | 13:45 | 15:30 | Lecture 11 | [Maurício], [Efe], [Thinus], [Arthur] | Architecture at [Adyen]   |
 Fri Mar 18 | 08:45 | 10:30 | Lecture 12 | [Pinar Kahraman][pinar] (ING)         | AI Ops and Analytics      |
@@ -82,6 +82,7 @@ Fri Mar 25 | 08:45 | 10:30 | Lecture 14 | _No lecture_             | **NO LECTUR
 [pdf5]: slides/lecture5-synthesis.pdf
 [pdf7]: ../2021/slides/unix-arch-evolution-v5.pdf
 [pdf8]: slides/lecture8-wrapup.pdf
+[pdf9]: slides/privacy-architecture-uber.pdf
 
 [zoom1]: https://tudelft.zoom.us/rec/share/6x9NVPs1aIw7YQY6vRp-CwK-EXLwaHPVXcA4SEoyyYJQwLuEcfc4BfRBLIbT8MgZ.K5QkaERqRHRiTuIs
 [zoom2]: https://tudelft.zoom.us/rec/share/-rXtXRetktrtO08YSDNZQnSifHHkO2hUzxQVBWXaRDBu8kBmtDgK5ke3EU9l3bIo.HHUEwNQq9RRoV2Kb
@@ -90,6 +91,7 @@ Fri Mar 25 | 08:45 | 10:30 | Lecture 14 | _No lecture_             | **NO LECTUR
 [zoom5]: https://tudelft.zoom.us/rec/share/t7Tp5-K0XEcB_ewn_lbrPHng1260AGnbu-9-WCuP0rKygYd_PzS4BSeLh-nultee.cCsFfa8_vcerospd
 [zoom7]: https://tudelft.zoom.us/rec/share/rfOaKtewWEeGLQdR8IlCJj9SEnmsKcaMqJKv7tyfLs4tXi497pwDrxsu4dWkViNB.R1KTB5QmUs1UMPrx
 [zoom8]: https://tudelft.zoom.us/rec/share/6iAj8nrBHbqUCF8ScLPtEt6KIK7oj1BlQd4Oyogn-LrSdO72-E_Gwh4UvS-BRCam.Vel9qBhY45EheNz7
+[zoom9]: https://tudelft.zoom.us/rec/share/RhipCC44updMsCkxFtVXztDM76eYtZVEVBm95UHjRzwYLwgKPWEXvzjViR3o7zKH.7lr5sJHZQQscaeoy
 
 [efe]: https://nl.linkedin.com/in/efekocabas
 [arthur]: https://nl.linkedin.com/in/arthur-breurkes-5a954a106
