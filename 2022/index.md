@@ -68,9 +68,9 @@ Fri Feb 25 | 08:45 | 10:30 | Lecture  6 | _No lecture_             | **NO LECTUR
 Wed Mar 2  | 13:45 | 15:30 | Lecture  7 | Diomidis Spinellis       | 50 years of Unix Architecture Evolution | [pdf][pdf7] | [video][zoom7] |
 Fri Mar 4  | 08:45 | 10:30 | Lecture  8 | Arie van Deursen         | Configurability and Change             | [pdf][pdf8] | [video][zoom8] |
 Wed Mar 9  | **14:45** | 15:30 | Lecture  9 | [Engin Bozdag][engin] (Uber) | Architecting for Privacy / AMA | [pdf][pdf9] | [video][zoom9] |
-Fri Mar 11 | 08:45 | 10:30 | Lecture 10 | [Lukas Vermeer][lukas], [Kevin Anderson][kevin] | Architecting for Experimentation |
-Wed Mar 16 | 13:45 | 15:30 | Lecture 11 | [Maurício], [Efe], [Thinus], [Arthur] | Architecture at [Adyen]   |
-Fri Mar 18 | 08:45 | 10:30 | Lecture 12 | [Pinar Kahraman][pinar] (ING)         | AI Ops and Analytics      |
+Fri Mar 11 | 08:45 | 10:30 | Lecture 10 | [Lukas Vermeer][lukas], [Kevin Anderson][kevin] (Vistaprint) | Architecting for Experimentation | | [video][zoom10] |
+Wed Mar 16 | 13:45 | 15:30 | Lecture 11 | [Efe Kocabaş], [Thinus Naude], [Arthur Breurkes] | Architecture at [Adyen]   | | [video][zoom11]
+Fri Mar 18 | 08:45 | 10:30 | Lecture 12 | [Pinar Kahraman][pinar] and Oscar Caraballo (ING)         | AI Ops and Analytics      |
 Wed Mar 23 | 13:45 | 15:30 | Lecture 13 | TBD                      | TBD                                    |
 Fri Mar 25 | 08:45 | 10:30 | Lecture 14 | _No lecture_             | **NO LECTURE**                         |
 **Wed** Mar 30 | **08:45** | **17:30** | Finale | All students     | Final presentations
@@ -92,10 +92,12 @@ Fri Mar 25 | 08:45 | 10:30 | Lecture 14 | _No lecture_             | **NO LECTUR
 [zoom7]: https://tudelft.zoom.us/rec/share/rfOaKtewWEeGLQdR8IlCJj9SEnmsKcaMqJKv7tyfLs4tXi497pwDrxsu4dWkViNB.R1KTB5QmUs1UMPrx
 [zoom8]: https://tudelft.zoom.us/rec/share/6iAj8nrBHbqUCF8ScLPtEt6KIK7oj1BlQd4Oyogn-LrSdO72-E_Gwh4UvS-BRCam.Vel9qBhY45EheNz7
 [zoom9]: https://tudelft.zoom.us/rec/share/RhipCC44updMsCkxFtVXztDM76eYtZVEVBm95UHjRzwYLwgKPWEXvzjViR3o7zKH.7lr5sJHZQQscaeoy
+[zoom10]: https://tudelft.zoom.us/rec/share/J6px9IbGgCAuWCPZA9HZny0KaZENM9ZYT7WLB4rFEVuTeM2pTEro3JQlWtQVAsjm.3tF9hSPxPOY7HCU9
+[zoom11]: https://tudelft.zoom.us/rec/share/hhdwepMoaNv1ae0g5X9yHOjkdGuRw-RS1oEs1UvcBUnunnS7YxYhw3ho0cLAmdAn.DZE-slWj9OSJDs0U
 
-[efe]: https://nl.linkedin.com/in/efekocabas
-[arthur]: https://nl.linkedin.com/in/arthur-breurkes-5a954a106
-[thinus]: https://nl.linkedin.com/in/thinus-naude
+[efe Kocabaş]: https://nl.linkedin.com/in/efekocabas
+[arthur breurkes]: https://nl.linkedin.com/in/arthur-breurkes-5a954a106
+[thinus naude]: https://nl.linkedin.com/in/thinus-naude
 [maurício]: https://www.mauricioaniche.com/
 
 [lukas]: https://www.lukasvermeer.nl/
