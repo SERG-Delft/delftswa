@@ -330,16 +330,17 @@ For each week, also include _the number of hours you spent that week on the soft
 
 <a id="videos"></a>
 
-### Final Presentation
+### Final Presentations
 
 #### Video
 
-The course will be concluded with an online presentation day. To that end each team prepares a 10 minute video highlighting their work. 
+Each team prepares a 10 minute video highlighting their work. 
+The videos will be linked from the DESOSA site.
 
 The primary audience for this video is your fellow students who also followed this course.
 Furthermore, try to make the video of interest to current or future contributors of the open source system you analyzed.
 
-Aspects you can cover in your video include the purpose of the system (essay 1), the underlying architecture (essay 2), the quality assurance process (essay 3), as well as your choice of topic for essay 4.
+Aspects you can cover in your video include the purpose of the system (essay 1), the underlying architecture (essay 2), the quality assurance process (essay 3), and scalability (essay 4).
 As it is impossible to cover everything you did, please focus on what sets your system apart from many other systems -- the key thing other students in this course should learn about your system.
 
 In terms of video style, feel free to use your full creativity.
@@ -348,35 +349,51 @@ If possible, try to make it clear that the video is _team_ work, by letting all 
 
 You should upload your video as a (unlisted or public) YouTube video, and add the URL to your project page on the DESOSA website.
 See the [DESOSA README][gitlab-desosa-videos] for full instructions on how to add the video.
-You can indicate whether you want your video to be public.
-Both should be done _before_ the deadline of the presentation video.
+Again, you can indicate yourselves whether you want your video to be public.
+Uploading and setting the URL should be done _before_ the deadline of the presentation video.
 
 [gitlab-desosa-videos]: https://gitlab.ewi.tudelft.nl/in4315/2021-2022/desosa2022#videos
 
 
 #### Presentation Day
 
-During presentation day, we will create six _sessions_ of approximately two hours.
-Sessions will start at 10:00, 12:30, and 15:00, in two parallel tracks (in two separate Zoom calls).
+The presentation day is entirely **on campus**.
 
-For each team, there will be 20 minutes. During the first 10 minutes the team's video will be shown.
-During the second 10 minutes there will be Q&A. All four team members must be present, and should be involved in answering questions.
+The groups will be divided in four sessions: Two in parallel in the morning (sessions A1 and B1) and two in parallel in the afternoon (sessions A2 and B2). Each session will include 9-10 presentations by student teams and will take the full morning or the full afternoon.
+The teachers will create a schedule assigning each team to one session.
 
-Each team is expected to join the full (two hour) session during which their own video is shown and discussed,
-and participate actively in the discussions of the other four teams in the same session.
+For each team, there will be 20 minutes consisting of 10 minutes of presentation and 10 minutes of Q&A.
 
-Furthermore, individual students are welcome to join any other session and participate in the Q&A (but this is not compulsory).
+The presentation can follow the story line of the video. It is also OK to show some highlights from the video like a demo of the system in action. Just showing the full video without any live presentation is _not_ permitted.
+All four team members must be present, and _all_ should be involved in answering questions.
+
+All team members of all 9-10 teams of one session are expected to attend that full session.
+You are encouraged to ask questions to other students during the Q&A.
+Furthermore, we will distribute a form via which every student will give feedback on every other team in their session.
+
+If you're interested, you're also welcome to attend additional sessions, but this is not compulsory.
+
+
+#### Absence due to Illness
+
+As we are still in Corona times, some students may be sick making it impossible to attend the Presentation Day.
+If you're sick proceed as follows:
+
+1. Inform the teachers as well as the academic counsellor upfront indicating you are sick during an exam.
+2. As an alternative assignment you will be required to provide written feedback for the videos for the session your team was assigned to.
+3. You need to hand in this assignment before April 4, 17:00.
+4. If your recovery takes longer than that you will again have to contact the academic counsellor and teachers to find a solution for this.
+
+Absence due to scheduling conflicts with other exams is not permitted: What we can do instead is resolve the conflict by swapping the presentation from a morning to an afternoon session (or the other way around). If this applies to you let the teachers now as soon as possible.
 
 
 #### Grading
 
-Students should fill in a form for each of the four presentations and Q&A sessions they participate in.
+Teams will receive a grade for presentations and Q&A.
+In each session 1-2 teachers will participate, who will give feedback to the teams.
+Furthermore, students will fill in a form for each of the four presentations and Q&A sessions they participate in.
 This form will distinguish content depth, presentation style, and the handling of questions.
-
-In each session 1-2 teachers will participate, who will also grade the teams.
-
-The Q&A sessions including the chat will be recorded.
-
+Based on these inputs, the teachers will determine the presentation grade.
 
 
 ## References

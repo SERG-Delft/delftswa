@@ -15,7 +15,7 @@ Schedule and material for the 2022 edition of IN4315, the TU Delft [Software Arc
 The 2021 teaching team consists of:
 
 - Responsbile professors: [Arie van Deursen][arie] and [Diomidis Spinellis][diomidis]
-- Teaching assistants: [Raoul Kalisvaart][raoul] and [Erik Sennema][erik]
+- Teaching assistants: [Raoul Kalisvaart][raoul] and [Erik Sennema][erik], and [Bilal El Attar][bilal]
 - Student coaches: [Ali Al-Kaswan][ali], [Leonhard Applis][leonhard], [Zoe Kotti](https://www.balab.aueb.gr/zoe-kotti.html), [Lorena Poenaru-Olaru][lorena], [Stefan Petrescu][stefan], [Thodoris Sotiropoulos](https://theosotr.github.io) as well as the teachers and teaching assistants.
 
 [diomidis]: https://www.spinellis.gr
@@ -27,6 +27,7 @@ The 2021 teaching team consists of:
 [erik]: https://github.com/eriksennema
 [stefan]: https://nl.linkedin.com/in/spetrescu
 [ali]: https://nl.linkedin.com/in/aalkaswan
+[bilal]: https://nl.linkedin.com/in/bilal-el-attar-a07636142
 
 Furthermore, there will be several lecturers from industry.
 
@@ -48,13 +49,17 @@ The course will be taught in _hybrid_ mode:
 
 Lecture rooms include
 [EWI Boole] (Wednesday),
-[EWI Pi] (Friday),
-and [Pulse Hall 1] (final presentations).
+and
+[EWI Pi] (Friday).
+Final presentations will take place in ~~[Pulse Hall 1]~~ lecture halls [AE D] and [AE F] (both in the Faculty of Aerospace Engineering).
+
 
 [EWI Boole]: https://esviewer.tudelft.nl/space/50/
 [EWI Pi]: https://esviewer.tudelft.nl/space/53/
 [3mE-CZ B]: https://esviewer.tudelft.nl/space/6/
 [Pulse Hall 1]: https://esviewer.tudelft.nl/space/164/
+[AE D]: https://esviewer.tudelft.nl/space/69
+[AE F]: https://esviewer.tudelft.nl/space/71
 [queue]: https://queue.tudelft.nl/edition/338/labs
 
 Date       | Start | End   | Activity   | Teacher                  | Topic                                  | Slides      | Video
@@ -120,7 +125,7 @@ Team work includes:
     3. an assessment of [quality and (potential) technical debt](assignment.html#quality); and
     4. a [scalability study](assignment.html#scalability) identifying possible scalability issues and proposing architectural changes to address them.
 3. [Contributing changes](assignment.html#contributions) to the open source system selected (via pull requests submitted on GitHub)
-4. Preparing a final video/presentation/poster summarizing the key results, and answering questions about it.
+4. Preparing a final video and presentation ~~(and poster)~~ summarizing the key results, and answering questions about it.
 5. Reviewing work from other teams, to learn from them, and to give them feedback
 
 The four essays can build upon each other, but should be independently readable.
@@ -148,7 +153,7 @@ Mon Mar  7 | 17:00 | Team essay 1       |                           |           
 Mon Mar 14 | 17:00 | Team essay 2       | Pull request midway report| Essay 1   |
 Mon Mar 21 | 17:00 | Team essay 3       |                           | Essay 2   |
 Mon Mar 28 | 17:00 | Team essay 4       |                           |           |
-Tue Mar 29 | 17:00 |                    |                           |           | Poster/video/slides
+Tue Mar 29 | 17:00 |                    |                           |           | ~~Poster/slides/~~video
 Wed Mar 30 |       |                    |                           |           | **Presentation day!**
 Mon Apr  4 | 17:00 | Small improvements | Pull request report       | Essay 3+4 |
 
